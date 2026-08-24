@@ -1,0 +1,1002 @@
+[
+  {
+    "q": "Which came first on television: 'I Love Lucy' or 'The Brady Bunch'?",
+    "choices": [
+      "The Brady Bunch",
+      "I Love Lucy"
+    ],
+    "answer": 1,
+    "fact": "Lucy came first, in 1951. The Bradys did not move in until 1969.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Ed Sullivan Show' or 'Sesame Street'?",
+    "choices": [
+      "Sesame Street",
+      "The Ed Sullivan Show"
+    ],
+    "answer": 1,
+    "fact": "Ed Sullivan started in 1948. Big Bird did not turn up until 1969.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Honeymooners' or 'The Waltons'?",
+    "choices": [
+      "The Waltons",
+      "The Honeymooners"
+    ],
+    "answer": 1,
+    "fact": "Ralph and Alice had their own show in 1955. The Waltons arrived in 1972.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Howdy Doody' or 'Gilligan's Island'?",
+    "choices": [
+      "Howdy Doody",
+      "Gilligan's Island"
+    ],
+    "answer": 0,
+    "fact": "Howdy Doody said hello in 1947. The castaways set sail in 1964.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Tonight Show' or 'Happy Days'?",
+    "choices": [
+      "The Tonight Show",
+      "Happy Days"
+    ],
+    "answer": 0,
+    "fact": "Steve Allen hosted the very first Tonight Show in 1954. Fonzie came in 1974.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Dragnet' or 'The Mary Tyler Moore Show'?",
+    "choices": [
+      "Mary Tyler Moore",
+      "Dragnet"
+    ],
+    "answer": 1,
+    "fact": "Dragnet hit television in 1951. Mary tossed her hat in the air in 1970.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Lassie' or 'Little House on the Prairie'?",
+    "choices": [
+      "Little House",
+      "Lassie"
+    ],
+    "answer": 1,
+    "fact": "Lassie started fetching help in 1954, a full twenty years before Little House.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Lone Ranger' on TV or 'Star Trek'?",
+    "choices": [
+      "The Lone Ranger",
+      "Star Trek"
+    ],
+    "answer": 0,
+    "fact": "The masked man rode onto TV in 1949. The Enterprise launched in 1966.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Captain Kangaroo' or 'The Muppet Show'?",
+    "choices": [
+      "Captain Kangaroo",
+      "The Muppet Show"
+    ],
+    "answer": 0,
+    "fact": "The Captain opened his treasure house in 1955, twenty-one years before Kermit.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Father Knows Best' or 'The Partridge Family'?",
+    "choices": [
+      "Father Knows Best",
+      "The Partridge Family"
+    ],
+    "answer": 0,
+    "fact": "Robert Young came to TV in 1954. The Partridges boarded their bus in 1970.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Twilight Zone' or 'Sanford and Son'?",
+    "choices": [
+      "Sanford and Son",
+      "The Twilight Zone"
+    ],
+    "answer": 1,
+    "fact": "Rod Serling opened that door in 1959. Fred Sanford opened his junkyard in 1972.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Leave It to Beaver' or 'Three's Company'?",
+    "choices": [
+      "Leave It to Beaver",
+      "Three's Company"
+    ],
+    "answer": 0,
+    "fact": "The Beaver showed up in 1957, a good twenty years ahead of Three's Company.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'American Bandstand' or 'Soul Train'?",
+    "choices": [
+      "Soul Train",
+      "American Bandstand"
+    ],
+    "answer": 1,
+    "fact": "Dick Clark went national in 1957. Soul Train pulled in nationally in 1971.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'Bonanza' or 'Good Times'?",
+    "choices": [
+      "Good Times",
+      "Bonanza"
+    ],
+    "answer": 1,
+    "fact": "The Cartwrights rode in during 1959. Good Times arrived in 1974.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which came first: 'The Andy Griffith Show' or 'The Love Boat'?",
+    "choices": [
+      "The Love Boat",
+      "The Andy Griffith Show"
+    ],
+    "answer": 1,
+    "fact": "Mayberry opened up in 1960. The Love Boat set sail seventeen years later.",
+    "cat": "TV"
+  },
+  {
+    "q": "Which movie came first: 'The Wizard of Oz' or 'The Sound of Music'?",
+    "choices": [
+      "The Wizard of Oz",
+      "The Sound of Music"
+    ],
+    "answer": 0,
+    "fact": "Dorothy skipped down the yellow brick road in 1939, Maria sang in 1965.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Gone with the Wind' or 'Mary Poppins'?",
+    "choices": [
+      "Gone with the Wind",
+      "Mary Poppins"
+    ],
+    "answer": 0,
+    "fact": "Scarlett came first, in 1939. Mary floated down with her umbrella in 1964.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Casablanca' or 'West Side Story'?",
+    "choices": [
+      "West Side Story",
+      "Casablanca"
+    ],
+    "answer": 1,
+    "fact": "Bogart and Bergman met in 1942. West Side Story danced in nineteen years later.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Snow White' or 'Cinderella'?",
+    "choices": [
+      "Cinderella",
+      "Snow White"
+    ],
+    "answer": 1,
+    "fact": "Snow White was Disney's first full-length cartoon, in 1937. Cinderella came in 1950.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Fantasia' or '101 Dalmatians'?",
+    "choices": [
+      "101 Dalmatians",
+      "Fantasia"
+    ],
+    "answer": 1,
+    "fact": "Fantasia's dancing hippos arrived in 1940, the puppies in 1961.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Singin' in the Rain' or 'Grease'?",
+    "choices": [
+      "Singin' in the Rain",
+      "Grease"
+    ],
+    "answer": 0,
+    "fact": "Gene Kelly splashed through 1952. Grease did not open until 1978.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which came first: 'It's a Wonderful Life' or 'Breakfast at Tiffany's'?",
+    "choices": [
+      "It's a Wonderful Life",
+      "Breakfast at Tiffany's"
+    ],
+    "answer": 0,
+    "fact": "George Bailey got his wings in 1946. Audrey window-shopped in 1961.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Pinocchio' or 'Lady and the Tramp'?",
+    "choices": [
+      "Lady and the Tramp",
+      "Pinocchio"
+    ],
+    "answer": 1,
+    "fact": "Pinocchio wished on a star in 1940. The spaghetti dinner came in 1955.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which came first: 'Miracle on 34th Street' or 'My Fair Lady'?",
+    "choices": [
+      "Miracle on 34th Street",
+      "My Fair Lady"
+    ],
+    "answer": 0,
+    "fact": "Kris Kringle charmed the courtroom in 1947. Eliza reached Ascot in 1964.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Dumbo' or 'The Jungle Book'?",
+    "choices": [
+      "The Jungle Book",
+      "Dumbo"
+    ],
+    "answer": 1,
+    "fact": "Dumbo flew in 1941. Baloo sang about the bare necessities in 1967.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which came first: 'Some Like It Hot' or 'Willy Wonka'?",
+    "choices": [
+      "Some Like It Hot",
+      "Willy Wonka"
+    ],
+    "answer": 0,
+    "fact": "Marilyn's comedy arrived in 1959, a dozen years before the chocolate factory.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which movie came first: 'Bambi' or 'Sleeping Beauty'?",
+    "choices": [
+      "Sleeping Beauty",
+      "Bambi"
+    ],
+    "answer": 1,
+    "fact": "Bambi learned to walk in 1942. Sleeping Beauty woke up in 1959.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which came first: 'Meet Me in St. Louis' or 'Funny Girl'?",
+    "choices": [
+      "Funny Girl",
+      "Meet Me in St. Louis"
+    ],
+    "answer": 1,
+    "fact": "Judy Garland sang about that trolley in 1944. Barbra had her turn in 1968.",
+    "cat": "Movies"
+  },
+  {
+    "q": "Which came first: Glenn Miller's big band or the Beatles?",
+    "choices": [
+      "the Beatles",
+      "Glenn Miller's big band"
+    ],
+    "answer": 1,
+    "fact": "Glenn Miller had the whole country dancing in 1939, long before 1964.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: Frank Sinatra's rise to fame or Elvis Presley's first hit?",
+    "choices": [
+      "Frank Sinatra's rise",
+      "Elvis's first hit"
+    ],
+    "answer": 0,
+    "fact": "The bobby-soxers were swooning for Sinatra by 1943. Elvis broke through in 1956.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: 'God Bless America' or 'Jingle Bell Rock'?",
+    "choices": [
+      "God Bless America",
+      "Jingle Bell Rock"
+    ],
+    "answer": 0,
+    "fact": "Kate Smith sang God Bless America in 1938. Jingle Bell Rock came along in 1957.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: the 45 rpm record or the cassette tape?",
+    "choices": [
+      "the 45 rpm record",
+      "the cassette tape"
+    ],
+    "answer": 0,
+    "fact": "Little 45s arrived in 1949. Cassettes did not show up until 1963.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: Elvis Presley's first record or Elton John's first record?",
+    "choices": [
+      "Elton John's",
+      "Elvis Presley's"
+    ],
+    "answer": 1,
+    "fact": "Elvis first recorded in 1954. Elton John's debut came fifteen years later.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: Nat King Cole's 'Mona Lisa' or Elton John's 'Rocket Man'?",
+    "choices": [
+      "Rocket Man",
+      "Mona Lisa"
+    ],
+    "answer": 1,
+    "fact": "Nat King Cole's velvet voice charmed 1950. Rocket Man lifted off in 1972.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: the Grand Ole Opry radio show or the Beatles' first US visit?",
+    "choices": [
+      "the Beatles' US visit",
+      "the Grand Ole Opry"
+    ],
+    "answer": 1,
+    "fact": "The Opry started up in the 1920s, about forty years before Beatlemania.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: 'The Lawrence Welk Show' or 'The Sonny and Cher Comedy Hour'?",
+    "choices": [
+      "Lawrence Welk",
+      "Sonny and Cher"
+    ],
+    "answer": 0,
+    "fact": "Welk's bubbles started floating in 1955. Sonny and Cher came in 1971.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: the diner jukebox or the 8-track tape?",
+    "choices": [
+      "the jukebox",
+      "the 8-track tape"
+    ],
+    "answer": 0,
+    "fact": "Jukeboxes were glowing in every diner by the 1940s. 8-tracks arrived in 1965.",
+    "cat": "Music"
+  },
+  {
+    "q": "Which came first: the Model T Ford or the Volkswagen Beetle in America?",
+    "choices": [
+      "the Model T Ford",
+      "the VW Beetle"
+    ],
+    "answer": 0,
+    "fact": "The Model T rolled out in 1908. The Beetle reached American roads in 1949.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the hula hoop craze or the Rubik's Cube?",
+    "choices": [
+      "the Rubik's Cube",
+      "the hula hoop"
+    ],
+    "answer": 1,
+    "fact": "Hula hoops were spinning in 1958. The Rubik's Cube puzzled the world in 1980.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: TV dinners or the countertop microwave oven?",
+    "choices": [
+      "TV dinners",
+      "the microwave oven"
+    ],
+    "answer": 0,
+    "fact": "Swanson's TV dinners arrived in the early 1950s. Countertop microwaves came in 1967.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the Barbie doll or Star Wars toys?",
+    "choices": [
+      "Star Wars toys",
+      "the Barbie doll"
+    ],
+    "answer": 1,
+    "fact": "Barbie arrived in 1959, nearly twenty years before the Star Wars figures.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the drive-in movie theater or McDonald's golden arches?",
+    "choices": [
+      "the drive-in theater",
+      "McDonald's"
+    ],
+    "answer": 0,
+    "fact": "The first drive-in opened in 1933. The golden arches went up in 1955.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the pocket transistor radio or the Sony Walkman?",
+    "choices": [
+      "the transistor radio",
+      "the Sony Walkman"
+    ],
+    "answer": 0,
+    "fact": "Pocket radios arrived in 1954. The Walkman came a full twenty-five years later.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the Slinky or the Easy-Bake Oven?",
+    "choices": [
+      "the Easy-Bake Oven",
+      "the Slinky"
+    ],
+    "answer": 1,
+    "fact": "The Slinky walked down its first staircase in 1945, the little oven in 1963.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: Crayola crayons or Play-Doh?",
+    "choices": [
+      "Play-Doh",
+      "Crayola crayons"
+    ],
+    "answer": 1,
+    "fact": "Crayolas showed up in 1903. Play-Doh was not squished into cans until 1956.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the Kodak Brownie camera or the Polaroid instant camera?",
+    "choices": [
+      "the Polaroid",
+      "the Kodak Brownie"
+    ],
+    "answer": 1,
+    "fact": "The Brownie made snapshots easy in 1900. Polaroid's instant photos came in 1948.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: Disneyland in California or Walt Disney World in Florida?",
+    "choices": [
+      "Disneyland",
+      "Walt Disney World"
+    ],
+    "answer": 0,
+    "fact": "Disneyland opened in 1955. Florida's park did not open until 1971.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: the Oreo cookie or the Twinkie?",
+    "choices": [
+      "the Oreo",
+      "the Twinkie"
+    ],
+    "answer": 0,
+    "fact": "Oreos were first twisted apart in 1912. Twinkies came along in 1930.",
+    "cat": "Life"
+  },
+  {
+    "q": "Which came first: Shirley Temple's movies or the Beatles' records?",
+    "choices": [
+      "Shirley Temple's movies",
+      "the Beatles' records"
+    ],
+    "answer": 0,
+    "fact": "Shirley was tap-dancing across screens in the 1930s, thirty years ahead of the Beatles.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Charlie Chaplin's silent films or John Wayne's westerns?",
+    "choices": [
+      "John Wayne's westerns",
+      "Charlie Chaplin's films"
+    ],
+    "answer": 1,
+    "fact": "Chaplin's little tramp was already famous in the 1910s. Wayne's big year was 1939.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Judy Garland in 'The Wizard of Oz' or Julie Andrews in 'Mary Poppins'?",
+    "choices": [
+      "Judy Garland",
+      "Julie Andrews"
+    ],
+    "answer": 0,
+    "fact": "Judy sang in 1939. Julie snapped her fingers to tidy the nursery in 1964.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Lucille Ball's TV show or Carol Burnett's TV show?",
+    "choices": [
+      "Lucille Ball's",
+      "Carol Burnett's"
+    ],
+    "answer": 0,
+    "fact": "Lucy started in 1951. Carol began tugging her ear in 1967.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Bob Hope's radio show or Johnny Carson hosting 'Tonight'?",
+    "choices": [
+      "Johnny Carson",
+      "Bob Hope's radio show"
+    ],
+    "answer": 1,
+    "fact": "Bob Hope was on the radio by 1938. Johnny took over the Tonight Show in 1962.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Clark Gable in 'Gone with the Wind' or Sean Connery as James Bond?",
+    "choices": [
+      "Clark Gable",
+      "Sean Connery"
+    ],
+    "answer": 0,
+    "fact": "Gable had his big year in 1939. Connery ordered his first martini in 1962.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Which came first: Jack Benny on radio or 'The Dick Van Dyke Show'?",
+    "choices": [
+      "The Dick Van Dyke Show",
+      "Jack Benny on radio"
+    ],
+    "answer": 1,
+    "fact": "Jack Benny started his radio show in 1932, nearly thirty years before Rob Petrie.",
+    "cat": "Stars"
+  },
+  {
+    "q": "True or false: the milkman delivered bottles of milk right to the front door.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "fact": "He surely did, often before sunrise, and the empties went back out at night.",
+    "cat": "Life"
+  },
+  {
+    "q": "True or false: men first walked on the moon in 1969.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "fact": "July of 1969, and just about everybody watched it happen on television.",
+    "cat": "Life"
+  },
+  {
+    "q": "True or false: color television came along before black-and-white television.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "fact": "Black-and-white came first by a long stretch. Color arrived in the 1950s.",
+    "cat": "Life"
+  },
+  {
+    "q": "A jukebox played what: records or radio shows?",
+    "choices": [
+      "Records",
+      "Radio shows"
+    ],
+    "answer": 0,
+    "fact": "A nickel, a push of a button, and the arm swung your record into place.",
+    "cat": "Life"
+  },
+  {
+    "q": "At a drive-in movie, where did you watch from: your car or a folding chair?",
+    "choices": [
+      "Your car",
+      "A folding chair"
+    ],
+    "answer": 0,
+    "fact": "Speaker hooked on the window, popcorn on the dash, kids in pajamas in the back.",
+    "cat": "Life"
+  },
+  {
+    "q": "TV dinners came in what: an aluminum tray or a glass bowl?",
+    "choices": [
+      "An aluminum tray",
+      "A glass bowl"
+    ],
+    "answer": 0,
+    "fact": "Turkey in the big compartment, peas and cobbler in the little ones.",
+    "cat": "Life"
+  },
+  {
+    "q": "A party-line telephone was shared with whom: your neighbors or just your family?",
+    "choices": [
+      "Just your family",
+      "Your neighbors"
+    ],
+    "answer": 1,
+    "fact": "Everyone had their own ring pattern, and everyone listened in now and then.",
+    "cat": "Life"
+  },
+  {
+    "q": "S&H Green Stamps were saved by pasting them into what: books or jars?",
+    "choices": [
+      "Jars",
+      "Books"
+    ],
+    "answer": 1,
+    "fact": "Lick, paste, fill the book, then trade it in for a toaster. Pure satisfaction.",
+    "cat": "Life"
+  },
+  {
+    "q": "A transistor radio was famous for being what: pocket-sized or big as a cabinet?",
+    "choices": [
+      "Big as a cabinet",
+      "Pocket-sized"
+    ],
+    "answer": 1,
+    "fact": "You could carry your music to the beach for the first time. What a marvel.",
+    "cat": "Life"
+  },
+  {
+    "q": "A root beer float is root beer plus what: ice cream or whipped butter?",
+    "choices": [
+      "Ice cream",
+      "Whipped butter"
+    ],
+    "answer": 0,
+    "fact": "One scoop of vanilla, and the foam rises right up over the rim.",
+    "cat": "Life"
+  },
+  {
+    "q": "Children's roller skates in the 1950s: clamped onto your shoes or built into boots?",
+    "choices": [
+      "Built into boots",
+      "Clamped onto your shoes"
+    ],
+    "answer": 1,
+    "fact": "You wore the skate key on a string around your neck so you would not lose it.",
+    "cat": "Life"
+  },
+  {
+    "q": "To change channels on an early TV set, you turned what: a dial or a crank?",
+    "choices": [
+      "A dial",
+      "A crank"
+    ],
+    "answer": 0,
+    "fact": "It went ka-chunk, ka-chunk, and there were only a handful of channels anyway.",
+    "cat": "Life"
+  },
+  {
+    "q": "Rabbit ears on top of a television were what: an antenna or a decoration?",
+    "choices": [
+      "An antenna",
+      "A decoration"
+    ],
+    "answer": 0,
+    "fact": "And a bit of tinfoil on the tips worked wonders on a snowy picture.",
+    "cat": "Life"
+  },
+  {
+    "q": "The Slinky was famous for doing what: walking down stairs or floating?",
+    "choices": [
+      "Floating",
+      "Walking down stairs"
+    ],
+    "answer": 1,
+    "fact": "It was invented by accident when a spring fell off a shelf and kept going.",
+    "cat": "Life"
+  },
+  {
+    "q": "Cracker Jack boxes famously contained what: a small prize or a coupon?",
+    "choices": [
+      "A coupon",
+      "A small prize"
+    ],
+    "answer": 1,
+    "fact": "A tiny toy at the bottom of the box has delighted children since 1912.",
+    "cat": "Life"
+  },
+  {
+    "q": "A 45 rpm record held about how much music: one song per side or a whole album?",
+    "choices": [
+      "A whole album",
+      "One song per side"
+    ],
+    "answer": 1,
+    "fact": "That is why they were called singles, and why you needed the little plastic insert.",
+    "cat": "Life"
+  },
+  {
+    "q": "At a drive-in restaurant, carhops often served on what: roller skates or bicycles?",
+    "choices": [
+      "Roller skates",
+      "Bicycles"
+    ],
+    "answer": 0,
+    "fact": "Tray hooked right onto your window, and she never spilled a single milkshake.",
+    "cat": "Life"
+  },
+  {
+    "q": "The Sears Christmas catalog had what nickname: the Wish Book or the Toy Times?",
+    "choices": [
+      "The Wish Book",
+      "The Toy Times"
+    ],
+    "answer": 0,
+    "fact": "Children circled their favorites in pencil and left it open on the coffee table.",
+    "cat": "Life"
+  },
+  {
+    "q": "The colorful Sunday newspaper section was called what: the funnies or the classifieds?",
+    "choices": [
+      "The classifieds",
+      "The funnies"
+    ],
+    "answer": 1,
+    "fact": "Spread out on the living room floor, read comic by comic. A Sunday tradition.",
+    "cat": "Life"
+  },
+  {
+    "q": "Burma-Shave rhymes were read where: along the highway or in magazines?",
+    "choices": [
+      "In magazines",
+      "Along the highway"
+    ],
+    "answer": 1,
+    "fact": "Little red signs spaced out along the road, one line at a time, then the punchline.",
+    "cat": "Life"
+  },
+  {
+    "q": "A sock hop was a dance held where: in the school gym or at the library?",
+    "choices": [
+      "In the school gym",
+      "At the library"
+    ],
+    "answer": 0,
+    "fact": "Shoes came off to protect the gym floor, which is exactly how it got its name.",
+    "cat": "Life"
+  },
+  {
+    "q": "A poodle skirt was cut how: full and swingy or straight and narrow?",
+    "choices": [
+      "Full and swingy",
+      "Straight and narrow"
+    ],
+    "answer": 0,
+    "fact": "Felt, a big circle cut, and a little appliqued poodle on a rhinestone leash.",
+    "cat": "Life"
+  },
+  {
+    "q": "Tupperware was famously sold where: at home parties or at the county fair?",
+    "choices": [
+      "At the county fair",
+      "At home parties"
+    ],
+    "answer": 1,
+    "fact": "Coffee, cake, and that satisfying burp of the seal. A whole afternoon's fun.",
+    "cat": "Life"
+  },
+  {
+    "q": "On 'Howdy Doody,' Howdy was what: a puppet or a horse?",
+    "choices": [
+      "A puppet",
+      "A horse"
+    ],
+    "answer": 0,
+    "fact": "A freckled marionette, and the Peanut Gallery cheered him on every single day.",
+    "cat": "TV"
+  },
+  {
+    "q": "'The Lawrence Welk Show' was famous for what floating on screen: bubbles or feathers?",
+    "choices": [
+      "Feathers",
+      "Bubbles"
+    ],
+    "answer": 1,
+    "fact": "Wunnerful, wunnerful. The bubble machine was as much a star as the band.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'Captain Kangaroo,' the gardener friend was Mr. Green Jeans or Mr. Blue Suit?",
+    "choices": [
+      "Mr. Green Jeans",
+      "Mr. Blue Suit"
+    ],
+    "answer": 0,
+    "fact": "Hugh Brannum played him for nearly thirty years, always with an animal in tow.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'I Love Lucy,' Lucy's best friend and neighbor was named what: Ethel or Edith?",
+    "choices": [
+      "Ethel",
+      "Edith"
+    ],
+    "answer": 0,
+    "fact": "Vivian Vance played Ethel Mertz, and those two could get into any kind of trouble.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'The Honeymooners,' Ralph Kramden drove what for a living: a bus or a taxi?",
+    "choices": [
+      "A bus",
+      "A taxi"
+    ],
+    "answer": 0,
+    "fact": "He drove for the Gotham Bus Company, and Ed Norton worked down in the sewer.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'The Andy Griffith Show,' the town was called what: Mayberry or Maple Grove?",
+    "choices": [
+      "Maple Grove",
+      "Mayberry"
+    ],
+    "answer": 1,
+    "fact": "Mayberry, North Carolina, where the biggest crime was usually Otis letting himself in.",
+    "cat": "TV"
+  },
+  {
+    "q": "Mister Rogers began each show by putting on what: a cardigan sweater or a raincoat?",
+    "choices": [
+      "A raincoat",
+      "A cardigan sweater"
+    ],
+    "answer": 1,
+    "fact": "His mother knitted many of those sweaters herself. One hangs in a museum now.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'Gilligan's Island,' the boat trip was to last three hours or three weeks?",
+    "choices": [
+      "Three weeks",
+      "Three hours"
+    ],
+    "answer": 1,
+    "fact": "A three hour tour that somehow stretched out over three whole seasons.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'Bewitched,' Samantha worked her magic by twitching what: her nose or her ears?",
+    "choices": [
+      "Her nose",
+      "Her ears"
+    ],
+    "answer": 0,
+    "fact": "Elizabeth Montgomery actually wiggled her upper lip. The nose just came along for the ride.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'The Beverly Hillbillies,' the Clampetts moved to Beverly Hills or Palm Springs?",
+    "choices": [
+      "Palm Springs",
+      "Beverly Hills"
+    ],
+    "answer": 1,
+    "fact": "Swimming pools and movie stars, with the cement pond out back.",
+    "cat": "TV"
+  },
+  {
+    "q": "On 'Green Acres,' the couple moved which way: city to farm or farm to city?",
+    "choices": [
+      "Farm to city",
+      "City to farm"
+    ],
+    "answer": 1,
+    "fact": "Oliver wanted the farm, Lisa wanted Park Avenue, and Arnold the pig watched television.",
+    "cat": "TV"
+  },
+  {
+    "q": "Elvis Presley was known as the King of what: Rock and Roll or Country?",
+    "choices": [
+      "Rock and Roll",
+      "Country"
+    ],
+    "answer": 0,
+    "fact": "Though he loved gospel music best of all, and recorded plenty of it.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Frank Sinatra's nickname was what: Ol' Blue Eyes or Ol' Brown Eyes?",
+    "choices": [
+      "Ol' Blue Eyes",
+      "Ol' Brown Eyes"
+    ],
+    "answer": 0,
+    "fact": "Those famous blue eyes even got their own album title in 1973.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Nat King Cole was best known for what: a smooth singing voice or drumming?",
+    "choices": [
+      "A smooth singing voice",
+      "Drumming"
+    ],
+    "answer": 0,
+    "fact": "He started out as a wonderful jazz pianist, and then everyone heard him sing.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Bing Crosby was known as what kind of singer: a crooner or an opera singer?",
+    "choices": [
+      "An opera singer",
+      "A crooner"
+    ],
+    "answer": 1,
+    "fact": "That warm, easy voice made him the most popular singer in America for years.",
+    "cat": "Stars"
+  },
+  {
+    "q": "The Andrews Sisters were what: a singing trio or a comedy duo?",
+    "choices": [
+      "A singing trio",
+      "A comedy duo"
+    ],
+    "answer": 0,
+    "fact": "LaVerne, Maxene and Patty, three sisters with the tightest harmony around.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Doris Day was best known for what sort of roles: sunny and cheerful or spooky?",
+    "choices": [
+      "Spooky",
+      "Sunny and cheerful"
+    ],
+    "answer": 1,
+    "fact": "She was America's sweetheart, and she loved animals more than the movies.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Judy Garland played Dorothy in which film: 'The Wizard of Oz' or 'Cinderella'?",
+    "choices": [
+      "Cinderella",
+      "The Wizard of Oz"
+    ],
+    "answer": 1,
+    "fact": "She was just sixteen, and she carried that whole picture on her shoulders.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Fred Astaire was famous for what: dancing or boxing?",
+    "choices": [
+      "Boxing",
+      "Dancing"
+    ],
+    "answer": 1,
+    "fact": "An early screen test supposedly said he could dance a little. A little indeed.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Shirley Temple was famous as what: a child star or a news anchor?",
+    "choices": [
+      "A child star",
+      "A news anchor"
+    ],
+    "answer": 0,
+    "fact": "Those fifty-six ringlets were counted and curled fresh for every single picture.",
+    "cat": "Stars"
+  },
+  {
+    "q": "Lucille Ball's hair was famously what color: red or jet black?",
+    "choices": [
+      "Jet black",
+      "Red"
+    ],
+    "answer": 1,
+    "fact": "It was a henna rinse, and the salon kept the exact recipe a secret for years.",
+    "cat": "Stars"
+  },
+  {
+    "q": "John Wayne was best known for which kind of movie: westerns or musicals?",
+    "choices": [
+      "Westerns",
+      "Musicals"
+    ],
+    "answer": 0,
+    "fact": "The Duke made well over a hundred pictures, and most had a horse in them.",
+    "cat": "Stars"
+  }
+]

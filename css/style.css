@@ -1,0 +1,361 @@
+/* ==========================================================================
+   Grandma Fecher's Games
+   Designed for an 11" tablet in landscape, for a player with left-side
+   visual neglect: everything lives in a column on the RIGHT half of the
+   screen, every block gets a purple stripe on its left edge as a "start
+   reading here" anchor, and every target is enormous.
+   ========================================================================== */
+
+:root {
+  --cream:  #F8F6F0;
+  --ink:    #010102;
+  --purple: #8E0DD1;
+  --purple-light: #AF51F1;
+  --plum:   #68248C;
+  --green:  #1B7A3D;
+  --green-bg: #E4F4E9;
+  --amber-bg: #FDF1DC;
+  --amber:  #9A6209;
+  --shadow: 0 6px 0 rgba(1,1,2,.14);
+
+  /* The left gutter she may not see. Nothing important goes here. */
+  --gutter-left: 28vw;
+  --gutter-right: 5vw;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+/* No double-tap zoom, no 300ms delay — a slow or shaky tap still counts. */
+button { touch-action: manipulation; }
+
+/* Several things below set `display`, which would otherwise beat the
+   `hidden` attribute we toggle from JS. */
+[hidden] { display: none !important; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: Inter, "Helvetica Neue", Roboto, "Segoe UI", system-ui, sans-serif;
+  font-size: 20px;
+  line-height: 1.35;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+body { user-select: none; }
+
+/* ---------- Screens ---------- */
+.screen { display: none; min-height: 100%; padding: 2vh 0 4vh; }
+.screen.is-active { display: block; animation: fade .25s ease both; }
+@keyframes fade { from { opacity: 0; transform: translateY(8px);} to { opacity:1; transform:none; } }
+
+/* ---------- The one true content column: pushed to the right ---------- */
+.col {
+  width: auto;
+  margin-left: var(--gutter-left);
+  margin-right: var(--gutter-right);
+  max-width: 900px;
+}
+
+/* ---------- Home ---------- */
+.greeting {
+  font-size: clamp(22px, 3.4vh, 30px);
+  color: var(--plum);
+  margin: 0 0 2px;
+  font-weight: 600;
+}
+.home-title {
+  font-size: clamp(34px, 5.6vh, 52px);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 clamp(12px, 2.2vh, 22px);
+}
+
+/* The home screen can carry five buttons once "Keep Playing" appears, so it
+   scales with the screen height rather than scrolling. Scrolling to reach a
+   game is exactly the kind of thing she should never have to do. */
+#screen-home { padding-bottom: 8px; }
+#screen-home .big-btn {
+  min-height: clamp(76px, 11vh, 96px);
+  margin-bottom: clamp(10px, 1.9vh, 18px);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#screen-home .big-btn small { margin-top: 2px; }
+
+/* ---------- The big buttons ---------- */
+.big-btn {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  min-height: 104px;
+  margin: 0 0 20px;
+  padding: 16px 26px;
+  border: 3px solid var(--ink);
+  border-left: 14px solid var(--purple);   /* left anchor cue */
+  border-radius: 18px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-size: 34px;
+  font-weight: 600;
+  text-align: left;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: transform .08s ease, background .12s ease;
+}
+.big-btn:active { transform: translateY(4px); box-shadow: none; background: #F1E8F8; }
+.big-btn .btn-icon { font-size: 42px; line-height: 1; flex: 0 0 auto; }
+.big-btn .btn-text { display: flex; flex-direction: column; flex: 1 1 auto; }
+.big-btn small { font-size: 21px; font-weight: 400; color: #5A5560; margin-top: 4px; }
+
+.btn-quiet { background: transparent; box-shadow: none; border-color: #C9C3BA; border-left-color: var(--purple-light); }
+.resume-btn { background: var(--purple); color: #fff; border-color: var(--ink); border-left-color: var(--purple-light); }
+.resume-btn small { color: #EBD8FA; }
+
+.next-btn {
+  justify-content: space-between;
+  background: var(--purple);
+  color: #fff;
+  border-left-color: var(--purple-light);
+  animation: pop .25s ease both;
+}
+@keyframes pop { from { opacity:0; transform: scale(.96);} to {opacity:1; transform:none;} }
+
+/* ---------- Top bar (controls live on the RIGHT) ---------- */
+.topbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 16px;
+  padding: 0 var(--gutter-right) 10px 0;
+}
+.icon-btn {
+  width: 68px; height: 68px;
+  border: 3px solid var(--ink);
+  border-radius: 50%;
+  background: #fff;
+  font-size: 30px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.icon-btn:active { transform: translateY(4px); box-shadow: none; }
+.star-count {
+  display: flex; align-items: center; gap: 8px;
+  font-size: 30px; font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 40px;
+  background: var(--amber-bg);
+  border: 3px solid #E8C98A;
+}
+.star-count.bump { animation: bump .45s ease; }
+@keyframes bump { 0%,100%{transform:none} 35%{transform:scale(1.22) rotate(-4deg)} }
+
+/* ---------- Question card ---------- */
+.col-game { padding-bottom: 8px; }
+.card {
+  background: #fff;
+  border: 3px solid var(--ink);
+  border-left: 14px solid var(--purple);
+  border-radius: 18px;
+  padding: 20px 28px 18px;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow);
+}
+.q-cat {
+  margin: 0 0 8px;
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.q-text {
+  margin: 0 0 16px;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+.speak-btn {
+  border: 2px solid #C9C3BA;
+  background: var(--cream);
+  border-radius: 40px;
+  padding: 10px 22px;
+  font: inherit;
+  font-size: 22px;
+  cursor: pointer;
+}
+.speak-btn:active { background: #EFE7DA; }
+.speak-btn.speaking { border-color: var(--purple); color: var(--purple); }
+
+/* Once answered, the question steps back to make room for the answer, the
+   fun fact and the Next button — all without scrolling. */
+.card { transition: padding .35s ease; }
+.card.answered { padding-top: 16px; padding-bottom: 16px; }
+.card.answered .q-text { font-size: 30px; margin-bottom: 0; }
+.card.answered .speak-btn { display: none; }
+.q-text { transition: font-size .35s ease, margin .35s ease; }
+
+/* ---------- Choices ---------- */
+.choices { display: flex; flex-direction: column; }
+.choice {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  width: 100%;
+  min-height: 96px;
+  margin: 0 0 14px;
+  padding: 14px 24px;
+  border: 3px solid var(--ink);
+  border-left: 14px solid var(--purple-light);
+  border-radius: 18px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-size: 34px;
+  font-weight: 600;
+  text-align: left;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  overflow: hidden;
+  max-height: 300px;
+  transition: transform .08s ease, max-height .4s ease, min-height .4s ease,
+              opacity .3s ease, margin .4s ease, padding .4s ease, border-width .4s ease;
+}
+.choice:active { transform: translateY(4px); box-shadow: none; }
+
+/* Once she has answered, the ruled-out choices fold away so the fun fact and
+   the Next button fit on screen without any scrolling. */
+.choice.gone {
+  max-height: 0;
+  min-height: 0;     /* must be reset too — min-height beats max-height */
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-top-width: 0;
+  border-bottom-width: 0;
+  opacity: 0;
+  box-shadow: none;
+}
+.choice .num {
+  flex: 0 0 auto;
+  width: 52px; height: 52px;
+  display: grid; place-items: center;
+  border-radius: 50%;
+  background: #F1E8F8;
+  color: var(--plum);
+  font-size: 26px;
+  font-weight: 700;
+}
+.choice .mark { margin-left: auto; font-size: 38px; }
+
+.choice.correct {
+  background: var(--green-bg);
+  border-color: var(--green);
+  border-left-color: var(--green);
+  animation: bump .5s ease;
+}
+.choice.correct .num { background: var(--green); color: #fff; }
+.choice.wrong { background: #F4F1EC; border-color: #B8B2A8; border-left-color: #B8B2A8; opacity: .75; }
+.choice.wrong .num { background: #E2DDD4; color: #6B6560; }
+.choices.locked .choice { pointer-events: none; }
+
+/* ---------- Feedback ---------- */
+.feedback {
+  border-left: 14px solid var(--green);
+  background: var(--green-bg);
+  border-radius: 14px;
+  padding: 18px 24px;
+  margin-bottom: 22px;
+  animation: fade .25s ease both;
+}
+.feedback.try { border-left-color: var(--amber); background: var(--amber-bg); }
+.fb-head { margin: 0 0 4px; font-size: 30px; font-weight: 700; color: var(--green); }
+.feedback.try .fb-head { color: var(--amber); }
+.fb-answer { margin: 0 0 8px; font-size: 36px; font-weight: 700; line-height: 1.2; }
+.fb-answer:empty { display: none; }
+.fb-fact { margin: 0; font-size: 25px; line-height: 1.35; }
+
+/* ---------- My Stars ---------- */
+.kid-cards { display: flex; flex-direction: column; gap: 18px; margin-bottom: 24px; }
+.kid {
+  display: flex; align-items: center; gap: 20px;
+  background: #fff;
+  border: 3px solid var(--ink);
+  border-left: 14px solid var(--purple);
+  border-radius: 18px;
+  padding: 18px 26px;
+  box-shadow: var(--shadow);
+}
+.kid-name { font-size: 36px; font-weight: 700; }
+.kid-sub { font-size: 20px; color: #5A5560; }
+.kid-stars { margin-left: auto; font-size: 34px; font-weight: 700; white-space: nowrap; }
+.stars-note { font-size: 25px; color: var(--plum); font-weight: 600; }
+
+/* ---------- Celebration ---------- */
+.celebrate {
+  position: fixed; inset: 0;
+  background: rgba(1,1,2,.72);
+  display: grid; place-items: center;
+  z-index: 50;
+  animation: fade .2s ease both;
+}
+.celebrate-inner {
+  width: min(720px, 74vw);
+  margin-left: 12vw;              /* keep it off the neglected edge */
+  background: var(--cream);
+  border: 4px solid var(--purple);
+  border-radius: 24px;
+  padding: 34px 38px 30px;
+  text-align: center;
+}
+.celebrate-star { font-size: 92px; line-height: 1; animation: spinpop .7s ease both; }
+@keyframes spinpop { from { transform: scale(.2) rotate(-40deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.celebrate-msg { font-size: 34px; font-weight: 600; margin: 10px 0 26px; }
+.celebrate .big-btn { justify-content: center; background: var(--purple); color: #fff; }
+
+/* ---------- Toast ---------- */
+.toast {
+  position: fixed;
+  right: 3vw; bottom: 4vh;
+  background: var(--ink);
+  color: #fff;
+  font-size: 27px;
+  font-weight: 600;
+  padding: 16px 28px;
+  border-radius: 50px;
+  z-index: 40;
+  animation: toastin .3s ease both;
+}
+@keyframes toastin { from { opacity: 0; transform: translateY(20px);} to { opacity:1; transform:none; } }
+
+/* ---------- Narrow / portrait fallback ----------
+   Still keeps a left gutter — the neglect doesn't go away when she turns
+   the tablet, it just gets a narrower screen. */
+@media (max-width: 900px) {
+  :root { --gutter-left: 16vw; --gutter-right: 5vw; }
+  .home-title { font-size: 42px; }
+  .q-text { font-size: 32px; }
+  .big-btn, .choice { font-size: 28px; min-height: 88px; }
+  .celebrate-inner { margin-left: 0; width: 86vw; }
+}
+
+/* ---------- Short screens (browser chrome, split screen) ---------- */
+@media (max-height: 720px) {
+  .q-text { font-size: 32px; }
+  .card.answered .q-text { font-size: 26px; }
+  .big-btn { min-height: 84px; margin-bottom: 14px; }
+  .choice { min-height: 78px; margin-bottom: 12px; }
+  .fb-answer { font-size: 30px; }
+  .fb-fact { font-size: 22px; }
+  .icon-btn { width: 58px; height: 58px; font-size: 26px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

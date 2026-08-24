@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#F8F6F0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Grandma Fecher's Games</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ============ HOME ============ -->
+<section id="screen-home" class="screen is-active">
+  <div class="col">
+    <p class="greeting" id="greeting">Hello, Grandma!</p>
+    <h1 class="home-title">Your Games</h1>
+
+    <button class="big-btn resume-btn" id="resume-btn" hidden>
+      <span class="btn-icon">▶</span>
+      <span class="btn-text">Keep Playing<small id="resume-name"></small></span>
+    </button>
+
+    <button class="big-btn" data-go="trivia">
+      <span class="btn-icon">📺</span>
+      <span class="btn-text">Trivia Time<small>Movies, music &amp; TV</small></span>
+    </button>
+
+    <button class="big-btn" data-go="lines">
+      <span class="btn-icon">✏️</span>
+      <span class="btn-text">Finish the Line<small>Fill in the blank</small></span>
+    </button>
+
+    <button class="big-btn" data-go="remember">
+      <span class="btn-icon">🕰️</span>
+      <span class="btn-text">Remember When?<small>Take it easy</small></span>
+    </button>
+
+    <button class="big-btn btn-quiet" data-go="stars">
+      <span class="btn-icon">⭐</span>
+      <span class="btn-text">My Stars<small id="stars-teaser">See what you've earned</small></span>
+    </button>
+  </div>
+</section>
+
+<!-- ============ GAME ============ -->
+<section id="screen-game" class="screen">
+  <div class="topbar">
+    <div class="star-count" id="star-count"><span>⭐</span><b>0</b></div>
+    <button class="icon-btn" id="btn-home" aria-label="Back to the games list">✕</button>
+  </div>
+
+  <div class="col col-game">
+    <div class="card" id="q-card">
+      <p class="q-cat" id="q-cat"></p>
+      <p class="q-text" id="q-text">Loading…</p>
+      <button class="speak-btn" id="btn-speak" aria-label="Read this out loud">🔊 Read it to me</button>
+    </div>
+
+    <div class="choices" id="choices"></div>
+
+    <div class="feedback" id="feedback" hidden>
+      <p class="fb-head" id="fb-head"></p>
+      <p class="fb-answer" id="fb-answer"></p>
+      <p class="fb-fact" id="fb-fact"></p>
+    </div>
+
+    <button class="big-btn next-btn" id="btn-next" hidden>
+      <span class="btn-text">Next Question</span>
+      <span class="btn-icon">➜</span>
+    </button>
+  </div>
+</section>
+
+<!-- ============ STARS ============ -->
+<section id="screen-stars" class="screen">
+  <div class="topbar">
+    <button class="icon-btn" id="btn-home2" aria-label="Back to the games list">✕</button>
+  </div>
+  <div class="col">
+    <h1 class="home-title">Your Stars</h1>
+    <div class="kid-cards" id="kid-cards"></div>
+    <p class="stars-note" id="stars-note"></p>
+  </div>
+</section>
+
+<!-- ============ CELEBRATION ============ -->
+<div class="celebrate" id="celebrate" hidden>
+  <div class="celebrate-inner">
+    <div class="celebrate-star">⭐</div>
+    <p class="celebrate-msg" id="celebrate-msg"></p>
+    <button class="big-btn" id="btn-celebrate-ok">
+      <span class="btn-text">Keep Going!</span>
+      <span class="btn-icon">➜</span>
+    </button>
+  </div>
+</div>
+
+<!-- ============ TOAST ============ -->
+<div class="toast" id="toast" hidden></div>
+
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/games.js"></script>
+</body>
+</html>

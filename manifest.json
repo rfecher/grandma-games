@@ -1,0 +1,16 @@
+{
+  "name": "Grandma Fecher's Games",
+  "short_name": "Grandma's Games",
+  "description": "Trivia and word games from the 40s, 50s, 60s and 70s.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#F8F6F0",
+  "theme_color": "#F8F6F0",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
