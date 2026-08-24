@@ -83,9 +83,14 @@ Then in the repo: **Settings → Pages → Source: Deploy from a branch →
 `main` / `/ (root)`**. A minute later it's live at
 <https://rfecher.github.io/grandma-games/>.
 
+A GitHub Pages site is public to anyone who has the link. The page carries a
+`noindex` tag so the family's names don't turn up in search results, but treat
+the URL itself as the only thing keeping it private.
+
 ## Setting up her tablet (do this once, for her)
 
-1. Open **Chrome** on the tablet and go to the URL above.
+1. Open **Chrome** on the tablet and go to the URL above. (Samsung Internet
+   works too — its menu item is **Add page to → Home screen**.)
 2. Let it finish loading once (that's what caches it for offline play).
 3. Tap the **⋮** menu → **Add to Home screen** → **Install**.
 4. A purple star icon appears on her home screen. Put it somewhere obvious,
