@@ -17,6 +17,18 @@
 
 <!-- ============ HOME ============ -->
 <section id="screen-home" class="screen is-active">
+  <div class="topbar home-top">
+    <span class="seg-label">How hard?</span>
+    <div class="seg" id="level-seg" role="group" aria-label="How hard the questions are">
+      <button class="seg-btn" data-level="1">Easy</button>
+      <button class="seg-btn" data-level="2">Medium</button>
+      <button class="seg-btn" data-level="3">Hard</button>
+    </div>
+    <button class="chip star-chip" id="home-stars" data-go="stars" aria-label="See your stars">
+      <span>⭐</span><b>0</b>
+    </button>
+  </div>
+
   <div class="col">
     <p class="greeting" id="greeting">Hello, Grandma!</p>
     <h1 class="home-title">Your Games</h1>
@@ -36,14 +48,14 @@
       <span class="btn-text">Finish the Line<small>Fill in the blank</small></span>
     </button>
 
-    <button class="big-btn" data-go="remember">
-      <span class="btn-icon">🕰️</span>
-      <span class="btn-text">Remember When?<small>Take it easy</small></span>
+    <button class="big-btn" data-go="decades">
+      <span class="btn-icon">📅</span>
+      <span class="btn-text">Which Decade?<small>40s, 50s, 60s or 70s?</small></span>
     </button>
 
-    <button class="big-btn btn-quiet" data-go="stars">
-      <span class="btn-icon">⭐</span>
-      <span class="btn-text">My Stars<small id="stars-teaser">See what you've earned</small></span>
+    <button class="big-btn" data-go="remember">
+      <span class="btn-icon">🕰️</span>
+      <span class="btn-text">Remember When?<small>Two choices &mdash; take it easy</small></span>
     </button>
   </div>
 </section>
@@ -51,7 +63,8 @@
 <!-- ============ GAME ============ -->
 <section id="screen-game" class="screen">
   <div class="topbar">
-    <div class="star-count" id="star-count"><span>⭐</span><b>0</b></div>
+    <div class="chip level-chip" id="level-chip">Medium</div>
+    <div class="chip star-chip" id="star-count"><span>⭐</span><b>0</b></div>
     <button class="icon-btn" id="btn-home" aria-label="Back to the games list">✕</button>
   </div>
 
@@ -89,14 +102,17 @@
   </div>
 </section>
 
-<!-- ============ CELEBRATION ============ -->
-<div class="celebrate" id="celebrate" hidden>
-  <div class="celebrate-inner">
-    <div class="celebrate-star">⭐</div>
-    <p class="celebrate-msg" id="celebrate-msg"></p>
-    <button class="big-btn" id="btn-celebrate-ok">
+<!-- ============ MODAL (celebrations and gentle offers) ============ -->
+<div class="modal" id="modal" hidden>
+  <div class="modal-inner">
+    <div class="modal-icon" id="modal-icon">⭐</div>
+    <p class="modal-msg" id="modal-msg"></p>
+    <button class="big-btn modal-yes" id="modal-yes">
       <span class="btn-text">Keep Going!</span>
       <span class="btn-icon">➜</span>
+    </button>
+    <button class="big-btn btn-quiet modal-no" id="modal-no" hidden>
+      <span class="btn-text">Not right now</span>
     </button>
   </div>
 </div>

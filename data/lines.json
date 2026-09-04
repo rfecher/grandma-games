@@ -8,7 +8,8 @@
     ],
     "answer": 1,
     "fact": "Ben Franklin gets the credit for this one, and it is still good advice.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: The early bird catches the ___",
@@ -19,7 +20,8 @@
     ],
     "answer": 1,
     "fact": "Farmers have been saying this since the 1600s. Robins agree.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: An apple a day keeps the doctor ___",
@@ -30,7 +32,8 @@
     ],
     "answer": 0,
     "fact": "This rhyme started in Wales in the 1860s. Doctors did not mind.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Better late than ___",
@@ -41,7 +44,8 @@
     ],
     "answer": 1,
     "fact": "A kind way of saying come on in, we saved you a seat.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Don't count your chickens before they ___",
@@ -52,7 +56,8 @@
     ],
     "answer": 0,
     "fact": "It comes from one of Aesop's fables, told over 2,000 years ago.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Every cloud has a silver ___",
@@ -63,7 +68,8 @@
     ],
     "answer": 0,
     "fact": "The poet John Milton wrote about a silver lining way back in 1634.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Actions speak louder than ___",
@@ -74,7 +80,8 @@
     ],
     "answer": 2,
     "fact": "Grandmothers everywhere have been proving this one for generations.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: When in Rome, do as the Romans ___",
@@ -85,7 +92,8 @@
     ],
     "answer": 0,
     "fact": "The advice goes back to Saint Ambrose, who really did travel to Rome.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: A stitch in time saves ___",
@@ -96,7 +104,8 @@
     ],
     "answer": 0,
     "fact": "Any seamstress knows it: mend the little tear before it becomes a big one.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Curiosity killed the ___",
@@ -107,7 +116,8 @@
     ],
     "answer": 2,
     "fact": "Cats have nine lives, so most folks figure this one turned out fine.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Beauty is in the eye of the ___",
@@ -118,7 +128,8 @@
     ],
     "answer": 1,
     "fact": "Margaret Hungerford put it this way in an 1878 novel, and it stuck.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Two heads are better than ___",
@@ -129,7 +140,8 @@
     ],
     "answer": 1,
     "fact": "Which is exactly why crossword puzzles are more fun with company.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Rome wasn't built in a ___",
@@ -140,7 +152,8 @@
     ],
     "answer": 2,
     "fact": "A gentle reminder that good things take their sweet time.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: The grass is always greener on the other side of the ___",
@@ -151,7 +164,8 @@
     ],
     "answer": 0,
     "fact": "Cows have believed this for centuries, and they are usually wrong.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: You can't judge a book by its ___",
@@ -162,7 +176,8 @@
     ],
     "answer": 0,
     "fact": "Good advice for books, and even better advice for people.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Birds of a feather flock ___",
@@ -173,7 +188,8 @@
     ],
     "answer": 2,
     "fact": "This one has been in print since the 1500s. Still true at every reunion.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Practice makes ___",
@@ -184,7 +200,8 @@
     ],
     "answer": 1,
     "fact": "Every piano teacher who ever lived has said these three words.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Too many cooks spoil the ___",
@@ -195,7 +212,8 @@
     ],
     "answer": 2,
     "fact": "Which is why Grandma always ran her own kitchen, thank you very much.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Laughter is the best ___",
@@ -206,7 +224,8 @@
     ],
     "answer": 2,
     "fact": "Doctors now agree that a good laugh really does help you feel better.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Look before you ___",
@@ -217,7 +236,8 @@
     ],
     "answer": 0,
     "fact": "Another gift from Aesop, who seems to have thought of everything.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Don't put all your eggs in one ___",
@@ -228,7 +248,8 @@
     ],
     "answer": 0,
     "fact": "Anyone who has ever carried eggs home from the henhouse understands.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: All that glitters is not ___",
@@ -239,7 +260,8 @@
     ],
     "answer": 1,
     "fact": "Shakespeare wrote a version of this in The Merchant of Venice.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: A picture is worth a thousand ___",
@@ -250,7 +272,8 @@
     ],
     "answer": 2,
     "fact": "The phrase became famous in the 1920s, thanks to newspaper advertising.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Absence makes the heart grow ___",
@@ -261,7 +284,8 @@
     ],
     "answer": 0,
     "fact": "Sweethearts writing letters have leaned on this line for 400 years.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Honesty is the best ___",
@@ -272,7 +296,8 @@
     ],
     "answer": 0,
     "fact": "Benjamin Franklin liked this one too. He liked most of the good ones.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: The pen is mightier than the ___",
@@ -283,7 +308,8 @@
     ],
     "answer": 1,
     "fact": "A playwright coined it in 1839, and writers have loved him ever since.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: You can lead a horse to water but you can't make him ___",
@@ -294,7 +320,8 @@
     ],
     "answer": 2,
     "fact": "One of the oldest sayings in English, written down back in 1175.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Where there's smoke, there's ___",
@@ -305,7 +332,8 @@
     ],
     "answer": 1,
     "fact": "Cooks and firefighters have both found this to be reliable.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Necessity is the mother of ___",
@@ -316,7 +344,8 @@
     ],
     "answer": 2,
     "fact": "Plato said something close to this, and every tinkerer has proved it.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Great minds think ___",
@@ -327,7 +356,8 @@
     ],
     "answer": 1,
     "fact": "Said with a grin whenever two people reach for the last cookie.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: A watched pot never ___",
@@ -338,7 +368,8 @@
     ],
     "answer": 0,
     "fact": "It boils eventually. It just likes a little privacy first.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Time flies when you're having ___",
@@ -349,7 +380,8 @@
     ],
     "answer": 1,
     "fact": "And it positively races when there is cake involved.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Let sleeping dogs ___",
@@ -360,7 +392,8 @@
     ],
     "answer": 0,
     "fact": "Chaucer wrote a version of this in the 1300s. Dogs approve.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Money doesn't grow on ___",
@@ -371,7 +404,8 @@
     ],
     "answer": 1,
     "fact": "Every parent in history has said this at least once a week.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Don't cry over spilled ___",
@@ -382,7 +416,8 @@
     ],
     "answer": 1,
     "fact": "Wipe it up, pour another glass, and carry on. That is the whole idea.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: The apple doesn't fall far from the ___",
@@ -393,7 +428,8 @@
     ],
     "answer": 2,
     "fact": "A warm way of saying you can see the family in someone.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Every dog has his ___",
@@ -404,7 +440,8 @@
     ],
     "answer": 1,
     "fact": "Everyone gets their moment in the sunshine, sooner or later.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Haste makes ___",
@@ -415,7 +452,8 @@
     ],
     "answer": 1,
     "fact": "Benjamin Franklin printed this one in Poor Richard's Almanack.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Out of sight, out of ___",
@@ -426,7 +464,8 @@
     ],
     "answer": 0,
     "fact": "Which is exactly why we keep photographs on the mantel.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Slow and steady wins the ___",
@@ -437,7 +476,8 @@
     ],
     "answer": 2,
     "fact": "The tortoise beat the hare, and he has never let anyone forget it.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: April showers bring May ___",
@@ -448,7 +488,8 @@
     ],
     "answer": 2,
     "fact": "This rhyme has been cheering people up since the 1500s.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: An ounce of prevention is worth a pound of ___",
@@ -459,7 +500,8 @@
     ],
     "answer": 1,
     "fact": "Franklin wrote it in 1735, and he was talking about fire safety.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: When the cat's away, the mice will ___",
@@ -470,7 +512,8 @@
     ],
     "answer": 1,
     "fact": "The mice have been getting away with this since at least the 1500s.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: A bird in the hand is worth two in the ___",
@@ -481,7 +524,8 @@
     ],
     "answer": 2,
     "fact": "Be happy with the good thing you already have. Lovely advice.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Finish the saying: Good things come to those who ___",
@@ -492,7 +536,8 @@
     ],
     "answer": 2,
     "fact": "A patient poet wrote this in the 1800s, and patience is still winning.",
-    "cat": "Sayings"
+    "cat": "Sayings",
+    "d": 1
   },
   {
     "q": "Alka-Seltzer: Plop plop, fizz fizz, oh what a relief it ___",
@@ -503,7 +548,8 @@
     ],
     "answer": 1,
     "fact": "That jingle first bubbled onto television in 1976 and never left.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "De Beers diamonds: A diamond is ___",
@@ -514,7 +560,8 @@
     ],
     "answer": 1,
     "fact": "A young copywriter named Frances Gerety wrote it in 1947, late one night.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Rice Krispies: Snap! Crackle! ___",
@@ -525,7 +572,8 @@
     ],
     "answer": 2,
     "fact": "Snap, Crackle and Pop have been the cereal aisle's oldest friends since 1933.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "M&M's: Melts in your mouth, not in your ___",
@@ -536,7 +584,8 @@
     ],
     "answer": 0,
     "fact": "That candy shell was invented so soldiers could carry chocolate in warm weather.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Coca-Cola: The pause that ___",
@@ -547,7 +596,8 @@
     ],
     "answer": 2,
     "fact": "Coke started using this line in 1929, and it has been a classic ever since.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 2
   },
   {
     "q": "Crest toothpaste: Look, Ma, no ___!",
@@ -558,7 +608,8 @@
     ],
     "answer": 2,
     "fact": "That happy little boy showed up in Crest ads all through the 1950s.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Wonder Bread builds strong bodies ___ ways",
@@ -569,7 +620,8 @@
     ],
     "answer": 1,
     "fact": "Wonder Bread with the colorful balloons on the wrapper. Twelve whole ways.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 3
   },
   {
     "q": "Pepsodent: You'll wonder where the yellow ___",
@@ -580,7 +632,8 @@
     ],
     "answer": 0,
     "fact": "The jingle was so catchy that people sang it at the sink in 1956.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Chevrolet: See the USA in your ___",
@@ -591,7 +644,8 @@
     ],
     "answer": 2,
     "fact": "Dinah Shore sang it on television and made everybody want a road trip.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Maxwell House coffee: Good to the last ___",
@@ -602,7 +656,8 @@
     ],
     "answer": 0,
     "fact": "The story goes that President Teddy Roosevelt said it first, in 1907.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Morton Salt: When it rains, it ___",
@@ -613,7 +668,8 @@
     ],
     "answer": 0,
     "fact": "The little girl with the umbrella has been on the box since 1914.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Wheaties: The breakfast of ___",
@@ -624,7 +680,8 @@
     ],
     "answer": 2,
     "fact": "Since 1935, getting your face on that orange box has been a big deal.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "The circus: The greatest show on ___",
@@ -635,7 +692,8 @@
     ],
     "answer": 0,
     "fact": "P.T. Barnum was never one for modest advertising, bless him.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Yellow Pages: Let your fingers do the ___",
@@ -646,7 +704,8 @@
     ],
     "answer": 1,
     "fact": "It first ran in 1962, back when every home had a fat yellow phone book.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Pillsbury: Nothing says lovin' like something from the ___",
@@ -657,7 +716,8 @@
     ],
     "answer": 2,
     "fact": "The Pillsbury Doughboy giggled his way into kitchens starting in 1965.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Lay's potato chips: Betcha can't eat just ___",
@@ -668,7 +728,8 @@
     ],
     "answer": 2,
     "fact": "Bert Lahr, the Cowardly Lion himself, starred in the first of these ads.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Greyhound bus lines: Leave the driving to ___",
@@ -679,7 +740,8 @@
     ],
     "answer": 1,
     "fact": "This line rolled out in 1956 and made the bus sound downright restful.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Clairol hair color: Only her hairdresser knows for ___",
@@ -690,7 +752,8 @@
     ],
     "answer": 0,
     "fact": "Shirley Polykoff wrote it in 1957 and doubled the company's business.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "McDonald's: You deserve a break ___",
@@ -701,7 +764,8 @@
     ],
     "answer": 1,
     "fact": "It first sang out in 1971, and folks were humming it for years after.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Burger King: Have it your ___",
@@ -712,7 +776,8 @@
     ],
     "answer": 1,
     "fact": "The 1974 jingle politely offered to hold the pickle and hold the lettuce.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Coca-Cola: It's the real ___",
@@ -723,7 +788,8 @@
     ],
     "answer": 2,
     "fact": "Coke has come back to this phrase again and again since the 1940s.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "United Airlines: Fly the friendly ___",
@@ -734,7 +800,8 @@
     ],
     "answer": 1,
     "fact": "United took to the friendly skies in 1965 and stayed there for decades.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Avis rent-a-car: We're only number two, so we try ___",
@@ -745,7 +812,8 @@
     ],
     "answer": 0,
     "fact": "Admitting they were second place turned out to be brilliant advertising.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Rice-A-Roni: The San Francisco ___",
@@ -756,7 +824,8 @@
     ],
     "answer": 2,
     "fact": "The cable car clanging through the ad made the whole country hungry.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Nestle: N-E-S-T-L-E-S, Nestle makes the very ___",
@@ -767,7 +836,8 @@
     ],
     "answer": 1,
     "fact": "Farfel the puppet dog snapped his jaw shut on that last note. Delightful.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Bounty paper towels: The quicker picker-___",
@@ -778,7 +848,8 @@
     ],
     "answer": 0,
     "fact": "Rosie the waitress mopped up many a spill with those in the 1970s.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Wisk laundry detergent: Ring around the ___",
@@ -789,7 +860,8 @@
     ],
     "answer": 0,
     "fact": "Those ads made a generation of wives peer suspiciously at shirt collars.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Campbell's Soup: Mmm mmm ___",
@@ -800,7 +872,8 @@
     ],
     "answer": 1,
     "fact": "Campbell's has been saying it since the 1930s, and it still sounds cozy.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Brylcreem hair tonic: A little dab'll do ___",
@@ -811,7 +884,8 @@
     ],
     "answer": 2,
     "fact": "Every well-combed fellow in the 1950s had a tube of it on the shelf.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Pepsi: Come alive! You're in the Pepsi ___",
@@ -822,7 +896,8 @@
     ],
     "answer": 0,
     "fact": "The Pepsi Generation arrived in 1963 and made soda feel positively youthful.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Timex watches: It takes a licking and keeps on ___",
@@ -833,7 +908,8 @@
     ],
     "answer": 0,
     "fact": "John Cameron Swayze strapped those watches to boat motors to prove it.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Kellogg's waffles: Leggo my ___",
@@ -844,7 +920,8 @@
     ],
     "answer": 1,
     "fact": "Eggo waffles started causing breakfast-table squabbles back in 1972.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Bell Telephone: Reach out and touch ___",
@@ -855,7 +932,8 @@
     ],
     "answer": 1,
     "fact": "That 1979 line convinced a whole country to call home more often.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Almond Joy and Mounds: Sometimes you feel like a nut, sometimes you ___",
@@ -866,7 +944,8 @@
     ],
     "answer": 0,
     "fact": "One candy bar has almonds, the other does not. The jingle sorted it out.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Charmin bathroom tissue: Please don't squeeze the ___",
@@ -877,7 +956,8 @@
     ],
     "answer": 2,
     "fact": "Poor Mr. Whipple spent twenty years telling shoppers to stop squeezing.",
-    "cat": "Slogans"
+    "cat": "Slogans",
+    "d": 1
   },
   {
     "q": "Name the song: Blue Suede ___",
@@ -888,7 +968,8 @@
     ],
     "answer": 0,
     "fact": "Carl Perkins wrote it in 1955, and Elvis recorded his famous version soon after.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Singin' in the ___",
@@ -899,7 +980,8 @@
     ],
     "answer": 0,
     "fact": "Gene Kelly danced through a downpour and made movie history.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: White ___",
@@ -910,7 +992,8 @@
     ],
     "answer": 2,
     "fact": "Bing Crosby's version is still one of the best-selling records ever made.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Somewhere Over the ___",
@@ -921,7 +1004,8 @@
     ],
     "answer": 1,
     "fact": "Judy Garland was only sixteen years old when she recorded it.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Rock Around the ___",
@@ -932,7 +1016,8 @@
     ],
     "answer": 0,
     "fact": "Bill Haley's 1954 record is often called the song that started rock and roll.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Mack the ___",
@@ -943,7 +1028,8 @@
     ],
     "answer": 0,
     "fact": "Bobby Darin's swinging 1959 version won him a Grammy award.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Fly Me to the ___",
@@ -954,7 +1040,8 @@
     ],
     "answer": 2,
     "fact": "Sinatra's recording was carried along by astronauts on the Apollo missions.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Strangers in the ___",
@@ -965,7 +1052,8 @@
     ],
     "answer": 2,
     "fact": "Sinatra's 1966 recording knocked the Beatles out of the number one spot.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: I Left My Heart in San ___",
@@ -976,7 +1064,8 @@
     ],
     "answer": 1,
     "fact": "Tony Bennett sang it for the first time at the Fairmont Hotel in 1961.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Hound ___",
@@ -987,7 +1076,8 @@
     ],
     "answer": 2,
     "fact": "Big Mama Thornton recorded it first, in 1952, four years before Elvis.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Jailhouse ___",
@@ -998,7 +1088,8 @@
     ],
     "answer": 0,
     "fact": "Elvis's dance number in the 1957 movie is still one of his most famous.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Love Me ___",
@@ -1009,7 +1100,8 @@
     ],
     "answer": 0,
     "fact": "The melody came from an old American parlor song called Aura Lee.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Yellow ___ Road",
@@ -1020,7 +1112,8 @@
     ],
     "answer": 1,
     "fact": "Elton John's 1973 album by this name sold millions of copies.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Bridge Over Troubled ___",
@@ -1031,7 +1124,8 @@
     ],
     "answer": 2,
     "fact": "Simon and Garfunkel's 1970 recording swept the Grammy awards that year.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Mrs. ___",
@@ -1042,7 +1136,8 @@
     ],
     "answer": 1,
     "fact": "Simon and Garfunkel wrote it for the movie The Graduate in 1967.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Puff the Magic ___",
@@ -1053,7 +1148,8 @@
     ],
     "answer": 0,
     "fact": "Peter, Paul and Mary turned a college student's poem into a 1963 hit.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Take Me Out to the ___",
@@ -1064,7 +1160,8 @@
     ],
     "answer": 1,
     "fact": "Written in 1908 by a fellow who had never been to a ball game.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Chattanooga Choo ___",
@@ -1075,7 +1172,8 @@
     ],
     "answer": 2,
     "fact": "Glenn Miller recorded it in 1941, and it became the first gold record ever awarded.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the Glenn Miller song: In the ___",
@@ -1086,7 +1184,8 @@
     ],
     "answer": 2,
     "fact": "The most famous big band record of them all. Impossible to sit still to.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Boogie Woogie Bugle ___",
@@ -1097,7 +1196,8 @@
     ],
     "answer": 0,
     "fact": "The Andrews Sisters' 1941 hit had the whole country snapping its fingers.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Sentimental ___",
@@ -1108,7 +1208,8 @@
     ],
     "answer": 0,
     "fact": "Doris Day sang it with Les Brown's band in 1945, and it became her calling card.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Tennessee ___",
@@ -1119,7 +1220,8 @@
     ],
     "answer": 2,
     "fact": "Patti Page's 1950 version sold millions and became a state song.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: How Much Is That ___ in the Window?",
@@ -1130,7 +1232,8 @@
     ],
     "answer": 1,
     "fact": "Patti Page recorded it in 1952, complete with cheerful little barks.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Rudolph the Red-Nosed ___",
@@ -1141,7 +1244,8 @@
     ],
     "answer": 0,
     "fact": "Gene Autry, the singing cowboy, took it to number one in 1949.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Sixteen ___",
@@ -1152,7 +1256,8 @@
     ],
     "answer": 0,
     "fact": "Tennessee Ernie Ford snapped his fingers through this 1955 chart-topper.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Great Balls of ___",
@@ -1163,7 +1268,8 @@
     ],
     "answer": 2,
     "fact": "Jerry Lee Lewis pounded that piano so hard in 1957 you could hear it a mile off.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Peggy ___",
@@ -1174,7 +1280,8 @@
     ],
     "answer": 2,
     "fact": "Buddy Holly named it after his drummer's sweetheart, who later married him.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the song: Stand By ___",
@@ -1185,7 +1292,8 @@
     ],
     "answer": 1,
     "fact": "Ben E. King's 1961 recording has comforted people for over sixty years.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the Beatles song: Penny ___",
@@ -1196,7 +1304,8 @@
     ],
     "answer": 1,
     "fact": "Penny Lane is a real street in Liverpool, and you can still visit it.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the Beatles song: I Want to Hold Your ___",
@@ -1207,7 +1316,8 @@
     ],
     "answer": 2,
     "fact": "This was the record that started Beatlemania in America in early 1964.",
-    "cat": "Songs"
+    "cat": "Songs",
+    "d": 1
   },
   {
     "q": "Name the movie: Gone with the ___",
@@ -1218,7 +1328,8 @@
     ],
     "answer": 2,
     "fact": "It won eight Academy Awards in 1939 and still fills theaters today.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: The Andy Griffith ___",
@@ -1229,7 +1340,8 @@
     ],
     "answer": 1,
     "fact": "That whistled theme song was played by the composer himself.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: The Wizard of ___",
@@ -1240,7 +1352,8 @@
     ],
     "answer": 2,
     "fact": "The film opened in 1939, and the ruby slippers now sit in a museum.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: It's a Wonderful ___",
@@ -1251,7 +1364,8 @@
     ],
     "answer": 1,
     "fact": "Jimmy Stewart called George Bailey his favorite role of his whole career.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: The Sound of ___",
@@ -1262,7 +1376,8 @@
     ],
     "answer": 1,
     "fact": "Julie Andrews sang on that Austrian hilltop in 1965 and charmed the world.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: I Love ___",
@@ -1273,7 +1388,8 @@
     ],
     "answer": 2,
     "fact": "It was the first show filmed before a live studio audience with three cameras.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Leave It to ___",
@@ -1284,7 +1400,8 @@
     ],
     "answer": 0,
     "fact": "Beaver Cleaver's real name on the show was Theodore. Nobody ever used it.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: The Beverly ___",
@@ -1295,7 +1412,8 @@
     ],
     "answer": 1,
     "fact": "The Clampetts loaded up the truck in 1962 and stayed nine happy seasons.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Gilligan's ___",
@@ -1306,7 +1424,8 @@
     ],
     "answer": 0,
     "fact": "The theme song told you the whole story before the show even started.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: The Ed ___ Show",
@@ -1317,7 +1436,8 @@
     ],
     "answer": 1,
     "fact": "For 23 years, Sunday night meant a really big show at the Sullivan theater.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Green ___",
@@ -1328,7 +1448,8 @@
     ],
     "answer": 0,
     "fact": "Eva Gabor traded Park Avenue for a farmhouse, and Arnold the pig stole scenes.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Father Knows ___",
@@ -1339,7 +1460,8 @@
     ],
     "answer": 0,
     "fact": "Robert Young played that patient dad on radio first, then on television.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: Breakfast at ___",
@@ -1350,7 +1472,8 @@
     ],
     "answer": 1,
     "fact": "Audrey Hepburn in that black dress became one of film's great images.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: West Side ___",
@@ -1361,7 +1484,8 @@
     ],
     "answer": 2,
     "fact": "The 1961 film won ten Academy Awards, and the dancing is still dazzling.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: My Fair ___",
@@ -1372,7 +1496,8 @@
     ],
     "answer": 2,
     "fact": "Audrey Hepburn wore the famous Ascot hat, and Rex Harrison talk-sang every note.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: Some Like It ___",
@@ -1383,7 +1508,8 @@
     ],
     "answer": 0,
     "fact": "Its final line, Nobody's perfect, is one of the best endings ever written.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the movie: Meet Me in St. ___",
@@ -1394,7 +1520,8 @@
     ],
     "answer": 1,
     "fact": "Judy Garland sang The Trolley Song in it, and audiences adored every note.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Petticoat ___",
@@ -1405,7 +1532,8 @@
     ],
     "answer": 2,
     "fact": "It was set at the Shady Rest Hotel, right beside the Hooterville railroad.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: Little House on the ___",
@@ -1416,7 +1544,8 @@
     ],
     "answer": 0,
     "fact": "Based on Laura Ingalls Wilder's books about growing up out on the frontier.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Name the TV show: The Twilight ___",
@@ -1427,7 +1556,8 @@
     ],
     "answer": 0,
     "fact": "Rod Serling wrote most of the episodes himself, and narrated them too.",
-    "cat": "Titles"
+    "cat": "Titles",
+    "d": 1
   },
   {
     "q": "Finish the movie line: Here's looking at you, ___",
@@ -1438,7 +1568,8 @@
     ],
     "answer": 2,
     "fact": "Humphrey Bogart said it to Ingrid Bergman, and it became one of film's best-loved lines.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Ricky's line to Lucy: You got some 'splainin' to ___",
@@ -1449,7 +1580,8 @@
     ],
     "answer": 2,
     "fact": "Desi Arnaz said it so often that America started saying it too.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Dragnet line: Just the facts, ___",
@@ -1460,7 +1592,8 @@
     ],
     "answer": 0,
     "fact": "Sergeant Joe Friday's calm, no-nonsense manner made this line famous everywhere.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Hawaii Five-O line: Book 'em, ___",
@@ -1471,7 +1604,8 @@
     ],
     "answer": 1,
     "fact": "Jack Lord said it at the end of episode after episode for twelve seasons.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Laugh-In line: Sock it to ___",
@@ -1482,7 +1616,8 @@
     ],
     "answer": 0,
     "fact": "Judy Carne got a bucket of water every time she said it. Every single time.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Burns and Allen sign-off: Say goodnight, ___",
@@ -1493,7 +1628,8 @@
     ],
     "answer": 0,
     "fact": "George Burns and Gracie Allen closed their show this way for years.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Tonight Show introduction: Heeere's ___!",
@@ -1504,7 +1640,8 @@
     ],
     "answer": 2,
     "fact": "Ed McMahon boomed it out for thirty years, and the band played right on cue.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Ralph Kramden's line: Baby, you're the ___",
@@ -1515,7 +1652,8 @@
     ],
     "answer": 2,
     "fact": "Jackie Gleason always softened up by the end of every Honeymooners episode.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Star Trek line: Beam me up, ___",
@@ -1526,7 +1664,8 @@
     ],
     "answer": 0,
     "fact": "Funny thing: nobody ever said this exact line on the show, but everyone remembers it.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Star Trek line: Live long and ___",
@@ -1537,7 +1676,8 @@
     ],
     "answer": 0,
     "fact": "Leonard Nimoy based the hand salute on a blessing he saw as a boy.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Fred Flintstone's line: Yabba dabba ___!",
@@ -1548,7 +1688,8 @@
     ],
     "answer": 1,
     "fact": "Alan Reed came up with it himself, and Bedrock was never the same.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Get Smart line: Sorry about that, ___",
@@ -1559,7 +1700,8 @@
     ],
     "answer": 2,
     "fact": "Maxwell Smart apologized like this after every single bumble.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 2
   },
   {
     "q": "Finish Walter Cronkite's sign-off: And that's the way it ___",
@@ -1570,7 +1712,8 @@
     ],
     "answer": 2,
     "fact": "He said it every weeknight, and folks trusted him more than anyone in America.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Edward R. Murrow's sign-off: Good night, and good ___",
@@ -1581,7 +1724,8 @@
     ],
     "answer": 1,
     "fact": "He first used it on the radio, and it became his signature farewell.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 2
   },
   {
     "q": "Finish The Price Is Right call: Come on ___!",
@@ -1592,7 +1736,8 @@
     ],
     "answer": 1,
     "fact": "Johnny Olson started shouting it in 1972, and the audience went wild every time.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Lone Ranger's line: Hi-yo, ___, away!",
@@ -1603,7 +1748,8 @@
     ],
     "answer": 2,
     "fact": "Silver was the white stallion. Tonto rode a paint horse named Scout.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Casablanca line: Play it, ___",
@@ -1614,7 +1760,8 @@
     ],
     "answer": 1,
     "fact": "Dooley Wilson played Sam, and he was really a drummer, not a piano player.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Dorothy's line: There's no place like ___",
@@ -1625,7 +1772,8 @@
     ],
     "answer": 2,
     "fact": "She clicked those ruby heels three times, and it worked like a charm.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish the Kojak line: Who loves ya, ___?",
@@ -1636,7 +1784,8 @@
     ],
     "answer": 0,
     "fact": "Telly Savalas said it with a lollipop in hand, and it became his trademark.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
   },
   {
     "q": "Finish Bugs Bunny's line: What's up, ___?",
@@ -1647,6 +1796,1447 @@
     ],
     "answer": 1,
     "fact": "Mel Blanc gave Bugs that voice, carrot crunch and all, starting in 1940.",
-    "cat": "Catchphrases"
+    "cat": "Catchphrases",
+    "d": 1
+  },
+  {
+    "q": "Finish the saying: A rolling stone gathers no ___",
+    "choices": [
+      "dust",
+      "moss",
+      "rust"
+    ],
+    "answer": 1,
+    "fact": "Sailors and wanderers have traded this line for centuries.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Ivory Soap: 99 and 44/100 percent ___",
+    "choices": [
+      "mild",
+      "gentle",
+      "pure"
+    ],
+    "answer": 2,
+    "fact": "Ivory has claimed that oddly precise number since the 1880s. And it floats.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Fats Domino song: Blueberry ___",
+    "choices": [
+      "Lane",
+      "Hill",
+      "Farm"
+    ],
+    "answer": 1,
+    "fact": "Fats made it his own in 1956, though the song was written back in 1940.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: The Man from ___",
+    "choices": [
+      "U.N.C.L.E.",
+      "S.H.I.E.L.D.",
+      "I.N.T.E.R.P.O.L."
+    ],
+    "answer": 0,
+    "fact": "Napoleon Solo and Illya Kuryakin, spying in style from 1964 to 1968.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Popeye's line: I yam what I ___",
+    "choices": [
+      "is",
+      "am",
+      "yam"
+    ],
+    "answer": 2,
+    "fact": "Spinach optional. That gravelly voice came from Jack Mercer for decades.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Don't look a gift horse in the ___",
+    "choices": [
+      "mouth",
+      "eye",
+      "bridle"
+    ],
+    "answer": 0,
+    "fact": "You check a horse's teeth to judge its age. Not polite with a present.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Hallmark: When you care enough to send the very ___",
+    "choices": [
+      "finest",
+      "best",
+      "most"
+    ],
+    "answer": 1,
+    "fact": "Written in 1944 and printed on the back of the card ever since.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Perry Como song: Catch a Falling ___",
+    "choices": [
+      "Star",
+      "Leaf",
+      "Snowflake"
+    ],
+    "answer": 0,
+    "fact": "His 1958 recording won the very first Grammy given for a male vocal.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: My Three ___",
+    "choices": [
+      "Boys",
+      "Angels",
+      "Sons"
+    ],
+    "answer": 2,
+    "fact": "Fred MacMurray raised them for twelve seasons, starting in 1960.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Porky Pig's sign-off: Th-th-that's all, ___!",
+    "choices": [
+      "folks",
+      "friends",
+      "kids"
+    ],
+    "answer": 0,
+    "fact": "He stuttered his way out of Warner Brothers cartoons starting in 1935.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: People in glass houses shouldn't throw ___",
+    "choices": [
+      "parties",
+      "rocks",
+      "stones"
+    ],
+    "answer": 2,
+    "fact": "Chaucer had a version of this one, and it still lands just right.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Texaco: Trust your car to the man who wears the ___",
+    "choices": [
+      "star",
+      "cap",
+      "smile"
+    ],
+    "answer": 0,
+    "fact": "The Texaco man checked your oil and washed your windshield, every time.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Bobby Darin song: Beyond the ___",
+    "choices": [
+      "Blue",
+      "Bay",
+      "Sea"
+    ],
+    "answer": 2,
+    "fact": "It began life as a French song called La Mer, all about the ocean.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show about a talking horse: Mister ___",
+    "choices": [
+      "Al",
+      "Ed",
+      "Ned"
+    ],
+    "answer": 1,
+    "fact": "Ed only talked to Wilbur, which was the whole joke, and it worked.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Tweety's line: I tawt I taw a puddy ___",
+    "choices": [
+      "cat",
+      "tat",
+      "tap"
+    ],
+    "answer": 1,
+    "fact": "Mel Blanc sped up his own voice to get that little bird just right.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Volkswagen's famous two-word ad: Think ___",
+    "choices": [
+      "again",
+      "thrifty",
+      "small"
+    ],
+    "answer": 2,
+    "fact": "That 1959 ad, mostly white space and one little car, changed advertising.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Make hay while the sun ___",
+    "choices": [
+      "rises",
+      "shines",
+      "holds"
+    ],
+    "answer": 1,
+    "fact": "Any farmer will tell you: cut it dry or you will regret it.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Name the Bobby Darin song: Splish ___",
+    "choices": [
+      "Sploosh",
+      "Splash",
+      "Swish"
+    ],
+    "answer": 1,
+    "fact": "Darin wrote it in 1958 on a dare, and it sold a million copies.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: The Patty ___ Show",
+    "choices": [
+      "Duke",
+      "Drake",
+      "Dean"
+    ],
+    "answer": 0,
+    "fact": "She played identical cousins, one from Brooklyn Heights and one from Scotland.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Yogi Bear's boast: Smarter than the average ___",
+    "choices": [
+      "ranger",
+      "picnic",
+      "bear"
+    ],
+    "answer": 2,
+    "fact": "Yogi and Boo Boo worked Jellystone Park's picnic baskets from 1958.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Still waters run ___",
+    "choices": [
+      "deep",
+      "cold",
+      "clear"
+    ],
+    "answer": 0,
+    "fact": "The quiet one at the table is often the one thinking hardest.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Alka-Seltzer: I can't believe I ate the whole ___",
+    "choices": [
+      "box",
+      "thing",
+      "plate"
+    ],
+    "answer": 1,
+    "fact": "A 1972 commercial, and folks were groaning it at the dinner table for years.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Drifters song: Under the ___",
+    "choices": [
+      "Boardwalk",
+      "Streetlight",
+      "Awning"
+    ],
+    "answer": 0,
+    "fact": "Recorded in 1964, and it still smells like suntan lotion and french fries.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the Marlo Thomas show: That ___",
+    "choices": [
+      "Lady",
+      "Woman",
+      "Girl"
+    ],
+    "answer": 2,
+    "fact": "Ann Marie moved to New York to be an actress, and flew a kite in the credits.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish the Batman sign-off: Same Bat-time, same Bat-___!",
+    "choices": [
+      "channel",
+      "station",
+      "hour"
+    ],
+    "answer": 0,
+    "fact": "The narrator said it every Wednesday, and every kid tuned back in.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Many hands make light ___",
+    "choices": [
+      "days",
+      "loads",
+      "work"
+    ],
+    "answer": 2,
+    "fact": "Proof arrives every year when the whole family does the dishes.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Prudential Insurance: Own a piece of the ___",
+    "choices": [
+      "rock",
+      "dream",
+      "future"
+    ],
+    "answer": 0,
+    "fact": "The rock is the Rock of Gibraltar, standing on the logo since 1896.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Four Seasons song: Walk Like a ___",
+    "choices": [
+      "Girl",
+      "Sailor",
+      "Man"
+    ],
+    "answer": 2,
+    "fact": "Frankie Valli's falsetto took it to number one in 1963.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: The Mod ___",
+    "choices": [
+      "Crew",
+      "Squad",
+      "Bunch"
+    ],
+    "answer": 1,
+    "fact": "Three young detectives, from 1968, and those clothes were something else.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Barney Fife's advice: Nip it in the ___",
+    "choices": [
+      "bloom",
+      "bud",
+      "branch"
+    ],
+    "answer": 1,
+    "fact": "Don Knotts won five Emmy awards being that wonderfully wound-up deputy.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Allstate: You're in good ___",
+    "choices": [
+      "company",
+      "care",
+      "hands"
+    ],
+    "answer": 2,
+    "fact": "The cupped-hands picture came along in 1950 and never needed changing.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Nothing ventured, nothing ___",
+    "choices": [
+      "earned",
+      "gained",
+      "won"
+    ],
+    "answer": 1,
+    "fact": "Chaucer again, roughly 600 years ago. He had a lot of good ones.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Name the Beach Boys song: Little Deuce ___",
+    "choices": [
+      "Roadster",
+      "Coupe",
+      "Wagon"
+    ],
+    "answer": 1,
+    "fact": "A deuce coupe is a 1932 Ford, and the boys sang about it in 1963.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: Marcus Welby, ___",
+    "choices": [
+      "M.D.",
+      "D.D.S.",
+      "R.N."
+    ],
+    "answer": 0,
+    "fact": "Robert Young played the kindly doctor who made house calls, starting in 1969.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Roy Rogers' farewell: Happy trails to ___",
+    "choices": [
+      "all",
+      "us",
+      "you"
+    ],
+    "answer": 2,
+    "fact": "Dale Evans wrote the song herself, and they closed every show with it.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: You can't have your cake and ___",
+    "choices": [
+      "eat it too",
+      "keep it too",
+      "save it too"
+    ],
+    "answer": 0,
+    "fact": "In print since the 1500s, usually said with a raised eyebrow.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Ford: Ford has a better ___",
+    "choices": [
+      "ride",
+      "idea",
+      "way"
+    ],
+    "answer": 1,
+    "fact": "A 1960s campaign, complete with a little light bulb glowing over the words.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Beatles song: Ticket to ___",
+    "choices": [
+      "Ride",
+      "Roam",
+      "Rome"
+    ],
+    "answer": 0,
+    "fact": "From 1965, and it turned up in their movie Help! that same year.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the movie musical: Seven Brides for Seven ___",
+    "choices": [
+      "Cowboys",
+      "Sailors",
+      "Brothers"
+    ],
+    "answer": 2,
+    "fact": "The barn-raising dance from 1954 is still one of the best ever filmed.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Buffalo Bob's call: It's Howdy Doody ___!",
+    "choices": [
+      "time",
+      "hour",
+      "day"
+    ],
+    "answer": 0,
+    "fact": "The children in the Peanut Gallery hollered it back at the top of their lungs.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Blood is thicker than ___",
+    "choices": [
+      "honey",
+      "wine",
+      "water"
+    ],
+    "answer": 2,
+    "fact": "A warm way of saying family shows up when it counts.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Coca-Cola: Things go better with ___",
+    "choices": [
+      "Coke",
+      "ice",
+      "friends"
+    ],
+    "answer": 0,
+    "fact": "The 1963 jingle, sung by everyone from the Supremes to Roy Orbison.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Nancy Sinatra song: These Boots Are Made for ___",
+    "choices": [
+      "Dancin'",
+      "Struttin'",
+      "Walkin'"
+    ],
+    "answer": 2,
+    "fact": "Lee Hazlewood wrote it, and Nancy's white go-go boots did the rest in 1966.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the movie musical: The Music ___",
+    "choices": [
+      "Box",
+      "Man",
+      "Hall"
+    ],
+    "answer": 1,
+    "fact": "Robert Preston sold band instruments to River City, Iowa in 1962.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Jackie Gleason's line: And away we ___!",
+    "choices": [
+      "ride",
+      "go",
+      "fly"
+    ],
+    "answer": 1,
+    "fact": "He said it launching into a sketch, usually with one arm swinging.",
+    "cat": "Catchphrases",
+    "d": 2
+  },
+  {
+    "q": "7-Up called itself the ___",
+    "choices": [
+      "Unsoda",
+      "Unpop",
+      "Uncola"
+    ],
+    "answer": 2,
+    "fact": "A cheeky 1968 campaign that turned being different into the whole selling point.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: A penny for your ___",
+    "choices": [
+      "worries",
+      "thoughts",
+      "secrets"
+    ],
+    "answer": 1,
+    "fact": "Sir Thomas More wrote it down in 1535. Still the kindest question there is.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Name the Roger Miller song: King of the ___",
+    "choices": [
+      "Rails",
+      "Road",
+      "Highway"
+    ],
+    "answer": 1,
+    "fact": "His 1965 hit about a happy drifter won five Grammy awards.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the Hayley Mills movie: The Parent ___",
+    "choices": [
+      "Trap",
+      "Swap",
+      "Prank"
+    ],
+    "answer": 0,
+    "fact": "She played both twins in 1961, thanks to some very clever camera work.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Maxwell Smart's line: Missed it by ___!",
+    "choices": [
+      "that much",
+      "an inch",
+      "a hair"
+    ],
+    "answer": 0,
+    "fact": "Don Adams held up two fingers a whisker apart. It was never that close.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Trix cereal: Silly rabbit, Trix are for ___",
+    "choices": [
+      "you",
+      "kids",
+      "us"
+    ],
+    "answer": 1,
+    "fact": "That poor rabbit has been coming up short since 1959.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Finish the saying: Pride goes before a ___",
+    "choices": [
+      "fall",
+      "storm",
+      "stumble"
+    ],
+    "answer": 0,
+    "fact": "An old proverb from the Book of Proverbs, gently reminding us all.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Name the Platters song: Smoke Gets in Your ___",
+    "choices": [
+      "Eyes",
+      "Hair",
+      "Way"
+    ],
+    "answer": 0,
+    "fact": "A 1933 show tune that the Platters carried to number one in 1958.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the movie musical: Fiddler on the ___",
+    "choices": [
+      "Bridge",
+      "Hill",
+      "Roof"
+    ],
+    "answer": 2,
+    "fact": "Topol played Tevye in the 1971 film, and it won three Academy Awards.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Ed Norton's greeting: Hey there, Ralphie ___!",
+    "choices": [
+      "pal",
+      "boy",
+      "kid"
+    ],
+    "answer": 1,
+    "fact": "Art Carney played Ed Norton, and the sewer worker stole every scene.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Talk is ___",
+    "choices": [
+      "easy",
+      "free",
+      "cheap"
+    ],
+    "answer": 2,
+    "fact": "The whole point being that doing costs a good deal more.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Lucky Charms: They're magically ___",
+    "choices": [
+      "delicious",
+      "marvelous",
+      "wonderful"
+    ],
+    "answer": 0,
+    "fact": "Lucky the Leprechaun started saying it in 1964, with the marshmallows.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Supremes song: Stop! In the Name of ___",
+    "choices": [
+      "Romance",
+      "Mercy",
+      "Love"
+    ],
+    "answer": 2,
+    "fact": "Diana Ross and the girls added that traffic-cop hand motion in 1965.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the Groucho Marx quiz show: You Bet Your ___",
+    "choices": [
+      "Hat",
+      "Life",
+      "Boots"
+    ],
+    "answer": 1,
+    "fact": "Say the secret word and a toy duck dropped down with a hundred dollars.",
+    "cat": "Titles",
+    "d": 2
+  },
+  {
+    "q": "Finish Gomer Pyle's line: Surprise, surprise, ___!",
+    "choices": [
+      "golly",
+      "shazam",
+      "surprise"
+    ],
+    "answer": 2,
+    "fact": "Jim Nabors said it three times over, wide-eyed every single time.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Strike while the iron is ___",
+    "choices": [
+      "ready",
+      "hot",
+      "glowing"
+    ],
+    "answer": 1,
+    "fact": "Straight from the blacksmith's shop, where timing was everything.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Jell-O: There's always room for ___",
+    "choices": [
+      "seconds",
+      "dessert",
+      "Jell-O"
+    ],
+    "answer": 2,
+    "fact": "A wiggly promise that dessert fits no matter how big the supper was.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the John Denver song: Take Me Home, Country ___",
+    "choices": [
+      "Lanes",
+      "Roads",
+      "Byways"
+    ],
+    "answer": 1,
+    "fact": "His 1971 hit about West Virginia, and the whole country sang along.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show: Car 54, Where Are ___?",
+    "choices": [
+      "We",
+      "You",
+      "They"
+    ],
+    "answer": 1,
+    "fact": "Two bumbling Bronx patrolmen, 1961 to 1963, and a wonderfully silly theme.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish Ernestine the operator's line: One ringy ___",
+    "choices": [
+      "dingy",
+      "dandy",
+      "dilly"
+    ],
+    "answer": 0,
+    "fact": "Lily Tomlin's snorting switchboard lady turned up on Laugh-In in 1969.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Don't put the cart before the ___",
+    "choices": [
+      "horse",
+      "mule",
+      "plow"
+    ],
+    "answer": 0,
+    "fact": "The Romans said something very close to this, and they had plenty of carts.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Jif peanut butter: Choosy mothers choose ___",
+    "choices": [
+      "Skippy",
+      "Jif",
+      "Peter Pan"
+    ],
+    "answer": 1,
+    "fact": "Jif started saying it in the 1960s and never let it go.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the song: Tie a Yellow Ribbon Round the Ole Oak ___",
+    "choices": [
+      "Tree",
+      "Gate",
+      "Post"
+    ],
+    "answer": 0,
+    "fact": "Tony Orlando and Dawn had the biggest-selling record of 1973 with it.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the Danny Thomas show: Make Room for ___",
+    "choices": [
+      "Daddy",
+      "Mama",
+      "Grandpa"
+    ],
+    "answer": 0,
+    "fact": "It ran from 1953, and the title came from his own daughters taking his bed.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish Durante's sign-off: Good night, Mrs. Calabash, wherever you ___",
+    "choices": [
+      "go",
+      "are",
+      "may be"
+    ],
+    "answer": 1,
+    "fact": "Jimmy Durante never would say who she was, and that was the charm of it.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Beggars can't be ___",
+    "choices": [
+      "choosy",
+      "pickers",
+      "choosers"
+    ],
+    "answer": 2,
+    "fact": "John Heywood printed it in 1546, and it has been handy ever since.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Esso gasoline: Put a tiger in your ___",
+    "choices": [
+      "tank",
+      "trunk",
+      "engine"
+    ],
+    "answer": 0,
+    "fact": "The 1964 tiger was such a hit that stations gave away striped tails.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Glen Campbell song: Rhinestone ___",
+    "choices": [
+      "Rider",
+      "Ranger",
+      "Cowboy"
+    ],
+    "answer": 2,
+    "fact": "Campbell heard it on a demo tape in 1975 and knew right away.",
+    "cat": "Songs",
+    "d": 2
+  },
+  {
+    "q": "Name the TV show with Mr. French: Family ___",
+    "choices": [
+      "Matters",
+      "Circle",
+      "Affair"
+    ],
+    "answer": 2,
+    "fact": "Sebastian Cabot minded Buffy, Jody and Cissy from 1966 to 1971.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: You made your bed, now ___",
+    "choices": [
+      "sleep in it",
+      "lie in it",
+      "rest in it"
+    ],
+    "answer": 1,
+    "fact": "Said with folded arms by mothers in every generation.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Finish Geraldine's excuse on Flip Wilson: The devil made me do ___",
+    "choices": [
+      "that",
+      "this",
+      "it"
+    ],
+    "answer": 2,
+    "fact": "Flip Wilson played Geraldine himself, sass and all, starting in 1970.",
+    "cat": "Catchphrases",
+    "d": 3
+  },
+  {
+    "q": "Maytag ads starred the loneliest man in town, the Maytag ___",
+    "choices": [
+      "salesman",
+      "driver",
+      "repairman"
+    ],
+    "answer": 2,
+    "fact": "Jesse White played him from 1967 on, waiting by a phone that never rang.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Bill Bixby show: The Courtship of Eddie's ___",
+    "choices": [
+      "Sister",
+      "Father",
+      "Teacher"
+    ],
+    "answer": 1,
+    "fact": "A little boy trying to find his widowed dad a wife, starting in 1969.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Name the 1948 Dinah Shore hit: Buttons and ___",
+    "choices": [
+      "Beaus",
+      "Bells",
+      "Bows"
+    ],
+    "answer": 2,
+    "fact": "It came from a Bob Hope picture and won the Oscar for best song.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: The squeaky wheel gets the ___",
+    "choices": [
+      "grease",
+      "oil",
+      "attention"
+    ],
+    "answer": 0,
+    "fact": "An American saying, popular by the early 1900s. Wagons everywhere agreed.",
+    "cat": "Sayings",
+    "d": 2
+  },
+  {
+    "q": "Chiffon margarine: It's not nice to fool Mother ___",
+    "choices": [
+      "Goose",
+      "Nature",
+      "Hubbard"
+    ],
+    "answer": 1,
+    "fact": "A 1971 ad, and Mother Nature always looked so disappointed.",
+    "cat": "Slogans",
+    "d": 2
+  },
+  {
+    "q": "Name the Nat King Cole song: Nature ___",
+    "choices": [
+      "Child",
+      "Boy",
+      "Man"
+    ],
+    "answer": 1,
+    "fact": "A strange, lovely little song that gave Cole his first number one in 1948.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Name the Bing Crosby movie: The Bells of St. ___",
+    "choices": [
+      "Mary's",
+      "Michael's",
+      "Martin's"
+    ],
+    "answer": 0,
+    "fact": "Crosby and Ingrid Bergman, 1945, and it was the year's biggest picture.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: The proof of the pudding is in the ___",
+    "choices": [
+      "tasting",
+      "baking",
+      "eating"
+    ],
+    "answer": 2,
+    "fact": "The original wording, older and truer than the way most folks say it now.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "The little boy in the cereal ads cried: I want my ___!",
+    "choices": [
+      "Maypo",
+      "Ovaltine",
+      "Malt-O-Meal"
+    ],
+    "answer": 0,
+    "fact": "Maypo, the maple-flavored oatmeal, from a 1956 cartoon commercial.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Name the Vaughn Monroe song: (Ghost) ___ in the Sky",
+    "choices": [
+      "Riders",
+      "Horses",
+      "Wagons"
+    ],
+    "answer": 0,
+    "fact": "A cowboy tale set to music, and the biggest record of 1949.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Name the Disney movie: Swiss Family ___",
+    "choices": [
+      "Robertson",
+      "Robins",
+      "Robinson"
+    ],
+    "answer": 2,
+    "fact": "The 1960 film had a treehouse so wonderful Disneyland went and built one.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: A fool and his money are soon ___",
+    "choices": [
+      "parted",
+      "spent",
+      "scattered"
+    ],
+    "answer": 0,
+    "fact": "Printed in 1587, and county fairs have proved it every summer since.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Ipana toothpaste: Bucky Beaver sang brusha, brusha, ___",
+    "choices": [
+      "scrubba",
+      "rinsa",
+      "brusha"
+    ],
+    "answer": 2,
+    "fact": "Bucky Beaver was drawn by Disney animators, believe it or not.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Name the Gene Chandler song: Duke of ___",
+    "choices": [
+      "York",
+      "Pearl",
+      "Earl"
+    ],
+    "answer": 2,
+    "fact": "Chandler wore a cape and monocle on stage in 1962. Why not.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Name the radio show: Fibber McGee and ___",
+    "choices": [
+      "Maggie",
+      "Molly",
+      "Millie"
+    ],
+    "answer": 1,
+    "fact": "Every week that hall closet came crashing open, and every week it was funny.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Fine feathers make fine ___",
+    "choices": [
+      "hats",
+      "birds",
+      "ladies"
+    ],
+    "answer": 1,
+    "fact": "A tidy way of saying good clothes do wonders for anybody.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Name the Eve Arden show: Our Miss ___",
+    "choices": [
+      "Brooks",
+      "Brooke",
+      "Banks"
+    ],
+    "answer": 0,
+    "fact": "She played a wisecracking high school English teacher on radio and TV.",
+    "cat": "Titles",
+    "d": 3
+  },
+  {
+    "q": "Name the Four Seasons song: Rag ___",
+    "choices": [
+      "Time",
+      "Doll",
+      "Man"
+    ],
+    "answer": 1,
+    "fact": "Their 1964 hit, written after Bob Gaudio met a girl washing windshields.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Halo shampoo: Halo, everybody, ___",
+    "choices": [
+      "hello",
+      "Halo",
+      "hi there"
+    ],
+    "answer": 1,
+    "fact": "A radio and TV jingle of the 1950s that promised no soap-dulled hair.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: A miss is as good as a ___",
+    "choices": [
+      "win",
+      "yard",
+      "mile"
+    ],
+    "answer": 2,
+    "fact": "Close does not count, whether you missed by an inch or by a mile.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Duz laundry soap: Duz does ___",
+    "choices": [
+      "everything",
+      "it all",
+      "the wash"
+    ],
+    "answer": 0,
+    "fact": "And there was a drinking glass or a dish tucked inside the box.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Name the Beatles song: Norwegian ___",
+    "choices": [
+      "Wood",
+      "Skies",
+      "Nights"
+    ],
+    "answer": 0,
+    "fact": "From Rubber Soul in 1965, with George Harrison playing the sitar.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Zenith: The quality goes in before the name goes ___",
+    "choices": [
+      "out",
+      "up",
+      "on"
+    ],
+    "answer": 2,
+    "fact": "Zenith said it for decades, back when a television was furniture.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Faint heart never won fair ___",
+    "choices": [
+      "lady",
+      "maiden",
+      "hand"
+    ],
+    "answer": 0,
+    "fact": "Advice to the bashful, in print since the 1500s. Go on and ask her.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Name the Glen Campbell song: Wichita ___",
+    "choices": [
+      "Sunrise",
+      "Station",
+      "Lineman"
+    ],
+    "answer": 2,
+    "fact": "Jimmy Webb wrote it in 1968 after seeing a man up a pole on a lonely road.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: A new broom sweeps ___",
+    "choices": [
+      "twice",
+      "clean",
+      "wide"
+    ],
+    "answer": 1,
+    "fact": "Said whenever somebody new takes charge and starts changing things.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "General Electric: Progress is our most important ___",
+    "choices": [
+      "promise",
+      "product",
+      "idea"
+    ],
+    "answer": 1,
+    "fact": "GE used it from the 1950s, on everything from light bulbs to refrigerators.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Enough is as good as a ___",
+    "choices": [
+      "fortune",
+      "bushel",
+      "feast"
+    ],
+    "answer": 2,
+    "fact": "A contented little proverb: having plenty is as fine as having too much.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Name the Patsy Cline song: Walkin' After ___",
+    "choices": [
+      "Sundown",
+      "Midnight",
+      "Church"
+    ],
+    "answer": 1,
+    "fact": "Her 1957 breakthrough, sung on a television talent show first.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "DuPont: Better things for better living through ___",
+    "choices": [
+      "chemistry",
+      "science",
+      "research"
+    ],
+    "answer": 0,
+    "fact": "Coined in 1935, and nylon stockings made believers of everyone.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Name the Platters song: Twilight ___",
+    "choices": [
+      "Time",
+      "Hour",
+      "Sky"
+    ],
+    "answer": 0,
+    "fact": "A number one record in 1958, and those harmonies are still gorgeous.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Vitalis hair tonic promised no greasy kid ___",
+    "choices": [
+      "tonic",
+      "goo",
+      "stuff"
+    ],
+    "answer": 2,
+    "fact": "A sly little dig at the heavier hair creams the other fellows used.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: One swallow doesn't make a ___",
+    "choices": [
+      "summer",
+      "springtime",
+      "flock"
+    ],
+    "answer": 0,
+    "fact": "Aristotle wrote it first. One warm day does not mean winter is over.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Name the Marvelettes song: Please Mr. ___",
+    "choices": [
+      "Milkman",
+      "Sandman",
+      "Postman"
+    ],
+    "answer": 2,
+    "fact": "It was Motown's very first number one record, back in 1961.",
+    "cat": "Songs",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: You can't make a silk purse out of a sow's ___",
+    "choices": [
+      "tail",
+      "ear",
+      "snout"
+    ],
+    "answer": 1,
+    "fact": "In use since the 1500s, usually with a shrug and a smile.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Wildroot Cream-Oil jingle: Get Wildroot Cream-Oil, ___",
+    "choices": [
+      "Freddie",
+      "Charlie",
+      "Johnny"
+    ],
+    "answer": 1,
+    "fact": "The 1940s jingle even got recorded by the King Cole Trio.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Least said, soonest ___",
+    "choices": [
+      "forgiven",
+      "forgotten",
+      "mended"
+    ],
+    "answer": 2,
+    "fact": "Wise counsel after a squabble: let it be, and it heals faster.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Hoover vacuums: It beats as it sweeps as it ___",
+    "choices": [
+      "cleans",
+      "shines",
+      "hums"
+    ],
+    "answer": 0,
+    "fact": "In use since the 1920s, describing the beater bar under the machine.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Penny wise and pound ___",
+    "choices": [
+      "foolish",
+      "poor",
+      "careless"
+    ],
+    "answer": 0,
+    "fact": "Robert Burton wrote it in 1621, about folks who save small and spend big.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Armour hot dogs: The dogs kids love to ___",
+    "choices": [
+      "buy",
+      "grill",
+      "bite"
+    ],
+    "answer": 2,
+    "fact": "The jingle listed fat kids, skinny kids, even kids with chicken pox.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Empty vessels make the most ___",
+    "choices": [
+      "fuss",
+      "noise",
+      "clatter"
+    ],
+    "answer": 1,
+    "fact": "An old English proverb about people who talk loudest and know least.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Levy's rye bread: You don't have to be Jewish to love ___",
+    "choices": [
+      "rye bread",
+      "Levy's",
+      "our bread"
+    ],
+    "answer": 1,
+    "fact": "Those 1960s subway posters showed all sorts of happy folks with a sandwich.",
+    "cat": "Slogans",
+    "d": 3
+  },
+  {
+    "q": "Finish the saying: Handsome is as handsome ___",
+    "choices": [
+      "seems",
+      "looks",
+      "does"
+    ],
+    "answer": 2,
+    "fact": "Goldsmith used it in 1766. Good deeds beat good looks every time.",
+    "cat": "Sayings",
+    "d": 3
+  },
+  {
+    "q": "Certs mints: Two, two, two mints in ___",
+    "choices": [
+      "one",
+      "a roll",
+      "a pack"
+    ],
+    "answer": 0,
+    "fact": "A candy mint and a breath mint, settled by a referee in the commercial.",
+    "cat": "Slogans",
+    "d": 3
   }
 ]

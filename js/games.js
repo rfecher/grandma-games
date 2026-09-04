@@ -1,12 +1,20 @@
-/* All three games are the same shape: a prompt, a few big buttons, a warm
-   reaction. Only the question bank changes. */
+/* All four games are the same shape: a prompt, a few big buttons, a warm
+   reaction. Only the question bank (and sometimes the fixed set of choices)
+   changes. */
 
 const Game = {
-  key: null,        /* 'trivia' | 'lines' | 'remember' */
+  key: null,        /* 'trivia' | 'lines' | 'remember' | 'decades' */
   bank: {},         /* loaded question arrays, by key */
   item: null,       /* the question on screen */
+  choices: null,    /* its choices (per-question, or the game's fixed set) */
   view: null,       /* choices as displayed, plus the correct display index */
   answered: false,
+
+  /* This sitting only — never saved. */
+  streak: 0,
+  misses: 0,
+  nudged: {},
+  skipAdvance: false,
 
   async start(key) {
     Game.key = key;
@@ -14,6 +22,7 @@ const Game = {
     Store.save();
     show('game');
     renderStarCount();
+    renderLevelChip();
 
     if (!Game.bank[key]) {
       Game.showMessage('Just a moment…', 'Getting your questions ready.');
@@ -27,18 +36,29 @@ const Game = {
         return;
       }
     }
+
+    /* If she closed the app with a question on screen, don't hand her the
+       same one again — it reads as a repeat. */
+    const bank = Game.bank[key];
+    const p = Store.order(key, bank);
+    if (p.shown) Store.advance(key, bank);
+
     Game.render();
   },
 
   async loadBank(key) {
     const files = CONFIG.games[key].files;
-    const parts = await Promise.all(files.map((f) => fetch(f).then((r) => {
+    const parts = await Promise.all(files.map((f) => fetch(f, { cache: 'no-cache' }).then((r) => {
       if (!r.ok) throw new Error(f);
       return r.json();
     })));
     const all = [].concat.apply([], parts);
     if (!all.length) throw new Error('empty');
     return all;
+  },
+
+  choicesFor(item) {
+    return item.choices || CONFIG.games[Game.key].fixedChoices;
   },
 
   /* A calm full-card message (loading / trouble), with no choices. */
@@ -59,22 +79,15 @@ const Game = {
 
   render() {
     const bank = Game.bank[Game.key];
-    const prog = Store.order(Game.key, bank.length);
+    const prog = Store.order(Game.key, bank);
     Game.item = bank[prog.order[prog.pos]];
+    Game.choices = Game.choicesFor(Game.item);
     Game.answered = false;
 
     /* Build the on-screen choice order. */
-    const idx = Game.item.choices.map((_, i) => i);
-    if (CONFIG.games[Game.key].shuffleChoices) {
-      for (let i = idx.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [idx[i], idx[j]] = [idx[j], idx[i]];
-      }
-    }
-    Game.view = {
-      order: idx,
-      correct: idx.indexOf(Game.item.answer)
-    };
+    const idx = Game.choices.map((_, i) => i);
+    if (CONFIG.games[Game.key].shuffleChoices) shuffle(idx);
+    Game.view = { order: idx, correct: idx.indexOf(Game.item.answer) };
 
     $('q-cat').textContent = Game.item.cat || CONFIG.games[Game.key].title;
     $('q-text').textContent = Game.item.q;
@@ -85,18 +98,19 @@ const Game = {
     $('btn-next').hidden = true;
 
     const wrap = $('choices');
-    wrap.className = 'choices';
+    wrap.className = 'choices' + (idx.length >= 4 ? ' four' : '');
     wrap.innerHTML = '';
     idx.forEach((original, shown) => {
       const b = document.createElement('button');
       b.className = 'choice';
       b.innerHTML = '<span class="num"></span><span class="label"></span><span class="mark"></span>';
       b.querySelector('.num').textContent = shown + 1;
-      b.querySelector('.label').textContent = Game.item.choices[original];
+      b.querySelector('.label').textContent = Game.choices[original];
       b.addEventListener('click', () => Game.answer(shown, b));
       wrap.appendChild(b);
     });
 
+    Store.markShown(Game.key, Game.item, bank.length);
     if (Store.data.autoRead) setTimeout(() => Game.speak(), 350);
   },
 
@@ -124,7 +138,7 @@ const Game = {
        scrolling to reach the Next button. */
     setTimeout(() => buttons.forEach((b) => b.classList.add('gone')), 800);
 
-    const correctText = Game.item.choices[Game.item.answer];
+    const correctText = Game.choices[Game.item.answer];
     const fb = $('feedback');
     fb.hidden = false;
     fb.className = right ? 'feedback' : 'feedback try';
@@ -142,39 +156,77 @@ const Game = {
     }
 
     if (right) {
+      Game.streak += 1;
+      Game.misses = 0;
       const kid = Store.awardStar();
       renderStarCount();
       if (Store.data.total % CONFIG.CELEBRATE_EVERY === 0) {
-        Game.pendingKid = kid;
-        Game.celebrateTimer = setTimeout(() => {
-          Game.pendingKid = null;
-          celebrate(kid);
-        }, 500);
+        setTimeout(() => celebrate(kid), 500);
       } else {
         toast('⭐ A star for ' + kid.name + '!');
       }
+    } else {
+      Game.misses += 1;
+      Game.streak = 0;
+    }
+
+    Game.maybeOfferLevelChange();
+  },
+
+  /* After a hot streak, offer the next level up; after a rough patch, offer
+     to ease off. Each offer is made once per level per sitting, and she can
+     always say no. */
+  maybeOfferLevelChange() {
+    const lvl = Store.data.level;
+    const bank = Game.bank[Game.key];
+
+    const switchTo = (n) => {
+      Store.advance(Game.key, bank);       /* finish with this level's question */
+      Store.setLevel(n);
+      Game.skipAdvance = true;              /* the new level starts at its first question */
+      Game.streak = 0;
+      Game.misses = 0;
+      renderLevelChip();
+      toast(CONFIG.levels[n].name + ' questions from now on');
+    };
+
+    if (Game.streak >= CONFIG.NUDGE_UP_STREAK && lvl < 3 && !Game.nudged['up' + lvl]) {
+      Game.nudged['up' + lvl] = true;
+      const next = CONFIG.levels[lvl + 1].name;
+      setTimeout(() => Modal.show({
+        icon: '🎉',
+        msg: Game.streak + ' in a row! Want to try the ' + next + ' questions?',
+        yes: 'Yes, let\'s try ' + next,
+        no: 'Not right now',
+        speak: true,
+        onYes: () => switchTo(lvl + 1)
+      }), 900);
+    } else if (Game.misses >= CONFIG.NUDGE_DOWN_MISSES && lvl > 1 && !Game.nudged['down' + lvl]) {
+      Game.nudged['down' + lvl] = true;
+      const prev = CONFIG.levels[lvl - 1].name;
+      setTimeout(() => Modal.show({
+        icon: '💜',
+        msg: 'Those were tough ones! Want to switch to ' + prev + ' for a while?',
+        yes: 'Yes, ' + prev + ' please',
+        no: 'No, keep them coming',
+        speak: true,
+        onYes: () => switchTo(lvl - 1)
+      }), 900);
     }
   },
 
   next() {
-    /* If she tapped Next before the celebration had a chance to appear, show
-       it over the new question rather than swallowing it. */
-    const owed = Game.pendingKid;
-    clearTimeout(Game.celebrateTimer);
-    Game.pendingKid = null;
-
-    Store.advance(Game.key, Game.bank[Game.key].length);
+    if (Game.skipAdvance) Game.skipAdvance = false;
+    else Store.advance(Game.key, Game.bank[Game.key]);
     Game.render();
     window.scrollTo(0, 0);
-
-    if (owed) celebrate(owed);
   },
 
   /* ---- reading aloud ---- */
   speechText() {
     const parts = [Game.item.q];
     Game.view.order.forEach((original, shown) => {
-      parts.push('Number ' + (shown + 1) + '. ' + Game.item.choices[original] + '.');
+      parts.push('Number ' + (shown + 1) + '. ' + Game.choices[original] + '.');
     });
     return parts.join(' … ');
   },

@@ -7,7 +7,8 @@
     ],
     "answer": 1,
     "fact": "Lucy came first, in 1951. The Bradys did not move in until 1969.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Ed Sullivan Show' or 'Sesame Street'?",
@@ -17,7 +18,8 @@
     ],
     "answer": 1,
     "fact": "Ed Sullivan started in 1948. Big Bird did not turn up until 1969.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Honeymooners' or 'The Waltons'?",
@@ -27,7 +29,8 @@
     ],
     "answer": 1,
     "fact": "Ralph and Alice had their own show in 1955. The Waltons arrived in 1972.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Howdy Doody' or 'Gilligan's Island'?",
@@ -37,7 +40,8 @@
     ],
     "answer": 0,
     "fact": "Howdy Doody said hello in 1947. The castaways set sail in 1964.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Tonight Show' or 'Happy Days'?",
@@ -47,7 +51,8 @@
     ],
     "answer": 0,
     "fact": "Steve Allen hosted the very first Tonight Show in 1954. Fonzie came in 1974.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Dragnet' or 'The Mary Tyler Moore Show'?",
@@ -57,7 +62,8 @@
     ],
     "answer": 1,
     "fact": "Dragnet hit television in 1951. Mary tossed her hat in the air in 1970.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Lassie' or 'Little House on the Prairie'?",
@@ -67,7 +73,8 @@
     ],
     "answer": 1,
     "fact": "Lassie started fetching help in 1954, a full twenty years before Little House.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Lone Ranger' on TV or 'Star Trek'?",
@@ -77,7 +84,8 @@
     ],
     "answer": 0,
     "fact": "The masked man rode onto TV in 1949. The Enterprise launched in 1966.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Captain Kangaroo' or 'The Muppet Show'?",
@@ -87,7 +95,8 @@
     ],
     "answer": 0,
     "fact": "The Captain opened his treasure house in 1955, twenty-one years before Kermit.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Father Knows Best' or 'The Partridge Family'?",
@@ -97,7 +106,8 @@
     ],
     "answer": 0,
     "fact": "Robert Young came to TV in 1954. The Partridges boarded their bus in 1970.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Twilight Zone' or 'Sanford and Son'?",
@@ -107,7 +117,8 @@
     ],
     "answer": 1,
     "fact": "Rod Serling opened that door in 1959. Fred Sanford opened his junkyard in 1972.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Leave It to Beaver' or 'Three's Company'?",
@@ -117,7 +128,8 @@
     ],
     "answer": 0,
     "fact": "The Beaver showed up in 1957, a good twenty years ahead of Three's Company.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'American Bandstand' or 'Soul Train'?",
@@ -127,7 +139,8 @@
     ],
     "answer": 1,
     "fact": "Dick Clark went national in 1957. Soul Train pulled in nationally in 1971.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'Bonanza' or 'Good Times'?",
@@ -137,7 +150,8 @@
     ],
     "answer": 1,
     "fact": "The Cartwrights rode in during 1959. Good Times arrived in 1974.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Andy Griffith Show' or 'The Love Boat'?",
@@ -147,7 +161,8 @@
     ],
     "answer": 1,
     "fact": "Mayberry opened up in 1960. The Love Boat set sail seventeen years later.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'The Wizard of Oz' or 'The Sound of Music'?",
@@ -157,7 +172,8 @@
     ],
     "answer": 0,
     "fact": "Dorothy skipped down the yellow brick road in 1939, Maria sang in 1965.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Gone with the Wind' or 'Mary Poppins'?",
@@ -167,7 +183,8 @@
     ],
     "answer": 0,
     "fact": "Scarlett came first, in 1939. Mary floated down with her umbrella in 1964.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Casablanca' or 'West Side Story'?",
@@ -177,7 +194,8 @@
     ],
     "answer": 1,
     "fact": "Bogart and Bergman met in 1942. West Side Story danced in nineteen years later.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Snow White' or 'Cinderella'?",
@@ -187,7 +205,8 @@
     ],
     "answer": 1,
     "fact": "Snow White was Disney's first full-length cartoon, in 1937. Cinderella came in 1950.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 2
   },
   {
     "q": "Which movie came first: 'Fantasia' or '101 Dalmatians'?",
@@ -197,7 +216,8 @@
     ],
     "answer": 1,
     "fact": "Fantasia's dancing hippos arrived in 1940, the puppies in 1961.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Singin' in the Rain' or 'Grease'?",
@@ -207,7 +227,8 @@
     ],
     "answer": 0,
     "fact": "Gene Kelly splashed through 1952. Grease did not open until 1978.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which came first: 'It's a Wonderful Life' or 'Breakfast at Tiffany's'?",
@@ -217,7 +238,8 @@
     ],
     "answer": 0,
     "fact": "George Bailey got his wings in 1946. Audrey window-shopped in 1961.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Pinocchio' or 'Lady and the Tramp'?",
@@ -227,7 +249,8 @@
     ],
     "answer": 1,
     "fact": "Pinocchio wished on a star in 1940. The spaghetti dinner came in 1955.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which came first: 'Miracle on 34th Street' or 'My Fair Lady'?",
@@ -237,7 +260,8 @@
     ],
     "answer": 0,
     "fact": "Kris Kringle charmed the courtroom in 1947. Eliza reached Ascot in 1964.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Dumbo' or 'The Jungle Book'?",
@@ -247,7 +271,8 @@
     ],
     "answer": 1,
     "fact": "Dumbo flew in 1941. Baloo sang about the bare necessities in 1967.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which came first: 'Some Like It Hot' or 'Willy Wonka'?",
@@ -257,7 +282,8 @@
     ],
     "answer": 0,
     "fact": "Marilyn's comedy arrived in 1959, a dozen years before the chocolate factory.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which movie came first: 'Bambi' or 'Sleeping Beauty'?",
@@ -267,7 +293,8 @@
     ],
     "answer": 1,
     "fact": "Bambi learned to walk in 1942. Sleeping Beauty woke up in 1959.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which came first: 'Meet Me in St. Louis' or 'Funny Girl'?",
@@ -277,7 +304,8 @@
     ],
     "answer": 1,
     "fact": "Judy Garland sang about that trolley in 1944. Barbra had her turn in 1968.",
-    "cat": "Movies"
+    "cat": "Movies",
+    "d": 1
   },
   {
     "q": "Which came first: Glenn Miller's big band or the Beatles?",
@@ -287,7 +315,8 @@
     ],
     "answer": 1,
     "fact": "Glenn Miller had the whole country dancing in 1939, long before 1964.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: Frank Sinatra's rise to fame or Elvis Presley's first hit?",
@@ -297,7 +326,8 @@
     ],
     "answer": 0,
     "fact": "The bobby-soxers were swooning for Sinatra by 1943. Elvis broke through in 1956.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: 'God Bless America' or 'Jingle Bell Rock'?",
@@ -307,7 +337,8 @@
     ],
     "answer": 0,
     "fact": "Kate Smith sang God Bless America in 1938. Jingle Bell Rock came along in 1957.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: the 45 rpm record or the cassette tape?",
@@ -317,7 +348,8 @@
     ],
     "answer": 0,
     "fact": "Little 45s arrived in 1949. Cassettes did not show up until 1963.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 2
   },
   {
     "q": "Which came first: Elvis Presley's first record or Elton John's first record?",
@@ -327,7 +359,8 @@
     ],
     "answer": 1,
     "fact": "Elvis first recorded in 1954. Elton John's debut came fifteen years later.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: Nat King Cole's 'Mona Lisa' or Elton John's 'Rocket Man'?",
@@ -337,7 +370,8 @@
     ],
     "answer": 1,
     "fact": "Nat King Cole's velvet voice charmed 1950. Rocket Man lifted off in 1972.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: the Grand Ole Opry radio show or the Beatles' first US visit?",
@@ -347,7 +381,8 @@
     ],
     "answer": 1,
     "fact": "The Opry started up in the 1920s, about forty years before Beatlemania.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: 'The Lawrence Welk Show' or 'The Sonny and Cher Comedy Hour'?",
@@ -357,7 +392,8 @@
     ],
     "answer": 0,
     "fact": "Welk's bubbles started floating in 1955. Sonny and Cher came in 1971.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: the diner jukebox or the 8-track tape?",
@@ -367,7 +403,8 @@
     ],
     "answer": 0,
     "fact": "Jukeboxes were glowing in every diner by the 1940s. 8-tracks arrived in 1965.",
-    "cat": "Music"
+    "cat": "Music",
+    "d": 1
   },
   {
     "q": "Which came first: the Model T Ford or the Volkswagen Beetle in America?",
@@ -377,7 +414,8 @@
     ],
     "answer": 0,
     "fact": "The Model T rolled out in 1908. The Beetle reached American roads in 1949.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the hula hoop craze or the Rubik's Cube?",
@@ -387,7 +425,8 @@
     ],
     "answer": 1,
     "fact": "Hula hoops were spinning in 1958. The Rubik's Cube puzzled the world in 1980.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: TV dinners or the countertop microwave oven?",
@@ -397,7 +436,8 @@
     ],
     "answer": 0,
     "fact": "Swanson's TV dinners arrived in the early 1950s. Countertop microwaves came in 1967.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the Barbie doll or Star Wars toys?",
@@ -407,7 +447,8 @@
     ],
     "answer": 1,
     "fact": "Barbie arrived in 1959, nearly twenty years before the Star Wars figures.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the drive-in movie theater or McDonald's golden arches?",
@@ -417,7 +458,8 @@
     ],
     "answer": 0,
     "fact": "The first drive-in opened in 1933. The golden arches went up in 1955.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the pocket transistor radio or the Sony Walkman?",
@@ -427,7 +469,8 @@
     ],
     "answer": 0,
     "fact": "Pocket radios arrived in 1954. The Walkman came a full twenty-five years later.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the Slinky or the Easy-Bake Oven?",
@@ -437,7 +480,8 @@
     ],
     "answer": 1,
     "fact": "The Slinky walked down its first staircase in 1945, the little oven in 1963.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: Crayola crayons or Play-Doh?",
@@ -447,7 +491,8 @@
     ],
     "answer": 1,
     "fact": "Crayolas showed up in 1903. Play-Doh was not squished into cans until 1956.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the Kodak Brownie camera or the Polaroid instant camera?",
@@ -457,7 +502,8 @@
     ],
     "answer": 1,
     "fact": "The Brownie made snapshots easy in 1900. Polaroid's instant photos came in 1948.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: Disneyland in California or Walt Disney World in Florida?",
@@ -467,7 +513,8 @@
     ],
     "answer": 0,
     "fact": "Disneyland opened in 1955. Florida's park did not open until 1971.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Which came first: the Oreo cookie or the Twinkie?",
@@ -477,7 +524,8 @@
     ],
     "answer": 0,
     "fact": "Oreos were first twisted apart in 1912. Twinkies came along in 1930.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 3
   },
   {
     "q": "Which came first: Shirley Temple's movies or the Beatles' records?",
@@ -487,7 +535,8 @@
     ],
     "answer": 0,
     "fact": "Shirley was tap-dancing across screens in the 1930s, thirty years ahead of the Beatles.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Charlie Chaplin's silent films or John Wayne's westerns?",
@@ -497,7 +546,8 @@
     ],
     "answer": 1,
     "fact": "Chaplin's little tramp was already famous in the 1910s. Wayne's big year was 1939.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Judy Garland in 'The Wizard of Oz' or Julie Andrews in 'Mary Poppins'?",
@@ -507,7 +557,8 @@
     ],
     "answer": 0,
     "fact": "Judy sang in 1939. Julie snapped her fingers to tidy the nursery in 1964.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Lucille Ball's TV show or Carol Burnett's TV show?",
@@ -517,7 +568,8 @@
     ],
     "answer": 0,
     "fact": "Lucy started in 1951. Carol began tugging her ear in 1967.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Bob Hope's radio show or Johnny Carson hosting 'Tonight'?",
@@ -527,7 +579,8 @@
     ],
     "answer": 1,
     "fact": "Bob Hope was on the radio by 1938. Johnny took over the Tonight Show in 1962.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Clark Gable in 'Gone with the Wind' or Sean Connery as James Bond?",
@@ -537,7 +590,8 @@
     ],
     "answer": 0,
     "fact": "Gable had his big year in 1939. Connery ordered his first martini in 1962.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Which came first: Jack Benny on radio or 'The Dick Van Dyke Show'?",
@@ -547,7 +601,8 @@
     ],
     "answer": 1,
     "fact": "Jack Benny started his radio show in 1932, nearly thirty years before Rob Petrie.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "True or false: the milkman delivered bottles of milk right to the front door.",
@@ -557,7 +612,8 @@
     ],
     "answer": 0,
     "fact": "He surely did, often before sunrise, and the empties went back out at night.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "True or false: men first walked on the moon in 1969.",
@@ -567,7 +623,8 @@
     ],
     "answer": 0,
     "fact": "July of 1969, and just about everybody watched it happen on television.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "True or false: color television came along before black-and-white television.",
@@ -577,7 +634,8 @@
     ],
     "answer": 1,
     "fact": "Black-and-white came first by a long stretch. Color arrived in the 1950s.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A jukebox played what: records or radio shows?",
@@ -587,7 +645,8 @@
     ],
     "answer": 0,
     "fact": "A nickel, a push of a button, and the arm swung your record into place.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "At a drive-in movie, where did you watch from: your car or a folding chair?",
@@ -597,7 +656,8 @@
     ],
     "answer": 0,
     "fact": "Speaker hooked on the window, popcorn on the dash, kids in pajamas in the back.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "TV dinners came in what: an aluminum tray or a glass bowl?",
@@ -607,7 +667,8 @@
     ],
     "answer": 0,
     "fact": "Turkey in the big compartment, peas and cobbler in the little ones.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A party-line telephone was shared with whom: your neighbors or just your family?",
@@ -617,7 +678,8 @@
     ],
     "answer": 1,
     "fact": "Everyone had their own ring pattern, and everyone listened in now and then.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "S&H Green Stamps were saved by pasting them into what: books or jars?",
@@ -627,7 +689,8 @@
     ],
     "answer": 1,
     "fact": "Lick, paste, fill the book, then trade it in for a toaster. Pure satisfaction.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A transistor radio was famous for being what: pocket-sized or big as a cabinet?",
@@ -637,7 +700,8 @@
     ],
     "answer": 1,
     "fact": "You could carry your music to the beach for the first time. What a marvel.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A root beer float is root beer plus what: ice cream or whipped butter?",
@@ -647,7 +711,8 @@
     ],
     "answer": 0,
     "fact": "One scoop of vanilla, and the foam rises right up over the rim.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Children's roller skates in the 1950s: clamped onto your shoes or built into boots?",
@@ -657,7 +722,8 @@
     ],
     "answer": 1,
     "fact": "You wore the skate key on a string around your neck so you would not lose it.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "To change channels on an early TV set, you turned what: a dial or a crank?",
@@ -667,7 +733,8 @@
     ],
     "answer": 0,
     "fact": "It went ka-chunk, ka-chunk, and there were only a handful of channels anyway.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Rabbit ears on top of a television were what: an antenna or a decoration?",
@@ -677,7 +744,8 @@
     ],
     "answer": 0,
     "fact": "And a bit of tinfoil on the tips worked wonders on a snowy picture.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "The Slinky was famous for doing what: walking down stairs or floating?",
@@ -687,7 +755,8 @@
     ],
     "answer": 1,
     "fact": "It was invented by accident when a spring fell off a shelf and kept going.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Cracker Jack boxes famously contained what: a small prize or a coupon?",
@@ -697,7 +766,8 @@
     ],
     "answer": 1,
     "fact": "A tiny toy at the bottom of the box has delighted children since 1912.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A 45 rpm record held about how much music: one song per side or a whole album?",
@@ -707,7 +777,8 @@
     ],
     "answer": 1,
     "fact": "That is why they were called singles, and why you needed the little plastic insert.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "At a drive-in restaurant, carhops often served on what: roller skates or bicycles?",
@@ -717,7 +788,8 @@
     ],
     "answer": 0,
     "fact": "Tray hooked right onto your window, and she never spilled a single milkshake.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "The Sears Christmas catalog had what nickname: the Wish Book or the Toy Times?",
@@ -727,7 +799,8 @@
     ],
     "answer": 0,
     "fact": "Children circled their favorites in pencil and left it open on the coffee table.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "The colorful Sunday newspaper section was called what: the funnies or the classifieds?",
@@ -737,7 +810,8 @@
     ],
     "answer": 1,
     "fact": "Spread out on the living room floor, read comic by comic. A Sunday tradition.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Burma-Shave rhymes were read where: along the highway or in magazines?",
@@ -747,7 +821,8 @@
     ],
     "answer": 1,
     "fact": "Little red signs spaced out along the road, one line at a time, then the punchline.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A sock hop was a dance held where: in the school gym or at the library?",
@@ -757,7 +832,8 @@
     ],
     "answer": 0,
     "fact": "Shoes came off to protect the gym floor, which is exactly how it got its name.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "A poodle skirt was cut how: full and swingy or straight and narrow?",
@@ -767,7 +843,8 @@
     ],
     "answer": 0,
     "fact": "Felt, a big circle cut, and a little appliqued poodle on a rhinestone leash.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "Tupperware was famously sold where: at home parties or at the county fair?",
@@ -777,7 +854,8 @@
     ],
     "answer": 1,
     "fact": "Coffee, cake, and that satisfying burp of the seal. A whole afternoon's fun.",
-    "cat": "Life"
+    "cat": "Life",
+    "d": 1
   },
   {
     "q": "On 'Howdy Doody,' Howdy was what: a puppet or a horse?",
@@ -787,7 +865,8 @@
     ],
     "answer": 0,
     "fact": "A freckled marionette, and the Peanut Gallery cheered him on every single day.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "'The Lawrence Welk Show' was famous for what floating on screen: bubbles or feathers?",
@@ -797,7 +876,8 @@
     ],
     "answer": 1,
     "fact": "Wunnerful, wunnerful. The bubble machine was as much a star as the band.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'Captain Kangaroo,' the gardener friend was Mr. Green Jeans or Mr. Blue Suit?",
@@ -807,7 +887,8 @@
     ],
     "answer": 0,
     "fact": "Hugh Brannum played him for nearly thirty years, always with an animal in tow.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'I Love Lucy,' Lucy's best friend and neighbor was named what: Ethel or Edith?",
@@ -817,7 +898,8 @@
     ],
     "answer": 0,
     "fact": "Vivian Vance played Ethel Mertz, and those two could get into any kind of trouble.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'The Honeymooners,' Ralph Kramden drove what for a living: a bus or a taxi?",
@@ -827,7 +909,8 @@
     ],
     "answer": 0,
     "fact": "He drove for the Gotham Bus Company, and Ed Norton worked down in the sewer.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'The Andy Griffith Show,' the town was called what: Mayberry or Maple Grove?",
@@ -837,7 +920,8 @@
     ],
     "answer": 1,
     "fact": "Mayberry, North Carolina, where the biggest crime was usually Otis letting himself in.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Mister Rogers began each show by putting on what: a cardigan sweater or a raincoat?",
@@ -847,7 +931,8 @@
     ],
     "answer": 1,
     "fact": "His mother knitted many of those sweaters herself. One hangs in a museum now.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'Gilligan's Island,' the boat trip was to last three hours or three weeks?",
@@ -857,7 +942,8 @@
     ],
     "answer": 1,
     "fact": "A three hour tour that somehow stretched out over three whole seasons.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'Bewitched,' Samantha worked her magic by twitching what: her nose or her ears?",
@@ -867,7 +953,8 @@
     ],
     "answer": 0,
     "fact": "Elizabeth Montgomery actually wiggled her upper lip. The nose just came along for the ride.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'The Beverly Hillbillies,' the Clampetts moved to Beverly Hills or Palm Springs?",
@@ -877,7 +964,8 @@
     ],
     "answer": 1,
     "fact": "Swimming pools and movie stars, with the cement pond out back.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "On 'Green Acres,' the couple moved which way: city to farm or farm to city?",
@@ -887,7 +975,8 @@
     ],
     "answer": 1,
     "fact": "Oliver wanted the farm, Lisa wanted Park Avenue, and Arnold the pig watched television.",
-    "cat": "TV"
+    "cat": "TV",
+    "d": 1
   },
   {
     "q": "Elvis Presley was known as the King of what: Rock and Roll or Country?",
@@ -897,7 +986,8 @@
     ],
     "answer": 0,
     "fact": "Though he loved gospel music best of all, and recorded plenty of it.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Frank Sinatra's nickname was what: Ol' Blue Eyes or Ol' Brown Eyes?",
@@ -907,7 +997,8 @@
     ],
     "answer": 0,
     "fact": "Those famous blue eyes even got their own album title in 1973.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Nat King Cole was best known for what: a smooth singing voice or drumming?",
@@ -917,7 +1008,8 @@
     ],
     "answer": 0,
     "fact": "He started out as a wonderful jazz pianist, and then everyone heard him sing.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Bing Crosby was known as what kind of singer: a crooner or an opera singer?",
@@ -927,7 +1019,8 @@
     ],
     "answer": 1,
     "fact": "That warm, easy voice made him the most popular singer in America for years.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "The Andrews Sisters were what: a singing trio or a comedy duo?",
@@ -937,7 +1030,8 @@
     ],
     "answer": 0,
     "fact": "LaVerne, Maxene and Patty, three sisters with the tightest harmony around.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Doris Day was best known for what sort of roles: sunny and cheerful or spooky?",
@@ -947,7 +1041,8 @@
     ],
     "answer": 1,
     "fact": "She was America's sweetheart, and she loved animals more than the movies.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Judy Garland played Dorothy in which film: 'The Wizard of Oz' or 'Cinderella'?",
@@ -957,7 +1052,8 @@
     ],
     "answer": 1,
     "fact": "She was just sixteen, and she carried that whole picture on her shoulders.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Fred Astaire was famous for what: dancing or boxing?",
@@ -967,7 +1063,8 @@
     ],
     "answer": 1,
     "fact": "An early screen test supposedly said he could dance a little. A little indeed.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Shirley Temple was famous as what: a child star or a news anchor?",
@@ -977,7 +1074,8 @@
     ],
     "answer": 0,
     "fact": "Those fifty-six ringlets were counted and curled fresh for every single picture.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "Lucille Ball's hair was famously what color: red or jet black?",
@@ -987,7 +1085,8 @@
     ],
     "answer": 1,
     "fact": "It was a henna rinse, and the salon kept the exact recipe a secret for years.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
   },
   {
     "q": "John Wayne was best known for which kind of movie: westerns or musicals?",
@@ -997,6 +1096,887 @@
     ],
     "answer": 0,
     "fact": "The Duke made well over a hundred pictures, and most had a horse in them.",
-    "cat": "Stars"
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which came first: 'Gunsmoke' or 'Rawhide'?",
+    "choices": [
+      "Gunsmoke",
+      "Rawhide"
+    ],
+    "answer": 0,
+    "fact": "Marshal Dillon rode out in 1955; the cattle drive of 'Rawhide' began in 1959.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Munsters' or 'Alfred Hitchcock Presents'?",
+    "choices": [
+      "The Munsters",
+      "Alfred Hitchcock Presents"
+    ],
+    "answer": 1,
+    "fact": "Hitchcock's droll hello came in 1955, nine years before the Munsters moved in, in 1964.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Fugitive' or 'Perry Mason'?",
+    "choices": [
+      "The Fugitive",
+      "Perry Mason"
+    ],
+    "answer": 1,
+    "fact": "Perry Mason took the case in 1957; Dr. Kimble started running in 1963.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'What's My Line?' or 'The Price Is Right'?",
+    "choices": [
+      "What's My Line?",
+      "The Price Is Right"
+    ],
+    "answer": 0,
+    "fact": "The blindfolds came out in 1950; the first bids were called in 1956.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Rockford Files' or 'Hawaii Five-O'?",
+    "choices": [
+      "The Rockford Files",
+      "Hawaii Five-O"
+    ],
+    "answer": 1,
+    "fact": "McGarrett arrived in 1968; Rockford answered his trailer phone starting in 1974.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Flintstones' or 'Scooby-Doo'?",
+    "choices": [
+      "The Flintstones",
+      "Scooby-Doo"
+    ],
+    "answer": 0,
+    "fact": "Bedrock opened in 1960; the Mystery Machine rolled out in 1969.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'Kojak' or 'Mission: Impossible'?",
+    "choices": [
+      "Kojak",
+      "Mission: Impossible"
+    ],
+    "answer": 1,
+    "fact": "The tape self-destructed starting in 1966; Kojak offered his first lollipop in 1973.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'Petticoat Junction' or 'Hee Haw'?",
+    "choices": [
+      "Petticoat Junction",
+      "Hee Haw"
+    ],
+    "answer": 0,
+    "fact": "The Shady Rest opened in 1963; the cornfield jokes started in 1969.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Odd Couple' on TV or 'Batman'?",
+    "choices": [
+      "The Odd Couple",
+      "Batman"
+    ],
+    "answer": 1,
+    "fact": "The Batpole slid into 1966; Felix and Oscar shared an apartment starting in 1970.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'My Three Sons' or 'Family Affair'?",
+    "choices": [
+      "My Three Sons",
+      "Family Affair"
+    ],
+    "answer": 0,
+    "fact": "Steve Douglas raised his boys from 1960; Uncle Bill took in the children in 1966.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'An American in Paris' or 'Gigi'?",
+    "choices": [
+      "An American in Paris",
+      "Gigi"
+    ],
+    "answer": 0,
+    "fact": "Gene Kelly danced through Paris in 1951; 'Gigi' charmed audiences in 1958.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'The Searchers' or 'High Noon'?",
+    "choices": [
+      "The Searchers",
+      "High Noon"
+    ],
+    "answer": 1,
+    "fact": "The clock ticked down in 1952; John Wayne began his long search in 1956.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'Rear Window' or 'Vertigo'?",
+    "choices": [
+      "Rear Window",
+      "Vertigo"
+    ],
+    "answer": 0,
+    "fact": "Jimmy Stewart watched the courtyard in 1954 and climbed that tower in 1958.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'The Birds' or 'North by Northwest'?",
+    "choices": [
+      "The Birds",
+      "North by Northwest"
+    ],
+    "answer": 1,
+    "fact": "Cary Grant outran the crop duster in 1959; the gulls gathered in 1963.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'The Music Man' or 'Hello, Dolly!'?",
+    "choices": [
+      "The Music Man",
+      "Hello, Dolly!"
+    ],
+    "answer": 0,
+    "fact": "Professor Hill marched into theaters in 1962; Dolly made her entrance in 1969.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'The Graduate' or 'To Kill a Mockingbird'?",
+    "choices": [
+      "The Graduate",
+      "To Kill a Mockingbird"
+    ],
+    "answer": 1,
+    "fact": "Atticus Finch reached the screen in 1962; Benjamin Braddock followed in 1967.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'Doctor Zhivago' or 'Butch Cassidy and the Sundance Kid'?",
+    "choices": [
+      "Doctor Zhivago",
+      "Butch Cassidy"
+    ],
+    "answer": 0,
+    "fact": "That balalaika theme filled theaters in 1965; Butch and Sundance rode in 1969.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'Harvey' or 'Arsenic and Old Lace'?",
+    "choices": [
+      "Harvey",
+      "Arsenic and Old Lace"
+    ],
+    "answer": 1,
+    "fact": "Cary Grant met the peculiar aunts in 1944; Jimmy Stewart met his rabbit in 1950.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'The Maltese Falcon' or 'The Big Sleep'?",
+    "choices": [
+      "The Maltese Falcon",
+      "The Big Sleep"
+    ],
+    "answer": 0,
+    "fact": "Bogart chased the black bird in 1941 and met Bacall's Marlowe case in 1946.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie came first: 'Rebel Without a Cause' or 'A Streetcar Named Desire'?",
+    "choices": [
+      "Rebel Without a Cause",
+      "A Streetcar Named Desire"
+    ],
+    "answer": 1,
+    "fact": "Brando shouted for Stella in 1951; James Dean wore the red jacket in 1955.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which came first: Bing Crosby's 'White Christmas' or Gene Autry's 'Rudolph'?",
+    "choices": [
+      "White Christmas",
+      "Rudolph"
+    ],
+    "answer": 0,
+    "fact": "Bing's record came in 1942; Gene Autry's red-nosed reindeer followed in 1949.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'King of the Road' or Patsy Cline's 'Crazy'?",
+    "choices": [
+      "King of the Road",
+      "Crazy"
+    ],
+    "answer": 1,
+    "fact": "Patsy recorded 'Crazy' in 1961; Roger Miller was king of the road in 1965.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which came first: Ray Charles's 'Georgia on My Mind' or Aretha's 'Respect'?",
+    "choices": [
+      "Georgia on My Mind",
+      "Respect"
+    ],
+    "answer": 0,
+    "fact": "Ray had Georgia on his mind in 1960; Aretha asked for respect in 1967.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which came first: Johnny Cash's 'Ring of Fire' or 'I Walk the Line'?",
+    "choices": [
+      "Ring of Fire",
+      "I Walk the Line"
+    ],
+    "answer": 1,
+    "fact": "He walked the line in 1956, seven years before the ring of fire in 1963.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which came first: the Supremes' 'Where Did Our Love Go' or 'I Want You Back'?",
+    "choices": [
+      "Where Did Our Love Go",
+      "I Want You Back"
+    ],
+    "answer": 0,
+    "fact": "The Supremes hit in 1964; the Jackson brothers arrived in 1969.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which came first: the Ford Mustang or the Ford Thunderbird?",
+    "choices": [
+      "Ford Mustang",
+      "Ford Thunderbird"
+    ],
+    "answer": 1,
+    "fact": "The Thunderbird arrived in 1955; the Mustang galloped in nine years later, in 1964.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which came first: the Diners Club card or BankAmericard?",
+    "choices": [
+      "Diners Club card",
+      "BankAmericard"
+    ],
+    "answer": 0,
+    "fact": "Diners Club started charging dinners in 1950; BankAmericard came along in 1958.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which came first: Lite-Brite or the Etch A Sketch?",
+    "choices": [
+      "Lite-Brite",
+      "Etch A Sketch"
+    ],
+    "answer": 1,
+    "fact": "Those two white knobs appeared in 1960; the glowing pegs came in 1967.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which came first: Tang or Cool Whip?",
+    "choices": [
+      "Tang",
+      "Cool Whip"
+    ],
+    "answer": 0,
+    "fact": "Tang was on grocery shelves in 1957; Cool Whip topped its first pie in 1966.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which Elvis movie came first: 'Blue Hawaii' or 'Love Me Tender'?",
+    "choices": [
+      "Blue Hawaii",
+      "Love Me Tender"
+    ],
+    "answer": 1,
+    "fact": "His first picture was 'Love Me Tender' in 1956; 'Blue Hawaii' followed in 1961.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which Poitier film came first: 'Lilies of the Field' or 'Guess Who's Coming to Dinner'?",
+    "choices": [
+      "Lilies of the Field",
+      "Guess Who's Coming to Dinner"
+    ],
+    "answer": 0,
+    "fact": "'Lilies of the Field' came in 1963, four years before the 1967 dinner guest.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which Doris Day movie came first: 'Pillow Talk' or 'Calamity Jane'?",
+    "choices": [
+      "Pillow Talk",
+      "Calamity Jane"
+    ],
+    "answer": 1,
+    "fact": "She was Calamity Jane in 1953 and picked up that split-screen phone in 1959.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which came first: 'The Dating Game' or 'The Newlywed Game'?",
+    "choices": [
+      "The Dating Game",
+      "The Newlywed Game"
+    ],
+    "answer": 0,
+    "fact": "Chuck Barris matched up daters in 1965 and quizzed newlyweds in 1966.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'Laugh-In' or 'The Carol Burnett Show'?",
+    "choices": [
+      "Laugh-In",
+      "The Carol Burnett Show"
+    ],
+    "answer": 1,
+    "fact": "Carol tugged her ear starting in 1967; the Laugh-In joke wall opened in 1968.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'The Donna Reed Show' or 'The Dick Van Dyke Show'?",
+    "choices": [
+      "The Donna Reed Show",
+      "The Dick Van Dyke Show"
+    ],
+    "answer": 0,
+    "fact": "Donna Reed set the table in 1958; Rob Petrie met that ottoman in 1961.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'The Rifleman' or 'Have Gun - Will Travel'?",
+    "choices": [
+      "The Rifleman",
+      "Have Gun - Will Travel"
+    ],
+    "answer": 1,
+    "fact": "Paladin handed out his card in 1957; Lucas McCain took aim in 1958.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which Audrey Hepburn movie came first: 'Roman Holiday' or 'Sabrina'?",
+    "choices": [
+      "Roman Holiday",
+      "Sabrina"
+    ],
+    "answer": 0,
+    "fact": "She rode that scooter in 1953 and came home from Paris in 'Sabrina' in 1954.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which movie came first: 'Lawrence of Arabia' or 'Ben-Hur'?",
+    "choices": [
+      "Lawrence of Arabia",
+      "Ben-Hur"
+    ],
+    "answer": 1,
+    "fact": "The chariot race thundered in 1959; the desert epic followed in 1962.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which movie came first: 'Cool Hand Luke' or 'True Grit'?",
+    "choices": [
+      "Cool Hand Luke",
+      "True Grit"
+    ],
+    "answer": 0,
+    "fact": "Paul Newman ate those eggs in 1967; John Wayne took the reins in 1969.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which came first: Fats Domino's 'Blueberry Hill' or 'Great Balls of Fire'?",
+    "choices": [
+      "Blueberry Hill",
+      "Great Balls of Fire"
+    ],
+    "answer": 0,
+    "fact": "Fats found his thrill in 1956; Jerry Lee Lewis pounded the keys in 1957.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'Dark Shadows' or 'The Ghost & Mrs. Muir'?",
+    "choices": [
+      "Dark Shadows",
+      "The Ghost & Mrs. Muir"
+    ],
+    "answer": 0,
+    "fact": "Collinwood opened its doors in 1966; the seaside cottage series came in 1968.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'The Monkees' or 'Get Smart'?",
+    "choices": [
+      "The Monkees",
+      "Get Smart"
+    ],
+    "answer": 1,
+    "fact": "The shoe phone rang in 1965; the Monkees ran onto the screen in 1966.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first on TV: 'Ozzie and Harriet' or 'Make Room for Daddy'?",
+    "choices": [
+      "Ozzie and Harriet",
+      "Make Room for Daddy"
+    ],
+    "answer": 0,
+    "fact": "The Nelsons came to television in 1952; Danny Thomas made room in 1953.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'Maude' or 'All in the Family'?",
+    "choices": [
+      "Maude",
+      "All in the Family"
+    ],
+    "answer": 1,
+    "fact": "Archie settled into his chair in 1971; cousin Maude got her own show in 1972.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'The Bob Newhart Show' or 'The Jeffersons'?",
+    "choices": [
+      "The Bob Newhart Show",
+      "The Jeffersons"
+    ],
+    "answer": 0,
+    "fact": "Bob started listening to patients in 1972; the Jeffersons moved on up in 1975.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which movie came first: 'Giant' or 'Shane'?",
+    "choices": [
+      "Giant",
+      "Shane"
+    ],
+    "answer": 1,
+    "fact": "That boy called after Shane in 1953; the Texas ranch of 'Giant' came in 1956.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which movie came first: 'Oklahoma!' or 'The King and I'?",
+    "choices": [
+      "Oklahoma!",
+      "The King and I"
+    ],
+    "answer": 0,
+    "fact": "The surrey rolled onto film in 1955; Anna waltzed with the king in 1956.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which Disney movie came first: 'Peter Pan' or 'Alice in Wonderland'?",
+    "choices": [
+      "Peter Pan",
+      "Alice in Wonderland"
+    ],
+    "answer": 1,
+    "fact": "Alice fell down the rabbit hole in 1951; Peter flew to Never Land in 1953.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which came first: 'The Twist' or 'Louie Louie'?",
+    "choices": [
+      "The Twist",
+      "Louie Louie"
+    ],
+    "answer": 0,
+    "fact": "Chubby Checker got everyone twisting in 1960; the Kingsmen hit in 1963.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which came first: Mr. Potato Head or Silly Putty?",
+    "choices": [
+      "Mr. Potato Head",
+      "Silly Putty"
+    ],
+    "answer": 1,
+    "fact": "Silly Putty bounced into stores in 1950; Mr. Potato Head arrived in 1952.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "On 'The Mary Tyler Moore Show,' Mary worked in which city: Minneapolis or Milwaukee?",
+    "choices": [
+      "Minneapolis",
+      "Milwaukee"
+    ],
+    "answer": 0,
+    "fact": "She tossed her hat in downtown Minneapolis, at the newsroom of WJM-TV.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "The Munsters lived on which street: Cemetery Lane or Mockingbird Lane?",
+    "choices": [
+      "Cemetery Lane",
+      "Mockingbird Lane"
+    ],
+    "answer": 1,
+    "fact": "1313 Mockingbird Lane was theirs; Cemetery Lane belonged to the Addams family.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'The Waltons' was set on Walton's Mountain in which state: Virginia or Kentucky?",
+    "choices": [
+      "Virginia",
+      "Kentucky"
+    ],
+    "answer": 0,
+    "fact": "The family said goodnight from the Blue Ridge country of Virginia.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'The Addams Family,' the bald uncle was named Festus or Fester?",
+    "choices": [
+      "Festus",
+      "Fester"
+    ],
+    "answer": 1,
+    "fact": "Uncle Fester lit up light bulbs; Festus was the deputy over on 'Gunsmoke.'",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Elsie the Cow advertised which company: Borden or Carnation?",
+    "choices": [
+      "Borden",
+      "Carnation"
+    ],
+    "answer": 0,
+    "fact": "Elsie, with her daisy necklace, was Borden's smiling face for decades.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Mr. Whipple told shoppers not to squeeze which brand: Scott or Charmin?",
+    "choices": [
+      "Scott",
+      "Charmin"
+    ],
+    "answer": 1,
+    "fact": "He begged shoppers to leave the Charmin alone, then gave it a squeeze himself.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Charlie the Tuna pitched which brand: StarKist or Chicken of the Sea?",
+    "choices": [
+      "StarKist",
+      "Chicken of the Sea"
+    ],
+    "answer": 0,
+    "fact": "Poor Charlie had good taste, but StarKist wanted tuna that tasted good.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "The Volkswagen Beetle's engine sat where: under the front hood or in the rear?",
+    "choices": [
+      "Under the front hood",
+      "In the rear"
+    ],
+    "answer": 1,
+    "fact": "The air-cooled engine lived in back, so the front hood held the luggage.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Who played Ben Cartwright on 'Bonanza': Lorne Greene or Michael Landon?",
+    "choices": [
+      "Lorne Greene",
+      "Michael Landon"
+    ],
+    "answer": 0,
+    "fact": "Lorne Greene was Pa; Michael Landon was his youngest, Little Joe.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Who played the Skipper on 'Gilligan's Island': Jim Backus or Alan Hale Jr.?",
+    "choices": [
+      "Jim Backus",
+      "Alan Hale Jr."
+    ],
+    "answer": 1,
+    "fact": "Alan Hale Jr. was the Skipper; Jim Backus was millionaire Thurston Howell III.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "'Bewitched' aired on which network: ABC or CBS?",
+    "choices": [
+      "ABC",
+      "CBS"
+    ],
+    "answer": 0,
+    "fact": "Samantha and Darrin were an ABC household for all eight seasons.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played Gomer Pyle: George Lindsey or Jim Nabors?",
+    "choices": [
+      "George Lindsey",
+      "Jim Nabors"
+    ],
+    "answer": 1,
+    "fact": "Jim Nabors was Gomer; George Lindsey played his cousin Goober Pyle.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Madge the manicurist soaked fingertips in which dish soap: Palmolive or Ivory?",
+    "choices": [
+      "Palmolive",
+      "Ivory"
+    ],
+    "answer": 0,
+    "fact": "Madge let customers discover they were already soaking in Palmolive.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Who played Alice on 'The Honeymooners': Joyce Randolph or Audrey Meadows?",
+    "choices": [
+      "Joyce Randolph",
+      "Audrey Meadows"
+    ],
+    "answer": 1,
+    "fact": "Audrey Meadows was Alice; Joyce Randolph played her upstairs pal Trixie.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "'I Dream of Jeannie' aired on which network: NBC or ABC?",
+    "choices": [
+      "NBC",
+      "ABC"
+    ],
+    "answer": 0,
+    "fact": "Jeannie blinked her way through five seasons on NBC.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "The Impala was made by which carmaker: Ford or Chevrolet?",
+    "choices": [
+      "Ford",
+      "Chevrolet"
+    ],
+    "answer": 1,
+    "fact": "The Impala was Chevrolet's big, handsome seller from 1958 onward.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'The Sound of Music' was set in which city: Salzburg or Vienna?",
+    "choices": [
+      "Salzburg",
+      "Vienna"
+    ],
+    "answer": 0,
+    "fact": "The von Trapps lived in Salzburg, with those green Austrian hills all around.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played the Scarecrow in 'The Wizard of Oz': Bert Lahr or Ray Bolger?",
+    "choices": [
+      "Bert Lahr",
+      "Ray Bolger"
+    ],
+    "answer": 1,
+    "fact": "Ray Bolger was the wobbly Scarecrow; Bert Lahr was the Cowardly Lion.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who sang Eliza's songs in the film 'My Fair Lady': Audrey Hepburn or Marni Nixon?",
+    "choices": [
+      "Audrey Hepburn",
+      "Marni Nixon"
+    ],
+    "answer": 1,
+    "fact": "Marni Nixon dubbed the singing, as she often did for Hollywood's leading ladies.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Walt Disney's 'Disneyland' show began on which network: ABC or NBC?",
+    "choices": [
+      "ABC",
+      "NBC"
+    ],
+    "answer": 0,
+    "fact": "It started on ABC in 1954 and moved to NBC in 1961 for color broadcasts.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played Aunt Bee on 'The Andy Griffith Show': Elinor Donahue or Frances Bavier?",
+    "choices": [
+      "Elinor Donahue",
+      "Frances Bavier"
+    ],
+    "answer": 1,
+    "fact": "Frances Bavier was Aunt Bee; Elinor Donahue played druggist Ellie Walker.",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "On 'Lassie,' which boy came first: Jeff or Timmy?",
+    "choices": [
+      "Jeff",
+      "Timmy"
+    ],
+    "answer": 0,
+    "fact": "Jeff Miller had Lassie from 1954; Timmy came along in 1957 and stayed for years.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who was the voice of Fred Flintstone: Mel Blanc or Alan Reed?",
+    "choices": [
+      "Mel Blanc",
+      "Alan Reed"
+    ],
+    "answer": 1,
+    "fact": "Alan Reed hollered for Wilma; Mel Blanc was the voice of Barney Rubble.",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "'Hound Dog' was recorded first by Big Mama Thornton or Elvis Presley?",
+    "choices": [
+      "Big Mama Thornton",
+      "Elvis Presley"
+    ],
+    "answer": 0,
+    "fact": "Big Mama Thornton cut it in 1952, four years before Elvis made it his own.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Twist and Shout' was recorded first by the Beatles or the Isley Brothers?",
+    "choices": [
+      "The Beatles",
+      "The Isley Brothers"
+    ],
+    "answer": 1,
+    "fact": "The Isley Brothers had it in 1962; the Beatles recorded their version in 1963.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'I Heard It Through the Grapevine' was a hit first for Gladys Knight or Marvin Gaye?",
+    "choices": [
+      "Gladys Knight",
+      "Marvin Gaye"
+    ],
+    "answer": 0,
+    "fact": "Gladys Knight and the Pips charted it in 1967; Marvin Gaye's version hit in 1968.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Rock Around the Clock' took off after which movie: 'Rebel Without a Cause' or 'Blackboard Jungle'?",
+    "choices": [
+      "Rebel Without a Cause",
+      "Blackboard Jungle"
+    ],
+    "answer": 1,
+    "fact": "'Blackboard Jungle' in 1955 sent Bill Haley's record straight to number one.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Josephine the Plumber sold which cleanser: Comet or Ajax?",
+    "choices": [
+      "Comet",
+      "Ajax"
+    ],
+    "answer": 0,
+    "fact": "Jane Withers played Josephine, who always had Comet in her toolbox.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "'Ring around the collar' was the worry in ads for which detergent: Tide or Wisk?",
+    "choices": [
+      "Tide",
+      "Wisk"
+    ],
+    "answer": 1,
+    "fact": "Wisk ran that jingle for years, to the dismay of husbands everywhere.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which car had rear-hinged back doors: the Lincoln Continental or Cadillac Eldorado?",
+    "choices": [
+      "Lincoln Continental",
+      "Cadillac Eldorado"
+    ],
+    "answer": 0,
+    "fact": "The 1961 Continental's back doors opened from the center, a very elegant touch.",
+    "cat": "Life",
+    "d": 3
   }
 ]

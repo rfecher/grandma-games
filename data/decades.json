@@ -1,0 +1,1542 @@
+[
+  {
+    "q": "Which decade did the Beatles release 'Sgt. Pepper'?",
+    "answer": 2,
+    "fact": "The album with the famous cover came out in 1967.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Baskin-Robbins first offer 31 flavors?",
+    "answer": 1,
+    "fact": "One flavor for every day of the month, starting in 1953.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Nat King Cole record 'Nature Boy'?",
+    "answer": 0,
+    "fact": "His dreamy 1948 record sat at number one for eight weeks.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Happy Days' premiere?",
+    "answer": 3,
+    "fact": "The Fonz first said Ayyy in 1974.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'I Want to Hold Your Hand' hit number one here?",
+    "answer": 2,
+    "fact": "It reached number one in America in 1964 and started it all.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'MAD' magazine first appear?",
+    "answer": 1,
+    "fact": "The funny magazine started life as a comic book in 1952.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Bing Crosby record 'White Christmas'?",
+    "answer": 0,
+    "fact": "Bing recorded it in 1942, and it is still the best-selling record ever.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Disneyland open its gates?",
+    "answer": 1,
+    "fact": "Walt opened the park in Anaheim in 1955.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which decade were mood rings the must-have accessory?",
+    "answer": 3,
+    "fact": "The color-changing rings swept the country in 1975.",
+    "cat": "Fads",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Twist become a nationwide dance craze?",
+    "answer": 2,
+    "fact": "Chubby Checker's record went back to number one in 1962.",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the game Twister first appear?",
+    "answer": 2,
+    "fact": "The game that ties you in knots arrived in 1966.",
+    "cat": "Toys",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Hank Aaron hit his 715th home run?",
+    "answer": 3,
+    "fact": "He passed Babe Ruth's record on an April night in 1974.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did coonskin caps sweep the country?",
+    "answer": 1,
+    "fact": "Davy Crockett fever hit in 1955 and hats sold by the millions.",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which decade was Fats Domino's 'Blueberry Hill' a hit?",
+    "answer": 1,
+    "fact": "His rolling piano carried it up the charts in 1956.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'That's Amore' a hit for Dean Martin?",
+    "answer": 1,
+    "fact": "Dean sang about the moon and a pizza pie in 1953.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the bikini first unveiled in Paris?",
+    "answer": 0,
+    "fact": "A Paris designer showed it in 1946 and named it after an island.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Disney's 'Bambi' come to theaters?",
+    "answer": 0,
+    "fact": "Bambi and Thumper wobbled onto the ice in 1942.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'My Fair Lady' made into a movie?",
+    "answer": 2,
+    "fact": "Audrey Hepburn played Eliza in the 1964 film.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which decade was Doris Day's 'Sentimental Journey' a hit?",
+    "answer": 0,
+    "fact": "Her first big hit came in 1945, singing with the Les Brown band.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Annie Get Your Gun' open on Broadway?",
+    "answer": 0,
+    "fact": "Ethel Merman opened as Annie Oakley in 1946.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Gene Kelly dance with Jerry the cartoon mouse?",
+    "answer": 0,
+    "fact": "'Anchors Aweigh' paired Kelly with an animated mouse in 1945.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Big Mac appear on menus nationwide?",
+    "answer": 2,
+    "fact": "The two-all-beef-patties sandwich went nationwide in 1968.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade was the first microwave oven sold?",
+    "answer": 0,
+    "fact": "The Radarange went on sale in 1947 and stood nearly six feet tall.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Captain Kangaroo' first air?",
+    "answer": 1,
+    "fact": "Bob Keeshan opened the Treasure House in 1955.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Lassie' come to television?",
+    "answer": 1,
+    "fact": "Lassie began her long television run in 1954.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did John Lennon release 'Imagine'?",
+    "answer": 3,
+    "fact": "He sat at that white piano in 1971.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Village People record 'Y.M.C.A.'?",
+    "answer": 3,
+    "fact": "The song that made everybody spell letters came out in 1978.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the first Super Bowl played?",
+    "answer": 2,
+    "fact": "Green Bay beat Kansas City in the very first one in 1967.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Chevrolet Corvette first appear?",
+    "answer": 1,
+    "fact": "The first Corvettes rolled out in 1953, and every one was white.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Fleetwood Mac release 'Rumours'?",
+    "answer": 3,
+    "fact": "It came out in 1977 and stayed on the charts for years.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Disney's 'The Jungle Book' come out?",
+    "answer": 2,
+    "fact": "Baloo sang about the bare necessities in 1967.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'To Kill a Mockingbird' made into a movie?",
+    "answer": 2,
+    "fact": "Gregory Peck played Atticus Finch in 1962.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'Mary Poppins' released?",
+    "answer": 2,
+    "fact": "Julie Andrews floated down with her umbrella in 1964.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade was Buddy Holly's 'Peggy Sue' a hit?",
+    "answer": 1,
+    "fact": "The hiccupping 1957 record made him a star.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the first Starbucks coffee shop open?",
+    "answer": 3,
+    "fact": "It opened near Seattle's Pike Place Market in 1971.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Atari home game console come out?",
+    "answer": 3,
+    "fact": "The wood-grain console reached living rooms in 1977.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Hula Hoop craze sweep the country?",
+    "answer": 1,
+    "fact": "Wham-O sold 25 million of them in four months in 1958.",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Harry Belafonte's 'Day-O' become a hit?",
+    "answer": 1,
+    "fact": "The Banana Boat Song came off his 1956 Calypso album.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the movie 'The Sting' released?",
+    "answer": 3,
+    "fact": "Newman and Redford pulled off the con in 1973.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was Don McLean's 'American Pie' a hit?",
+    "answer": 3,
+    "fact": "The eight-minute record climbed the charts in 1971.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the 'Batman' TV series premiere?",
+    "answer": 2,
+    "fact": "Adam West put on the cape in 1966, complete with POW and BAM.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'Que Sera, Sera' a hit for Doris Day?",
+    "answer": 1,
+    "fact": "She sang it in a Hitchcock film in 1956 and it won an Oscar.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Queen release 'Bohemian Rhapsody'?",
+    "answer": 3,
+    "fact": "The six-minute song nobody thought would work came out in 1975.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Wonder Woman first appear in comic books?",
+    "answer": 0,
+    "fact": "She turned up in a comic book in 1941, lasso and all.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Jesus Christ Superstar' open on Broadway?",
+    "answer": 3,
+    "fact": "The rock opera reached Broadway in 1971.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Disney's 'Lady and the Tramp' come out?",
+    "answer": 1,
+    "fact": "That famous spaghetti dinner was served in 1955.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Elvis make his very first record?",
+    "answer": 1,
+    "fact": "He cut 'That's All Right' at Sun Records in 1954.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Supremes get their first number one?",
+    "answer": 2,
+    "fact": "'Where Did Our Love Go' topped the charts in 1964.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'Take Me Home, Country Roads' a hit?",
+    "answer": 3,
+    "fact": "John Denver sang about West Virginia in 1971.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Brigadoon' open on Broadway?",
+    "answer": 0,
+    "fact": "The Scottish village appeared on Broadway in 1947.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Miracle on 34th Street' released?",
+    "answer": 0,
+    "fact": "Kris Kringle won his day in court in 1947.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'West Side Story' open on Broadway?",
+    "answer": 1,
+    "fact": "The Jets and the Sharks first danced on Broadway in 1957.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'Willy Wonka and the Chocolate Factory' released?",
+    "answer": 3,
+    "fact": "Gene Wilder opened the chocolate factory in 1971.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the long-playing record album introduced?",
+    "answer": 0,
+    "fact": "Columbia unveiled the 33 1/3 LP in 1948.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Rock Around the Clock' hit number one?",
+    "answer": 1,
+    "fact": "Bill Haley's record topped the charts in 1955.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'American Bandstand' go on national TV?",
+    "answer": 1,
+    "fact": "Dick Clark took the dancing nationwide in 1957.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Laverne & Shirley' premiere?",
+    "answer": 3,
+    "fact": "The bottle-cappers got their own show in 1976.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Easy-Bake Oven first appear?",
+    "answer": 2,
+    "fact": "It baked tiny cakes with a light bulb, starting in 1963.",
+    "cat": "Toys",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Sesame Street' first come on television?",
+    "answer": 2,
+    "fact": "Big Bird moved onto the street in November 1969.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'The Tonight Show' first go on the air?",
+    "answer": 1,
+    "fact": "Steve Allen was the very first host, back in 1954.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Gilligan's Island' premiere?",
+    "answer": 2,
+    "fact": "The three-hour tour set sail in 1964.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the first pocket transistor radio go on sale?",
+    "answer": 1,
+    "fact": "The Regency TR-1 fit in a shirt pocket in 1954.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Goodnight Moon' first published?",
+    "answer": 0,
+    "fact": "The great green room opened its pages in 1947.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Carousel' open on Broadway?",
+    "answer": 0,
+    "fact": "Rodgers and Hammerstein's carnival romance opened in 1945.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Blazing Saddles' released?",
+    "answer": 3,
+    "fact": "Mel Brooks put his western in theaters in 1974.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Ed Sullivan Show' first go on the air?",
+    "answer": 0,
+    "fact": "It began in 1948 as 'Toast of the Town' and ran 23 years.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the first 'Star Wars' movie released?",
+    "answer": 3,
+    "fact": "It opened in May 1977 and the lines went around the block.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Roger Maris hit 61 home runs?",
+    "answer": 2,
+    "fact": "He passed Babe Ruth's record in 1961.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'I Dream of Jeannie' premiere?",
+    "answer": 2,
+    "fact": "Barbara Eden popped out of her bottle in 1965.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the card game Uno first appear?",
+    "answer": 3,
+    "fact": "A barber in Ohio invented it in 1971.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'The Sound of Music' released?",
+    "answer": 2,
+    "fact": "Julie Andrews spun on that mountaintop in 1965.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade was the 'Superman' movie with Christopher Reeve out?",
+    "answer": 3,
+    "fact": "He made us believe a man could fly in 1978.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'It's a Wonderful Life' reach theaters?",
+    "answer": 0,
+    "fact": "George Bailey got his angel in 1946, and we still watch every Christmas.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Cheez Whiz first appear on shelves?",
+    "answer": 1,
+    "fact": "Kraft put cheese in a jar in 1953.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Chutes and Ladders arrive in toy stores?",
+    "answer": 0,
+    "fact": "Milton Bradley brought the ladder-climbing game to America in 1943.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'My Fair Lady' open on Broadway?",
+    "answer": 1,
+    "fact": "Julie Andrews played Eliza on opening night in 1956.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Little Golden Books first appear?",
+    "answer": 0,
+    "fact": "The gold-spined storybooks arrived in 1942 and cost a quarter.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the movie 'Rocky' released?",
+    "answer": 3,
+    "fact": "Sylvester Stallone ran up those steps in 1976.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Play-Doh first arrive in toy stores?",
+    "answer": 1,
+    "fact": "It was wallpaper cleaner before it became a toy in 1956.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Bewitched' first air?",
+    "answer": 2,
+    "fact": "Samantha started twitching her nose in 1964.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Disney's 'Peter Pan' first fly into theaters?",
+    "answer": 1,
+    "fact": "Peter and Wendy flew over London in 1953.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Gloria Gaynor record 'I Will Survive'?",
+    "answer": 3,
+    "fact": "The disco anthem was recorded in 1978.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the TV show 'M*A*S*H' premiere?",
+    "answer": 3,
+    "fact": "Alan Alda put on his fishing hat in 1972.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Little House on the Prairie' premiere?",
+    "answer": 3,
+    "fact": "The Ingalls family rolled onto television in 1974.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did men first walk on the moon?",
+    "answer": 2,
+    "fact": "Apollo 11 touched down in July 1969 and the whole world watched.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the game Scrabble get its name?",
+    "answer": 0,
+    "fact": "James Brunot named it Scrabble and started selling it in 1948.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'The Muppet Show' first air?",
+    "answer": 3,
+    "fact": "Kermit welcomed everybody to the show in 1976.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Charlie's Angels' premiere?",
+    "answer": 3,
+    "fact": "Three detectives took their orders by speakerphone in 1976.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade was the Pet Rock a nationwide craze?",
+    "answer": 3,
+    "fact": "A million people bought a rock in a little box in 1975.",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the first Lassie movie reach theaters?",
+    "answer": 0,
+    "fact": "'Lassie Come Home' brought the collie to the screen in 1943.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the first James Bond movie released?",
+    "answer": 2,
+    "fact": "'Dr. No' introduced Sean Connery as 007 in 1962.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Ford Thunderbird first go on sale?",
+    "answer": 1,
+    "fact": "The sporty two-seat T-Bird arrived in 1955.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Tang become famous by going into space?",
+    "answer": 2,
+    "fact": "Astronauts drank it on the Gemini flights in 1965.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Little Richard record 'Tutti Frutti'?",
+    "answer": 1,
+    "fact": "He hollered it into a New Orleans microphone in 1955.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Chuck Berry record 'Johnny B. Goode'?",
+    "answer": 1,
+    "fact": "His guitar rang out on that 1958 record.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Jeffersons' premiere?",
+    "answer": 3,
+    "fact": "George and Weezy moved on up in 1975.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did ABBA record 'Dancing Queen'?",
+    "answer": 3,
+    "fact": "The Swedish foursome cut their biggest hit in 1976.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Pop-Tarts first appear in grocery stores?",
+    "answer": 2,
+    "fact": "Kellogg's put them in toasters starting in 1964.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Sputnik become the first satellite in orbit?",
+    "answer": 1,
+    "fact": "The little beeping ball went up in 1957.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Secretariat win the Triple Crown?",
+    "answer": 3,
+    "fact": "He won the Belmont by 31 lengths in 1973.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Howdy Doody' first come to television?",
+    "answer": 0,
+    "fact": "Buffalo Bob and the Peanut Gallery started up in 1947.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Tupperware first appear in kitchens?",
+    "answer": 0,
+    "fact": "Earl Tupper's burping bowls arrived in 1946.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'The Love Boat' set sail on television?",
+    "answer": 3,
+    "fact": "The Pacific Princess left port in 1977.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Bazooka bubble gum first appear?",
+    "answer": 0,
+    "fact": "The little comic tucked in the wrapper started in 1947.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Muhammad Ali first win the heavyweight title?",
+    "answer": 2,
+    "fact": "He shocked everyone in Miami in 1964.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Which decade was Hitchcock's 'Rear Window' released?",
+    "answer": 1,
+    "fact": "Jimmy Stewart watched the neighbors from his wheelchair in 1954.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Almond Joy candy bar first appear?",
+    "answer": 0,
+    "fact": "Peter Paul introduced Almond Joy in 1946.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Mork & Mindy' premiere?",
+    "answer": 3,
+    "fact": "Robin Williams landed in his egg in 1978.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Funny Girl' open on Broadway?",
+    "answer": 2,
+    "fact": "Barbra Streisand became a star overnight in 1964.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Carol Burnett Show' premiere?",
+    "answer": 2,
+    "fact": "Carol first tugged her ear goodnight in 1967.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Aretha Franklin record 'Respect'?",
+    "answer": 2,
+    "fact": "She spelled it out and made it her own in 1967.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Disney's '101 Dalmatians' come out?",
+    "answer": 2,
+    "fact": "All those spotted puppies arrived in 1961.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Jackie Robinson first play for the Dodgers?",
+    "answer": 0,
+    "fact": "He took the field at Ebbets Field in 1947 and changed the game.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'Chattanooga Choo Choo' a hit for Glenn Miller?",
+    "answer": 0,
+    "fact": "The 1941 record was the very first gold record ever awarded.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Star Trek' first air on television?",
+    "answer": 2,
+    "fact": "The Enterprise set out on its five-year mission in 1966.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did M&M's first go on sale?",
+    "answer": 0,
+    "fact": "The candy that melts in your mouth arrived in 1941.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did America celebrate its Bicentennial?",
+    "answer": 3,
+    "fact": "Tall ships sailed into New York Harbor in July 1976.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Joe DiMaggio hit in 56 straight games?",
+    "answer": 0,
+    "fact": "The streak ran all summer in 1941 and nobody has topped it.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Rebel Without a Cause' reach theaters?",
+    "answer": 1,
+    "fact": "James Dean pulled on that red jacket in 1955.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Rowan & Martin's Laugh-In' premiere?",
+    "answer": 2,
+    "fact": "The jokes started flying off that wall in 1968.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Slinky first go on sale?",
+    "answer": 0,
+    "fact": "All 400 sold out at a Philadelphia store in 90 minutes in 1945.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Heartbreak Hotel' Elvis's first big hit?",
+    "answer": 1,
+    "fact": "It became his first million-seller in 1956.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Marilyn Monroe stand over the subway grate?",
+    "answer": 1,
+    "fact": "'The Seven Year Itch' gave us that billowing white dress in 1955.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Mr. Coffee machine first appear?",
+    "answer": 3,
+    "fact": "Drip coffee came to the kitchen counter in 1972.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Matchbox cars first appear?",
+    "answer": 1,
+    "fact": "The tiny cars that fit in a matchbox arrived in 1953.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Candid Camera' first appear on television?",
+    "answer": 0,
+    "fact": "Allen Funt started catching folks on camera in 1948.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Lauren Bacall make her very first movie?",
+    "answer": 0,
+    "fact": "She was nineteen in 'To Have and Have Not' in 1944.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Music Man' open on Broadway?",
+    "answer": 1,
+    "fact": "Seventy-six trombones led the big parade in 1957.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did James Cagney star in 'Yankee Doodle Dandy'?",
+    "answer": 0,
+    "fact": "Cagney tap-danced his way to an Oscar in 1942.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Honeymooners' become its own TV series?",
+    "answer": 1,
+    "fact": "Ralph and Ed got their own half hour in 1955.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'West Side Story' made into a movie?",
+    "answer": 2,
+    "fact": "The film won ten Academy Awards in 1961.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the first Kentucky Fried Chicken franchise open?",
+    "answer": 1,
+    "fact": "The Colonel's first franchise opened in Utah in 1952.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Breakfast at Tiffany's' released?",
+    "answer": 2,
+    "fact": "Audrey Hepburn window-shopped in that black dress in 1961.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'A Charlie Brown Christmas' first air?",
+    "answer": 2,
+    "fact": "That scrawny little tree found a home in 1965.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the lava lamp invented?",
+    "answer": 2,
+    "fact": "An Englishman dreamed up the drifting blobs in 1963.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did G.I. Joe first appear in toy stores?",
+    "answer": 2,
+    "fact": "The first action figure for boys arrived in 1964.",
+    "cat": "Toys",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Meet Me in St. Louis' come to theaters?",
+    "answer": 0,
+    "fact": "Judy Garland sang 'The Trolley Song' in the 1944 hit.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'On the Waterfront' released?",
+    "answer": 1,
+    "fact": "Marlon Brando took home the Oscar for the 1954 film.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Mickey Mouse Club' first air?",
+    "answer": 1,
+    "fact": "The Mouseketeers marched onto television in 1955.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Ford Mustang first go on sale?",
+    "answer": 2,
+    "fact": "Ford unveiled it at the World's Fair in 1964.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'The Monkees' TV show premiere?",
+    "answer": 2,
+    "fact": "The four of them started clowning around in 1966.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'Strangers in the Night' a hit for Sinatra?",
+    "answer": 2,
+    "fact": "It gave Frank his first number one in eleven years, in 1966.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'The Brady Bunch' premiere?",
+    "answer": 2,
+    "fact": "Carol and Mike blended their families in September 1969.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Oklahoma!' open on Broadway?",
+    "answer": 0,
+    "fact": "Rodgers and Hammerstein's first musical opened in 1943 and ran five years.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Disney's 'Dumbo' first fly into theaters?",
+    "answer": 0,
+    "fact": "The little elephant with the big ears took off in 1941.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade was 'The Graduate' released?",
+    "answer": 2,
+    "fact": "Dustin Hoffman got that one word of advice in 1967.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Ray Kroc open his first McDonald's?",
+    "answer": 1,
+    "fact": "He opened in Des Plaines, Illinois in 1955.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Everly Brothers sing 'Wake Up Little Susie'?",
+    "answer": 1,
+    "fact": "Their close harmony took it to number one in 1957.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Addams Family' come to television?",
+    "answer": 2,
+    "fact": "The creepy, kooky family moved in in 1964.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Roger Bannister run the first four-minute mile?",
+    "answer": 1,
+    "fact": "He did it on a track in Oxford in 1954.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which decade did videotape recorders first reach the home?",
+    "answer": 3,
+    "fact": "Sony's Betamax let people tape their shows in 1975.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'TV Guide' publish its first issue?",
+    "answer": 1,
+    "fact": "Lucy's newborn baby was on the very first cover in 1953.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'All in the Family' premiere?",
+    "answer": 3,
+    "fact": "Archie and Edith sat down at that piano in 1971.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Hello, Dolly!' open on Broadway?",
+    "answer": 2,
+    "fact": "Carol Channing came down that staircase in 1964.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Leave It to Beaver' premiere?",
+    "answer": 1,
+    "fact": "The Cleaver family moved in in 1957.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the 'Today' show first air?",
+    "answer": 1,
+    "fact": "It began with Dave Garroway in 1952, and a chimp joined later.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'Singin' in the Rain' come to theaters?",
+    "answer": 1,
+    "fact": "Gene Kelly splashed through that puddle in 1952.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Eagles release 'Hotel California'?",
+    "answer": 3,
+    "fact": "The album with the famous cover arrived in 1976.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Beverly Hillbillies' premiere?",
+    "answer": 2,
+    "fact": "The Clampetts loaded up the truck in 1962.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Mr. Potato Head first go on sale?",
+    "answer": 1,
+    "fact": "He arrived in 1952 with plastic parts and a real potato.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did ballpoint pens first go on sale in America?",
+    "answer": 0,
+    "fact": "A New York store sold 10,000 of them the very first day in 1945.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Beach Boys record 'Good Vibrations'?",
+    "answer": 2,
+    "fact": "Brian Wilson spent months building the 1966 record.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the first instant Polaroid camera go on sale?",
+    "answer": 0,
+    "fact": "The Land Camera sold out in a single day in Boston in 1948.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade was Woody Allen's 'Annie Hall' released?",
+    "answer": 3,
+    "fact": "Diane Keaton's vest and tie turned up in 1977.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Elizabeth Taylor become a star in 'National Velvet'?",
+    "answer": 0,
+    "fact": "She was only twelve when the 1944 film made her famous.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'I Love Lucy' first come on television?",
+    "answer": 1,
+    "fact": "Lucy and Ricky moved in in 1951 and never really left.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Beatles release 'Hey Jude'?",
+    "answer": 2,
+    "fact": "It sat at number one for nine weeks in 1968.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the Egg McMuffin first appear?",
+    "answer": 3,
+    "fact": "McDonald's started serving breakfast with it in 1972.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'The Waltons' premiere?",
+    "answer": 3,
+    "fact": "Goodnight John-Boy started in 1972.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Fiddler on the Roof' open on Broadway?",
+    "answer": 2,
+    "fact": "Zero Mostel first played Tevye in 1964.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did whipped cream in a spray can first appear?",
+    "answer": 0,
+    "fact": "Reddi-wip started out on a St. Louis milk route in 1948.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Barbie doll first go on sale?",
+    "answer": 1,
+    "fact": "Barbie made her debut at the New York Toy Fair in 1959.",
+    "cat": "Toys",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Dick Van Dyke Show' premiere?",
+    "answer": 2,
+    "fact": "Rob started tripping over that ottoman in 1961.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade was 'The Hustle' a hit and a dance craze?",
+    "answer": 3,
+    "fact": "Van McCoy's record had everybody doing the steps in 1975.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Andrews Sisters record 'Boogie Woogie Bugle Boy'?",
+    "answer": 0,
+    "fact": "The sisters' bouncy 1941 record still gets toes tapping.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the movie 'The Godfather' released?",
+    "answer": 3,
+    "fact": "Marlon Brando played the Don in 1972.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Gunsmoke' first ride onto television?",
+    "answer": 1,
+    "fact": "Marshal Dillon started patrolling Dodge City in 1955.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Tony the Tiger start selling frosted flakes?",
+    "answer": 1,
+    "fact": "Tony first growled that they were great in 1952.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Audrey Hepburn star in 'Roman Holiday'?",
+    "answer": 1,
+    "fact": "Her 1953 scooter ride through Rome won her an Oscar.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Three's Company' premiere?",
+    "answer": 3,
+    "fact": "Jack, Janet and Chrissy moved in together in 1977.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the arcade game Pong first appear?",
+    "answer": 3,
+    "fact": "Atari put the first one in a California tavern in 1972.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Ben & Jerry's scoop its first cone?",
+    "answer": 3,
+    "fact": "They started in a converted gas station in 1978.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the musical 'Annie' open on Broadway?",
+    "answer": 3,
+    "fact": "Little orphan Annie sang about tomorrow in 1977.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Dior's 'New Look' change women's fashion?",
+    "answer": 0,
+    "fact": "Nipped waists and full skirts swept in from Paris in 1947.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Cadillac put the first tailfins on a car?",
+    "answer": 0,
+    "fact": "Those first little fins showed up on the 1948 Cadillac.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Goldfinger' released?",
+    "answer": 2,
+    "fact": "The Bond film with the golden girl came out in 1964.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Scooby-Doo' first appear on television?",
+    "answer": 2,
+    "fact": "That meddling gang and their van started up in 1969.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Wham-O start selling its flying disc?",
+    "answer": 1,
+    "fact": "The Pluto Platter of 1957 was soon renamed the Frisbee.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'Close Encounters of the Third Kind' released?",
+    "answer": 3,
+    "fact": "Those five musical notes played in 1977.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Meet the Press' first air?",
+    "answer": 0,
+    "fact": "It began in 1947 and is the longest-running show on television.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Lego bricks first go on sale in America?",
+    "answer": 2,
+    "fact": "The little Danish bricks reached American stores in 1961.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade was 'American Graffiti' released?",
+    "answer": 3,
+    "fact": "George Lucas looked back at cruising night in 1973.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Beatles first appear on 'The Ed Sullivan Show'?",
+    "answer": 2,
+    "fact": "Seventy-three million people watched them in February 1964.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade was the movie 'Jaws' released?",
+    "answer": 3,
+    "fact": "It opened in the summer of 1975 and emptied the beaches.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Elvis first sing on 'The Ed Sullivan Show'?",
+    "answer": 1,
+    "fact": "Around sixty million people tuned in that night in 1956.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did bobby-soxers mob Sinatra at the Paramount?",
+    "answer": 0,
+    "fact": "Thousands of swooning girls filled Times Square in 1944.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which decade was the Rubik's Cube invented?",
+    "answer": 3,
+    "fact": "A Hungarian professor built the first one in 1974.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the quiz show 'Jeopardy!' first air?",
+    "answer": 2,
+    "fact": "Art Fleming gave out the very first answers in 1964.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade was the Woodstock music festival held?",
+    "answer": 2,
+    "fact": "Half a million people filled a New York farm field in 1969.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'Grease' first open on Broadway?",
+    "answer": 3,
+    "fact": "The stage show opened in 1972, years before the movie.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which decade did Cheerios first appear on breakfast tables?",
+    "answer": 0,
+    "fact": "They started out in 1941 under the name CheeriOats.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade was a barcode first scanned at a checkout?",
+    "answer": 3,
+    "fact": "A pack of chewing gum was the first, in Ohio in 1974.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Edsel go on sale?",
+    "answer": 1,
+    "fact": "Ford unveiled it with enormous fanfare in 1957.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the first American fly into space?",
+    "answer": 2,
+    "fact": "Alan Shepard made his short hop in 1961.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the Rolling Stones record 'Satisfaction'?",
+    "answer": 2,
+    "fact": "That fuzzy guitar riff arrived in 1965.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did the first Jeep for regular families go on sale?",
+    "answer": 0,
+    "fact": "The civilian Jeep, the CJ-2A, reached dealers in 1945.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which decade did disco fever arrive with 'Saturday Night Fever'?",
+    "answer": 3,
+    "fact": "John Travolta struck that pose in December 1977.",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which decade was the movie 'Casablanca' first shown?",
+    "answer": 0,
+    "fact": "Bogart and Bergman met at Rick's Cafe when it premiered in 1942.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the game Connect Four first appear?",
+    "answer": 3,
+    "fact": "The checkers-in-a-rack game arrived in 1974.",
+    "cat": "Toys",
+    "d": 3
+  },
+  {
+    "q": "Which decade did 'The Flintstones' first come on television?",
+    "answer": 2,
+    "fact": "Fred and Barney arrived in 1960, TV's first prime-time cartoon.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the first Pizza Hut open?",
+    "answer": 1,
+    "fact": "Two brothers opened it in Wichita, Kansas in 1958.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade was the movie 'Grease' released?",
+    "answer": 3,
+    "fact": "Travolta and Olivia Newton-John hit the screen in 1978.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which decade did Hot Wheels cars first appear?",
+    "answer": 2,
+    "fact": "Mattel rolled out the first sixteen little cars in 1968.",
+    "cat": "Toys",
+    "d": 1
+  },
+  {
+    "q": "Which decade did the frozen TV dinner first appear?",
+    "answer": 1,
+    "fact": "Swanson served turkey on an aluminum tray in 1953.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Which decade did John Glenn orbit the Earth?",
+    "answer": 2,
+    "fact": "He circled the globe three times in 1962.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did Chuck Yeager first fly faster than sound?",
+    "answer": 0,
+    "fact": "He broke the sound barrier over the California desert in 1947.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'The Jetsons' first air?",
+    "answer": 2,
+    "fact": "The family with the flying car took off in 1962.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which decade did the Temptations record 'My Girl'?",
+    "answer": 2,
+    "fact": "Smokey Robinson wrote it for them in 1964.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which decade did 'Saturday Night Live' first go on the air?",
+    "answer": 3,
+    "fact": "The Not Ready For Prime Time Players debuted in 1975.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which decade did 'A Chorus Line' open on Broadway?",
+    "answer": 3,
+    "fact": "The dancers lined up on that white line in 1975.",
+    "cat": "Music",
+    "d": 2
+  }
+]

@@ -71,7 +71,7 @@ body { user-select: none; }
   font-size: clamp(34px, 5.6vh, 52px);
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin: 0 0 clamp(12px, 2.2vh, 22px);
+  margin: 0 0 clamp(12px, 2vh, 18px);
 }
 
 /* The home screen can carry five buttons once "Keep Playing" appears, so it
@@ -80,7 +80,7 @@ body { user-select: none; }
 #screen-home { padding-bottom: 8px; }
 #screen-home .big-btn {
   min-height: clamp(76px, 11vh, 96px);
-  margin-bottom: clamp(10px, 1.9vh, 18px);
+  margin-bottom: clamp(8px, 1.5vh, 14px);
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -134,6 +134,7 @@ body { user-select: none; }
   gap: 16px;
   padding: 0 var(--gutter-right) 10px 0;
 }
+.home-top { padding-bottom: 6px; }
 .icon-btn {
   width: 68px; height: 68px;
   border: 3px solid var(--ink);
@@ -145,16 +146,50 @@ body { user-select: none; }
   box-shadow: var(--shadow);
 }
 .icon-btn:active { transform: translateY(4px); box-shadow: none; }
-.star-count {
+
+/* Chips: the star count, and the current level. */
+.chip {
   display: flex; align-items: center; gap: 8px;
-  font-size: 30px; font-weight: 700;
-  padding: 10px 20px;
+  min-height: 64px;
+  font: inherit;
+  font-size: 28px; font-weight: 700;
+  padding: 8px 20px;
   border-radius: 40px;
-  background: var(--amber-bg);
-  border: 3px solid #E8C98A;
+  border: 3px solid transparent;
+  color: var(--ink);
 }
-.star-count.bump { animation: bump .45s ease; }
+.star-chip { background: var(--amber-bg); border-color: #E8C98A; }
+.star-chip.bump { animation: bump .45s ease; }
 @keyframes bump { 0%,100%{transform:none} 35%{transform:scale(1.22) rotate(-4deg)} }
+button.star-chip { cursor: pointer; box-shadow: var(--shadow); }
+button.star-chip:active { transform: translateY(4px); box-shadow: none; }
+.level-chip { background: #F1E8F8; border-color: #D9C2EC; color: var(--plum); font-size: 23px; letter-spacing: .04em; }
+
+/* Difficulty picker: three fat segments, the chosen one filled purple. */
+.seg-label { font-size: 22px; font-weight: 600; color: var(--plum); margin-right: -4px; }
+.seg {
+  display: flex;
+  border: 3px solid var(--ink);
+  border-radius: 40px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.seg-btn {
+  min-width: 128px;
+  min-height: 64px;
+  padding: 0 20px;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+}
+.seg-btn + .seg-btn { border-left: 3px solid var(--ink); }
+.seg-btn:active { background: #F1E8F8; }
+.seg-btn.is-active { background: var(--purple); color: #fff; }
 
 /* ---------- Question card ---------- */
 .col-game { padding-bottom: 8px; }
@@ -166,6 +201,7 @@ body { user-select: none; }
   padding: 20px 28px 18px;
   margin-bottom: 18px;
   box-shadow: var(--shadow);
+  transition: padding .35s ease;
 }
 .q-cat {
   margin: 0 0 8px;
@@ -180,6 +216,7 @@ body { user-select: none; }
   font-size: 40px;
   font-weight: 600;
   line-height: 1.25;
+  transition: font-size .35s ease, margin .35s ease;
 }
 .speak-btn {
   border: 2px solid #C9C3BA;
@@ -195,11 +232,9 @@ body { user-select: none; }
 
 /* Once answered, the question steps back to make room for the answer, the
    fun fact and the Next button — all without scrolling. */
-.card { transition: padding .35s ease; }
 .card.answered { padding-top: 16px; padding-bottom: 16px; }
 .card.answered .q-text { font-size: 30px; margin-bottom: 0; }
 .card.answered .speak-btn { display: none; }
-.q-text { transition: font-size .35s ease, margin .35s ease; }
 
 /* ---------- Choices ---------- */
 .choices { display: flex; flex-direction: column; }
@@ -229,8 +264,11 @@ body { user-select: none; }
 }
 .choice:active { transform: translateY(4px); box-shadow: none; }
 
-/* Once she has answered, the ruled-out choices fold away so the fun fact and
-   the Next button fit on screen without any scrolling. */
+/* Four choices (Which Decade?) sit a little tighter so they still fit. */
+.choices.four .choice { min-height: 84px; margin-bottom: 12px; padding-top: 10px; padding-bottom: 10px; }
+
+/* Once she has answered, the choices fold away so the fun fact and the Next
+   button fit on screen without any scrolling. */
 .choice.gone {
   max-height: 0;
   min-height: 0;     /* must be reset too — min-height beats max-height */
@@ -297,27 +335,29 @@ body { user-select: none; }
 .kid-stars { margin-left: auto; font-size: 34px; font-weight: 700; white-space: nowrap; }
 .stars-note { font-size: 25px; color: var(--plum); font-weight: 600; }
 
-/* ---------- Celebration ---------- */
-.celebrate {
+/* ---------- Modal (celebrations, level offers) ---------- */
+.modal {
   position: fixed; inset: 0;
   background: rgba(1,1,2,.72);
   display: grid; place-items: center;
   z-index: 50;
   animation: fade .2s ease both;
 }
-.celebrate-inner {
+.modal-inner {
   width: min(720px, 74vw);
   margin-left: 12vw;              /* keep it off the neglected edge */
   background: var(--cream);
   border: 4px solid var(--purple);
   border-radius: 24px;
-  padding: 34px 38px 30px;
+  padding: 30px 38px 26px;
   text-align: center;
 }
-.celebrate-star { font-size: 92px; line-height: 1; animation: spinpop .7s ease both; }
+.modal-icon { font-size: 88px; line-height: 1; animation: spinpop .7s ease both; }
 @keyframes spinpop { from { transform: scale(.2) rotate(-40deg); opacity: 0; } to { transform: none; opacity: 1; } }
-.celebrate-msg { font-size: 34px; font-weight: 600; margin: 10px 0 26px; }
-.celebrate .big-btn { justify-content: center; background: var(--purple); color: #fff; }
+.modal-msg { font-size: 34px; font-weight: 600; margin: 10px 0 24px; }
+.modal .big-btn { justify-content: center; }
+.modal-yes { background: var(--purple); color: #fff; margin-bottom: 14px; }
+.modal-no { margin-bottom: 0; font-size: 28px; min-height: 84px; }
 
 /* ---------- Toast ---------- */
 .toast {
@@ -342,7 +382,10 @@ body { user-select: none; }
   .home-title { font-size: 42px; }
   .q-text { font-size: 32px; }
   .big-btn, .choice { font-size: 28px; min-height: 88px; }
-  .celebrate-inner { margin-left: 0; width: 86vw; }
+  .modal-inner { margin-left: 0; width: 86vw; }
+  .seg-label { display: none; }
+  .seg-btn { min-width: 96px; font-size: 22px; }
+  .chip { font-size: 24px; }
 }
 
 /* ---------- Short screens (browser chrome, split screen) ---------- */
@@ -351,9 +394,11 @@ body { user-select: none; }
   .card.answered .q-text { font-size: 26px; }
   .big-btn { min-height: 84px; margin-bottom: 14px; }
   .choice { min-height: 78px; margin-bottom: 12px; }
+  .choices.four .choice { min-height: 70px; margin-bottom: 10px; }
   .fb-answer { font-size: 30px; }
   .fb-fact { font-size: 22px; }
   .icon-btn { width: 58px; height: 58px; font-size: 26px; }
+  .chip, .seg-btn { min-height: 56px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -1,0 +1,7789 @@
+[
+  {
+    "q": "Who starred as George Bailey in 'It's a Wonderful Life'?",
+    "choices": [
+      "Cary Grant",
+      "Henry Fonda",
+      "James Stewart"
+    ],
+    "answer": 2,
+    "fact": "Every time a bell rings, this movie makes somebody reach for a hankie.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Miracle on 34th Street' takes place in which department store?",
+    "choices": [
+      "Sears",
+      "Woolworth's",
+      "Macy's"
+    ],
+    "answer": 2,
+    "fact": "A real Santa on trial in a courtroom - only the movies could pull that off.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who ran the café in the film 'Casablanca'?",
+    "choices": [
+      "Clark Gable",
+      "Humphrey Bogart",
+      "Gary Cooper"
+    ],
+    "answer": 1,
+    "fact": "Bogart never quite said 'Play it again, Sam' - but nobody minds.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who starred in 'Meet Me in St. Louis'?",
+    "choices": [
+      "June Allyson",
+      "Deanna Durbin",
+      "Judy Garland"
+    ],
+    "answer": 2,
+    "fact": "Judy sang 'The Trolley Song' and made a streetcar ride feel like romance.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "In 'Anchors Aweigh', Gene Kelly danced with which cartoon?",
+    "choices": [
+      "Jerry the Mouse",
+      "Donald Duck",
+      "Bugs Bunny"
+    ],
+    "answer": 0,
+    "fact": "A real man and a cartoon mouse, dancing in step - pure movie magic.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which young star rode a horse in 'National Velvet'?",
+    "choices": [
+      "Shirley Temple",
+      "Margaret O'Brien",
+      "Elizabeth Taylor"
+    ],
+    "answer": 2,
+    "fact": "She was only twelve, and those violet eyes were already unforgettable.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Disney puppet's nose grew when he told a fib?",
+    "choices": [
+      "Bambi",
+      "Dumbo",
+      "Pinocchio"
+    ],
+    "answer": 2,
+    "fact": "Jiminy Cricket tagged along as his conscience, umbrella and all.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Disney elephant flew using his big ears?",
+    "choices": [
+      "Bambi",
+      "Thumper",
+      "Dumbo"
+    ],
+    "answer": 2,
+    "fact": "One feather, one brave little flap, and the whole circus looked up.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "In which Disney film was Mickey the Sorcerer's Apprentice?",
+    "choices": [
+      "Pinocchio",
+      "Fantasia",
+      "Dumbo"
+    ],
+    "answer": 1,
+    "fact": "Mickey in that blue hat, bossing around brooms, is a picture nobody forgets.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who joined Bing Crosby and Bob Hope in the 'Road' movies?",
+    "choices": [
+      "Lana Turner",
+      "Dorothy Lamour",
+      "Judy Garland"
+    ],
+    "answer": 1,
+    "fact": "The three of them went from Singapore to Morocco and got into trouble everywhere.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which comedy duo performed 'Who's on First?'",
+    "choices": [
+      "The Marx Brothers",
+      "Laurel and Hardy",
+      "Abbott and Costello"
+    ],
+    "answer": 2,
+    "fact": "A whole routine built on baseball nicknames, and it still ties people in knots.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which comedy team included Groucho, Chico and Harpo?",
+    "choices": [
+      "The Ritz Brothers",
+      "The Marx Brothers",
+      "The Three Stooges"
+    ],
+    "answer": 1,
+    "fact": "Harpo never said a word - he just honked his horn and stole the scene.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Moe, Larry and Curly were known as?",
+    "choices": [
+      "The Bowery Boys",
+      "The Marx Brothers",
+      "The Three Stooges"
+    ],
+    "answer": 2,
+    "fact": "Nyuk, nyuk, nyuk - three grown men and one very silly slap.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which star was the favorite pin-up girl of the 1940s?",
+    "choices": [
+      "Betty Grable",
+      "Loretta Young",
+      "Greer Garson"
+    ],
+    "answer": 0,
+    "fact": "Her famous legs were said to be insured for a million dollars.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which movie star was famous for swimming in her films?",
+    "choices": [
+      "Esther Williams",
+      "Ann Miller",
+      "Betty Hutton"
+    ],
+    "answer": 0,
+    "fact": "Whole musical numbers staged in a swimming pool - Hollywood thought big.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Who was Fred Astaire's most famous dancing partner?",
+    "choices": [
+      "Rita Hayworth",
+      "Ginger Rogers",
+      "Betty Grable"
+    ],
+    "answer": 1,
+    "fact": "She did everything he did, backwards and in high heels.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "'In the Mood' was a big hit for which bandleader?",
+    "choices": [
+      "Benny Goodman",
+      "Glenn Miller",
+      "Tommy Dorsey"
+    ],
+    "answer": 1,
+    "fact": "That opening riff still gets toes tapping in any room in America.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Benny Goodman, the King of Swing, played which instrument?",
+    "choices": [
+      "Clarinet",
+      "Piano",
+      "Trumpet"
+    ],
+    "answer": 0,
+    "fact": "He made the clarinet swing so hard the kids danced in the aisles.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which young singer made bobby-soxers swoon in the 1940s?",
+    "choices": [
+      "Dean Martin",
+      "Perry Como",
+      "Frank Sinatra"
+    ],
+    "answer": 2,
+    "fact": "Girls screamed so loud at his shows the ushers could barely keep order.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Who sang the beloved holiday song 'White Christmas'?",
+    "choices": [
+      "Bing Crosby",
+      "Nat King Cole",
+      "Frank Sinatra"
+    ],
+    "answer": 0,
+    "fact": "It became one of the best-selling records of all time, and still is.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "How many singers were in the Andrews Sisters?",
+    "choices": [
+      "Two",
+      "Four",
+      "Three"
+    ],
+    "answer": 2,
+    "fact": "LaVerne, Maxene and Patty - three sisters, one perfect harmony.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Take the A Train' was the theme song of which bandleader?",
+    "choices": [
+      "Count Basie",
+      "Duke Ellington",
+      "Cab Calloway"
+    ],
+    "answer": 1,
+    "fact": "The Duke dressed like a million dollars and his band sounded like it too.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Louis Armstrong's famous nickname was?",
+    "choices": [
+      "The Duke",
+      "Bojangles",
+      "Satchmo"
+    ],
+    "answer": 2,
+    "fact": "That gravelly voice and that golden trumpet - nobody ever sounded like him.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which 1943 Broadway hit opened with 'Oh, What a Beautiful Mornin''?",
+    "choices": [
+      "Kiss Me, Kate",
+      "Carousel",
+      "Oklahoma!"
+    ],
+    "answer": 2,
+    "fact": "A cowboy strolls on singing, and Broadway musicals were never the same.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which singer was called the First Lady of Song?",
+    "choices": [
+      "Ella Fitzgerald",
+      "Peggy Lee",
+      "Dinah Shore"
+    ],
+    "answer": 0,
+    "fact": "Ella could scat a whole chorus and make it sound easy as breathing.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "What was the name of the Lone Ranger's horse?",
+    "choices": [
+      "Silver",
+      "Champion",
+      "Trigger"
+    ],
+    "answer": 0,
+    "fact": "Hi-yo, Silver, away! - the best exit line on radio.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Roy Rogers rode a golden horse named?",
+    "choices": [
+      "Scout",
+      "Trigger",
+      "Silver"
+    ],
+    "answer": 1,
+    "fact": "Trigger was billed as the smartest horse in the movies, and he earned it.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Which radio comedian joked about pinching pennies and played violin?",
+    "choices": [
+      "Red Skelton",
+      "Jack Benny",
+      "Fred Allen"
+    ],
+    "answer": 1,
+    "fact": "He also claimed to be 39 years old for about forty years running.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Gracie Allen's comedy partner and husband was?",
+    "choices": [
+      "Bob Hope",
+      "Jack Benny",
+      "George Burns"
+    ],
+    "answer": 2,
+    "fact": "George held the cigar, Gracie got the laughs, and it worked for decades.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "On radio, whose hall closet spilled out with a mighty crash?",
+    "choices": [
+      "Charlie McCarthy",
+      "Fibber McGee",
+      "Jack Benny"
+    ],
+    "answer": 1,
+    "fact": "Audiences waited all week just to hear that closet let loose again.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Edgar Bergen's wisecracking wooden sidekick was named?",
+    "choices": [
+      "Charlie McCarthy",
+      "Jerry Mahoney",
+      "Howdy Doody"
+    ],
+    "answer": 0,
+    "fact": "A ventriloquist act on the radio - and somehow it was a smash hit.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Which radio hero could cloud men's minds so they couldn't see him?",
+    "choices": [
+      "The Shadow",
+      "The Whistler",
+      "The Green Hornet"
+    ],
+    "answer": 0,
+    "fact": "That spooky laugh at the start of the show gave everybody the shivers.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Daytime radio dramas were called 'soap operas' after sponsors who sold?",
+    "choices": [
+      "Soap",
+      "Cars",
+      "Cigars"
+    ],
+    "answer": 0,
+    "fact": "Detergent companies paid the bills, so the name stuck for good.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Which lively swing dance did 1940s teens love?",
+    "choices": [
+      "The Twist",
+      "The Charleston",
+      "The Jitterbug"
+    ],
+    "answer": 2,
+    "fact": "Skirts flying, partners flipping - some schools tried to ban it.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which toy walks down the stairs all by itself?",
+    "choices": [
+      "The Slinky",
+      "The Yo-Yo",
+      "The Hula Hoop"
+    ],
+    "answer": 0,
+    "fact": "It started as a spring that fell off a shelf, and became a classic.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Women lined up in the 1940s for stockings made of which new fabric?",
+    "choices": [
+      "Nylon",
+      "Flannel",
+      "Denim"
+    ],
+    "answer": 0,
+    "fact": "When nylons were scarce, some women drew a seam up the back of their legs.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Sharing one telephone line with your neighbors was called a?",
+    "choices": [
+      "Hot line",
+      "Party line",
+      "Switchboard"
+    ],
+    "answer": 1,
+    "fact": "Everyone had their own ring pattern, and everyone listened in anyway.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Who left glass bottles on your doorstep each morning?",
+    "choices": [
+      "The milkman",
+      "The mailman",
+      "The paperboy"
+    ],
+    "answer": 0,
+    "fact": "On cold mornings the cream froze and pushed the little cap right up.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "At an Automat, where did you get your food?",
+    "choices": [
+      "Little glass doors",
+      "A drive-up window",
+      "A picnic line"
+    ],
+    "answer": 0,
+    "fact": "Drop in a nickel, open the tiny door, and out came your slice of pie.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "A station wagon with real wood panels was nicknamed a?",
+    "choices": [
+      "Coupe",
+      "Woodie",
+      "Roadster"
+    ],
+    "answer": 1,
+    "fact": "Families polished that wood like furniture before a Sunday drive.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "In 1947, Christian Dior introduced a style called the?",
+    "choices": [
+      "New Look",
+      "Flapper look",
+      "Mod look"
+    ],
+    "answer": 0,
+    "fact": "Nipped waists and swirling full skirts - fashion felt joyful again.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which poster woman flexed her arm and said 'We Can Do It!'?",
+    "choices": [
+      "Rosie the Riveter",
+      "Little Lulu",
+      "Betty Crocker"
+    ],
+    "answer": 0,
+    "fact": "That red polka-dot bandana turned into a symbol of pure gumption.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Joe DiMaggio played center field for which team?",
+    "choices": [
+      "The Dodgers",
+      "The Yankees",
+      "The Red Sox"
+    ],
+    "answer": 1,
+    "fact": "In 1941 he got a hit in 56 straight games, a record still standing.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Ted Williams was a slugging star for which team?",
+    "choices": [
+      "Boston Red Sox",
+      "New York Yankees",
+      "Chicago Cubs"
+    ],
+    "answer": 0,
+    "fact": "They called him the Splendid Splinter, and he could see the seams on a fastball.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Jackie Robinson began his big league career with which team?",
+    "choices": [
+      "Boston Braves",
+      "New York Giants",
+      "Brooklyn Dodgers"
+    ],
+    "answer": 2,
+    "fact": "He stole home 19 times and made every ballpark lean forward.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "What was the name of Lucy's husband on 'I Love Lucy'?",
+    "choices": [
+      "Ricky Ricardo",
+      "Ralph Kramden",
+      "Fred Mertz"
+    ],
+    "answer": 0,
+    "fact": "Desi Arnaz played him, and he really was Lucille Ball's husband too.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who was Lucy's best friend and upstairs neighbor?",
+    "choices": [
+      "Alice Kramden",
+      "Ethel Mertz",
+      "Harriet Nelson"
+    ],
+    "answer": 1,
+    "fact": "Vivian Vance played Ethel, and the two of them made mischief look easy.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which Sunday night host promised a 'really big show'?",
+    "choices": [
+      "Milton Berle",
+      "Ed Sullivan",
+      "Arthur Godfrey"
+    ],
+    "answer": 1,
+    "fact": "He stood stiff as a board, but every big act in America wanted on that stage.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which TV comedian was nicknamed 'Uncle Miltie'?",
+    "choices": [
+      "Sid Caesar",
+      "Milton Berle",
+      "Red Skelton"
+    ],
+    "answer": 1,
+    "fact": "Tuesday nights he emptied the streets - people called him Mr. Television.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which children's show starred a freckled puppet in a cowboy shirt?",
+    "choices": [
+      "Howdy Doody",
+      "Romper Room",
+      "Captain Kangaroo"
+    ],
+    "answer": 0,
+    "fact": "The kids in the Peanut Gallery got to holler the opening question every day.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On 'The Honeymooners', Ralph Kramden drove a?",
+    "choices": [
+      "City bus",
+      "Milk truck",
+      "Taxi"
+    ],
+    "answer": 0,
+    "fact": "Jackie Gleason played him big, loud, and secretly soft-hearted.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Ralph Kramden's upstairs pal on 'The Honeymooners' was named?",
+    "choices": [
+      "Fred Mertz",
+      "Barney Fife",
+      "Ed Norton"
+    ],
+    "answer": 2,
+    "fact": "Art Carney could get a laugh just by rolling up his sleeves.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On 'Leave It to Beaver', what was Beaver's big brother's name?",
+    "choices": [
+      "Wally",
+      "Eddie",
+      "Lumpy"
+    ],
+    "answer": 0,
+    "fact": "Wally was the one who always got Beaver out of the jam he got into.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which teen idol sang on his family's show 'Ozzie and Harriet'?",
+    "choices": [
+      "Frankie Avalon",
+      "Ricky Nelson",
+      "Fabian"
+    ],
+    "answer": 1,
+    "fact": "He'd sing a song at the end of the episode and sell a million records.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Lassie, television's famous dog, was what breed?",
+    "choices": [
+      "Golden retriever",
+      "German shepherd",
+      "Collie"
+    ],
+    "answer": 2,
+    "fact": "Somehow Lassie could explain an entire emergency with three barks.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which TV detective was famous for asking for 'just the facts'?",
+    "choices": [
+      "Joe Friday",
+      "Perry Mason",
+      "Peter Gunn"
+    ],
+    "answer": 0,
+    "fact": "'Dragnet' opened with those four famous notes: dum-de-dum-dum.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "The western 'Gunsmoke' was set in which frontier town?",
+    "choices": [
+      "Dodge City",
+      "Tombstone",
+      "Laredo"
+    ],
+    "answer": 0,
+    "fact": "Marshal Matt Dillon kept order there for twenty years on the air.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which Mouseketeer grew up to be a big teen star?",
+    "choices": [
+      "Sandra Dee",
+      "Shelley Fabares",
+      "Annette Funicello"
+    ],
+    "answer": 2,
+    "fact": "Every kid in America knew the roll call and those mouse-ear hats.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Captain Kangaroo's gardening friend was named Mister?",
+    "choices": [
+      "Rogers",
+      "Wizard",
+      "Green Jeans"
+    ],
+    "answer": 2,
+    "fact": "Bob Keeshan played the Captain in that jacket with the big pockets.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who hosted the teen dance show 'American Bandstand'?",
+    "choices": [
+      "Dick Clark",
+      "Ed Sullivan",
+      "Bob Barker"
+    ],
+    "answer": 0,
+    "fact": "Kids rated the new records: 'It's got a good beat and you can dance to it.'",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which Disney frontier hero sparked a craze for coonskin caps?",
+    "choices": [
+      "Daniel Boone",
+      "Zorro",
+      "Davy Crockett"
+    ],
+    "answer": 2,
+    "fact": "Stores sold out of coonskin caps so fast the price of fur went up.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which bandleader's TV show floated bubbles across the screen?",
+    "choices": [
+      "Xavier Cugat",
+      "Lawrence Welk",
+      "Guy Lombardo"
+    ],
+    "answer": 1,
+    "fact": "A-one and a-two - his champagne music was Saturday night at home.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On Groucho Marx's quiz show, what dropped down for the secret word?",
+    "choices": [
+      "A toy duck",
+      "A balloon",
+      "A gold bell"
+    ],
+    "answer": 0,
+    "fact": "Say the secret word and the duck came down with a hundred dollars.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which blonde star's white dress blew up over a subway grate?",
+    "choices": [
+      "Jayne Mansfield",
+      "Kim Novak",
+      "Marilyn Monroe"
+    ],
+    "answer": 2,
+    "fact": "That scene from 'The Seven Year Itch' is maybe the most famous in Hollywood.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who danced with an umbrella in 'Singin' in the Rain'?",
+    "choices": [
+      "Fred Astaire",
+      "Dan Dailey",
+      "Gene Kelly"
+    ],
+    "answer": 2,
+    "fact": "He filmed that number with a bad cold and never let it show.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which star rode a scooter through Rome in 'Roman Holiday'?",
+    "choices": [
+      "Audrey Hepburn",
+      "Leslie Caron",
+      "Grace Kelly"
+    ],
+    "answer": 0,
+    "fact": "It was her first big role, and she went home with an Academy Award.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which movie star became a real-life princess?",
+    "choices": [
+      "Debbie Reynolds",
+      "Grace Kelly",
+      "Doris Day"
+    ],
+    "answer": 1,
+    "fact": "She sailed to Monaco in 1956 and traded Hollywood for a palace.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who played Moses in 'The Ten Commandments'?",
+    "choices": [
+      "Kirk Douglas",
+      "Charlton Heston",
+      "Gregory Peck"
+    ],
+    "answer": 1,
+    "fact": "Parting that sea took months of work and a lot of very clever plumbing.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which 1959 epic featured a famous chariot race?",
+    "choices": [
+      "Ben-Hur",
+      "Cleopatra",
+      "Spartacus"
+    ],
+    "answer": 0,
+    "fact": "The chariot race took months to film and still gets your heart going.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "In 'The King and I', Yul Brynner played a king from where?",
+    "choices": [
+      "India",
+      "Egypt",
+      "Siam"
+    ],
+    "answer": 2,
+    "fact": "He played that role thousands of times on stage and never tired of it.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "In which Hitchcock film did James Stewart have a broken leg?",
+    "choices": [
+      "The Birds",
+      "Vertigo",
+      "Rear Window"
+    ],
+    "answer": 2,
+    "fact": "A whole thriller shot from one apartment window - and it works beautifully.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which young star appeared in 'Rebel Without a Cause'?",
+    "choices": [
+      "Tab Hunter",
+      "Troy Donahue",
+      "James Dean"
+    ],
+    "answer": 2,
+    "fact": "That red jacket made him the picture of every restless teenager.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which cheerful star sang 'Que Sera, Sera'?",
+    "choices": [
+      "Rosemary Clooney",
+      "Debbie Reynolds",
+      "Doris Day"
+    ],
+    "answer": 2,
+    "fact": "Whatever will be, will be - the most relaxing advice ever set to music.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "John Wayne's famous nickname was?",
+    "choices": [
+      "The Kid",
+      "The Duke",
+      "Slim"
+    ],
+    "answer": 1,
+    "fact": "He got the nickname as a boy - from a dog named Duke he walked everywhere.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Disney heroine lost a glass slipper at the ball?",
+    "choices": [
+      "Cinderella",
+      "Sleeping Beauty",
+      "Snow White"
+    ],
+    "answer": 0,
+    "fact": "Bibbidi-bobbidi-boo, and a pumpkin became the finest coach in the kingdom.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Peter Pan's tiny fairy friend was named?",
+    "choices": [
+      "Tinker Bell",
+      "Wendy",
+      "Nana"
+    ],
+    "answer": 0,
+    "fact": "She spoke only in the tinkle of a little bell, and got her way anyhow.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Disney dogs shared a plate of spaghetti?",
+    "choices": [
+      "Lady and the Tramp",
+      "101 Dalmatians",
+      "The Fox and the Hound"
+    ],
+    "answer": 0,
+    "fact": "One noodle, two dogs, and the most romantic dinner in cartoon history.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Bogart steamed down an African river with which actress?",
+    "choices": [
+      "Lauren Bacall",
+      "Ingrid Bergman",
+      "Katharine Hepburn"
+    ],
+    "answer": 2,
+    "fact": "'The African Queen' won Bogart his only Oscar, leeches and all.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which singer was crowned the King of Rock and Roll?",
+    "choices": [
+      "Chuck Berry",
+      "Buddy Holly",
+      "Elvis Presley"
+    ],
+    "answer": 2,
+    "fact": "He was a truck driver who walked into a Memphis studio to make a record.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Elvis Presley's Memphis home was called?",
+    "choices": [
+      "Sun House",
+      "Bluebird Manor",
+      "Graceland"
+    ],
+    "answer": 2,
+    "fact": "He bought it at 22 years old and put a jungle room in it later.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Hound Dog' was a giant hit for which singer?",
+    "choices": [
+      "Bill Haley",
+      "Elvis Presley",
+      "Fats Domino"
+    ],
+    "answer": 1,
+    "fact": "When he sang it on TV, the cameras were told to shoot him from the waist up.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Rock Around the Clock' was recorded by Bill Haley and his?",
+    "choices": [
+      "Comets",
+      "Crickets",
+      "Coasters"
+    ],
+    "answer": 0,
+    "fact": "It's often called the record that kicked the whole rock and roll door open.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Buddy Holly sang about a girl named?",
+    "choices": [
+      "Barbara Ann",
+      "Peggy Sue",
+      "Donna"
+    ],
+    "answer": 1,
+    "fact": "Those black horn-rimmed glasses made eyeglasses cool for a generation.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which rock star was known for his 'duck walk' across the stage?",
+    "choices": [
+      "Little Richard",
+      "Chuck Berry",
+      "Jerry Lee Lewis"
+    ],
+    "answer": 1,
+    "fact": "He'd hop across the stage on one leg with the guitar and never miss a note.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Tutti Frutti' was the breakout hit for which wild performer?",
+    "choices": [
+      "Sam Cooke",
+      "Little Richard",
+      "Fats Domino"
+    ],
+    "answer": 1,
+    "fact": "He pounded the piano standing up, with his hair piled high as a wedding cake.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Blueberry Hill' was a hit for which New Orleans piano man?",
+    "choices": [
+      "Bo Diddley",
+      "Fats Domino",
+      "Ray Charles"
+    ],
+    "answer": 1,
+    "fact": "He had that easy rolling piano and the friendliest smile in the business.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which relaxed crooner sang on TV in a cardigan sweater?",
+    "choices": [
+      "Frank Sinatra",
+      "Perry Como",
+      "Vic Damone"
+    ],
+    "answer": 1,
+    "fact": "He was so calm on camera people joked he might doze off mid-song.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which velvet-voiced singer had a hit with 'Mona Lisa'?",
+    "choices": [
+      "Billy Eckstine",
+      "Nat King Cole",
+      "Johnny Mathis"
+    ],
+    "answer": 1,
+    "fact": "He started out as a jazz pianist, and that voice was almost an accident.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Patti Page sang a novelty hit about a doggie in the?",
+    "choices": [
+      "Wagon",
+      "Garden",
+      "Window"
+    ],
+    "answer": 2,
+    "fact": "The record even had a little woof in it, and the whole country sang along.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'The Great Pretender' was a hit for which group?",
+    "choices": [
+      "The Drifters",
+      "The Platters",
+      "The Coasters"
+    ],
+    "answer": 1,
+    "fact": "Their smooth harmonies made them one of the first groups everybody loved.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which brother duo sang 'Bye Bye Love'?",
+    "choices": [
+      "The Righteous Brothers",
+      "The Everly Brothers",
+      "The Mills Brothers"
+    ],
+    "answer": 1,
+    "fact": "Don and Phil's harmony was so tight it sounded like one voice split in two.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which crooner sang 'That's Amore'?",
+    "choices": [
+      "Eddie Fisher",
+      "Tony Bennett",
+      "Dean Martin"
+    ],
+    "answer": 2,
+    "fact": "He made everything look effortless, which took an awful lot of work.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which group's dreamy hit was 'Mr. Sandman'?",
+    "choices": [
+      "The Fontane Sisters",
+      "The McGuire Sisters",
+      "The Chordettes"
+    ],
+    "answer": 2,
+    "fact": "Four women from Wisconsin, harmonizing like a barbershop quartet.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which singing cartoon chipmunk was always getting scolded?",
+    "choices": [
+      "Alvin",
+      "Simon",
+      "Theodore"
+    ],
+    "answer": 0,
+    "fact": "Their 1958 Christmas record about a hula hoop sold millions of copies.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Julie Andrews played Eliza Doolittle in which Broadway hit?",
+    "choices": [
+      "My Fair Lady",
+      "Camelot",
+      "Brigadoon"
+    ],
+    "answer": 0,
+    "fact": "She was 20 years old and had never had a singing lesson she liked.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which Broadway musical featured the song 'Do-Re-Mi'?",
+    "choices": [
+      "Carousel",
+      "Kismet",
+      "The Sound of Music"
+    ],
+    "answer": 2,
+    "fact": "Mary Martin starred in the very first Broadway production.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which 1957 Broadway musical featured the song 'Maria'?",
+    "choices": [
+      "Damn Yankees",
+      "Guys and Dolls",
+      "West Side Story"
+    ],
+    "answer": 2,
+    "fact": "Leonard Bernstein wrote the music and Jerome Robbins made everyone dance.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "A tall glass of vanilla ice cream and root beer was called a?",
+    "choices": [
+      "Egg cream",
+      "Root beer float",
+      "Sundae"
+    ],
+    "answer": 1,
+    "fact": "Two straws, one glass, and a very good reason to sit at the counter.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which frozen meal came in a divided aluminum tray?",
+    "choices": [
+      "Box lunch",
+      "TV dinner",
+      "Pot pie"
+    ],
+    "answer": 1,
+    "fact": "Swanson sold them by the million, and the TV tray table came right along.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Plastic bowls with burping lids were sold at parties by?",
+    "choices": [
+      "Tupperware",
+      "Corning",
+      "Pyrex"
+    ],
+    "answer": 0,
+    "fact": "The famous 'burp' seal was invented so leftovers would stay fresh.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "1950s Cadillacs were famous for big what on the back?",
+    "choices": [
+      "Rumble seats",
+      "Tail fins",
+      "Sun roofs"
+    ],
+    "answer": 1,
+    "fact": "By 1959 those fins were so tall they looked ready for takeoff.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which company made the beloved 1957 Bel Air?",
+    "choices": [
+      "Ford",
+      "Buick",
+      "Chevrolet"
+    ],
+    "answer": 2,
+    "fact": "That two-tone paint and chrome grille still turns heads at every car show.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which sporty Chevrolet first appeared in 1953?",
+    "choices": [
+      "Corvette",
+      "Thunderbird",
+      "Mustang"
+    ],
+    "answer": 0,
+    "fact": "The very first ones were all white with red interiors, every single one.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "The little round Volkswagen was nicknamed the?",
+    "choices": [
+      "Turtle",
+      "Ladybug",
+      "Bug"
+    ],
+    "answer": 2,
+    "fact": "It was small, cheap and cheerful, and it made parking a breeze.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Snap, Crackle and Pop advertised which cereal?",
+    "choices": [
+      "Rice Krispies",
+      "Corn Flakes",
+      "Cheerios"
+    ],
+    "answer": 0,
+    "fact": "Three little elves whose whole job was to describe a bowl of breakfast.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which cereal did Tony the Tiger say were gr-r-reat?",
+    "choices": [
+      "Sugar Smacks",
+      "Frosted Flakes",
+      "Raisin Bran"
+    ],
+    "answer": 1,
+    "fact": "Tony started out sharing the box with a kangaroo, and won the job outright.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "'M'm! M'm! Good!' was the slogan for which soup?",
+    "choices": [
+      "Campbell's",
+      "Heinz",
+      "Lipton"
+    ],
+    "answer": 0,
+    "fact": "Those rosy-cheeked Campbell's Kids had been around since your grandma's day.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "What surprise came inside every box of Cracker Jack?",
+    "choices": [
+      "A coupon",
+      "A balloon",
+      "A prize"
+    ],
+    "answer": 2,
+    "fact": "Generations of kids dug straight to the bottom before eating a bite.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Pez candy pops out of a dispenser with what on top?",
+    "choices": [
+      "A tiny flag",
+      "A little bell",
+      "A character head"
+    ],
+    "answer": 2,
+    "fact": "The heads started as plain dispensers before Santa and the cartoons arrived.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which hamburger chain is known for its golden arches?",
+    "choices": [
+      "Burger King",
+      "White Castle",
+      "McDonald's"
+    ],
+    "answer": 2,
+    "fact": "Ray Kroc opened his first one in 1955, selling 15-cent hamburgers.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which candy promised to melt in your mouth, not in your hand?",
+    "choices": [
+      "Milk Duds",
+      "M&M's",
+      "Junior Mints"
+    ],
+    "answer": 1,
+    "fact": "That candy shell was the whole idea - chocolate you could keep in a pocket.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "The new pocket-sized radio of the 1950s was called a?",
+    "choices": [
+      "Transistor radio",
+      "Console set",
+      "Crystal set"
+    ],
+    "answer": 0,
+    "fact": "Suddenly music went to the beach, the ballgame and under the bedcovers.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "At a drive-in theater, where did you watch the movie from?",
+    "choices": [
+      "A picnic blanket",
+      "Your car",
+      "A balcony"
+    ],
+    "answer": 1,
+    "fact": "You hung a little speaker on your window and brought popcorn from home.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which 1958 toy craze had everyone spinning a plastic hoop?",
+    "choices": [
+      "Hula Hoop",
+      "Frisbee",
+      "Slinky"
+    ],
+    "answer": 0,
+    "fact": "Twenty-five million sold in four months - the fastest fad anyone had seen.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which toy is a plastic disc you sail through the air?",
+    "choices": [
+      "Frisbee",
+      "Slinky",
+      "Yo-Yo"
+    ],
+    "answer": 0,
+    "fact": "The name came from pie tins that college students used to toss around.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which stretchy toy came in an egg and bounced?",
+    "choices": [
+      "Slinky",
+      "Silly Putty",
+      "Play-Doh"
+    ],
+    "answer": 1,
+    "fact": "Press it on the funny papers and the comic came right off onto the putty.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "A popular teenage skirt had which animal stitched on it?",
+    "choices": [
+      "A kitten",
+      "A poodle",
+      "A pony"
+    ],
+    "answer": 1,
+    "fact": "Big felt circle skirts, perfect for twirling at a Friday night dance.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Greased-back hair on 1950s boys was called a?",
+    "choices": [
+      "Ducktail",
+      "Bob",
+      "Bouffant"
+    ],
+    "answer": 0,
+    "fact": "A comb in the back pocket was standard equipment for the look.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "At a sock hop, teens danced in the gym without their?",
+    "choices": [
+      "Coats",
+      "Records",
+      "Shoes"
+    ],
+    "answer": 2,
+    "fact": "Shoes came off to protect the gym floor, and the name stuck forever.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which famous fashion doll first appeared in 1959?",
+    "choices": [
+      "Chatty Cathy",
+      "Barbie",
+      "Betsy Wetsy"
+    ],
+    "answer": 1,
+    "fact": "She was named after the inventor's daughter, and started out in a swimsuit.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "A boy gave a girl his class ring to show they were?",
+    "choices": [
+      "Going steady",
+      "Married",
+      "Pen pals"
+    ],
+    "answer": 0,
+    "fact": "If the ring was too big, she'd wrap it in yarn until it fit just right.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Mickey Mantle starred for which baseball team?",
+    "choices": [
+      "Detroit Tigers",
+      "New York Yankees",
+      "Chicago White Sox"
+    ],
+    "answer": 1,
+    "fact": "He could switch-hit, and he ran to first faster than almost anyone.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Willie Mays was known as the Say Hey what?",
+    "choices": [
+      "Champ",
+      "Slugger",
+      "Kid"
+    ],
+    "answer": 2,
+    "fact": "His over-the-shoulder catch in the 1954 World Series is still called The Catch.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Yogi Berra played which position for the Yankees?",
+    "choices": [
+      "Pitcher",
+      "Shortstop",
+      "Catcher"
+    ],
+    "answer": 2,
+    "fact": "He was as famous for his sayings as his bat: it ain't over till it's over.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "The Brooklyn Dodgers played home games at which ballpark?",
+    "choices": [
+      "Fenway Park",
+      "Ebbets Field",
+      "Yankee Stadium"
+    ],
+    "answer": 1,
+    "fact": "Brooklyn finally won the World Series in 1955 and the borough threw a party.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "In 1954, Roger Bannister first ran a mile under how many minutes?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": 0,
+    "fact": "Everyone said it couldn't be done, and then six weeks later others did it too.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "The Grand Ole Opry radio show comes from which city?",
+    "choices": [
+      "Memphis",
+      "Nashville",
+      "Dallas"
+    ],
+    "answer": 1,
+    "fact": "Saturday nights, families gathered around the radio for the whole show.",
+    "era": "1950s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "The person who played the records on the radio was called a?",
+    "choices": [
+      "Disc jockey",
+      "Newsman",
+      "Bandleader"
+    ],
+    "answer": 0,
+    "fact": "A good DJ could turn an unknown record into a nationwide hit overnight.",
+    "era": "1950s",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Which flashy pianist put a candelabra on his piano?",
+    "choices": [
+      "Van Cliburn",
+      "Liberace",
+      "Roger Williams"
+    ],
+    "answer": 1,
+    "fact": "The sequins, the smile, the candles - he called it giving folks a show.",
+    "era": "1950s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Dean Martin's zany comedy partner was?",
+    "choices": [
+      "Red Buttons",
+      "Sid Caesar",
+      "Jerry Lewis"
+    ],
+    "answer": 2,
+    "fact": "One played it smooth, one fell over the furniture, and America howled.",
+    "era": "1950s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which 1960s sitcom starred a talking horse?",
+    "choices": [
+      "Flipper",
+      "Mister Ed",
+      "Lassie"
+    ],
+    "answer": 1,
+    "fact": "Mister Ed's real name was Bamboo Harvester, and he had a great love of peppermints.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who played the sheriff of Mayberry?",
+    "choices": [
+      "Andy Griffith",
+      "Don Knotts",
+      "Jim Nabors"
+    ],
+    "answer": 0,
+    "fact": "That famous whistled theme song was whistled by composer Earle Hagen himself.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On Bewitched, Samantha twitched what to cast a spell?",
+    "choices": [
+      "Her fingers",
+      "Her hair",
+      "Her nose"
+    ],
+    "answer": 2,
+    "fact": "Elizabeth Montgomery's little nose twitch became one of TV's most copied moves.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On I Dream of Jeannie, what was Tony Nelson's job?",
+    "choices": [
+      "Doctor",
+      "Pilot",
+      "Astronaut"
+    ],
+    "answer": 2,
+    "fact": "Jeannie's bottle was really a Jim Beam holiday decanter, painted up for TV.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which family struck oil and moved to Beverly Hills?",
+    "choices": [
+      "The Kettles",
+      "The Clampetts",
+      "The Bunkers"
+    ],
+    "answer": 1,
+    "fact": "The Beverly Hillbillies was the most-watched show in America two years running.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Gilligan's Island began with a boat trip meant to last how long?",
+    "choices": [
+      "Three hours",
+      "Three days",
+      "Three weeks"
+    ],
+    "answer": 0,
+    "fact": "The little boat that started it all was named the S.S. Minnow.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which show sent a city couple to live on a farm?",
+    "choices": [
+      "Petticoat Junction",
+      "Green Acres",
+      "Mayberry R.F.D."
+    ],
+    "answer": 1,
+    "fact": "Eddie Albert loved gardening and farming in real life, long before Green Acres.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Where did the Cartwright family live on Bonanza?",
+    "choices": [
+      "The Big Valley",
+      "The Barkley Ranch",
+      "The Ponderosa"
+    ],
+    "answer": 2,
+    "fact": "Bonanza was filmed in color partly to help sell America its first color TV sets.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who hosted the Sunday night 'really big show'?",
+    "choices": [
+      "Ed Sullivan",
+      "Jack Paar",
+      "Art Linkletter"
+    ],
+    "answer": 0,
+    "fact": "Ed Sullivan introduced the Beatles to about 73 million Americans in one night.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who was Batman's crime-fighting sidekick?",
+    "choices": [
+      "Robin",
+      "Alfred",
+      "Batgirl"
+    ],
+    "answer": 0,
+    "fact": "The 1966 Batman flashed words like Pow! and Bam! right across the screen.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who was captain of the Starship Enterprise?",
+    "choices": [
+      "Mr. Spock",
+      "Dr. McCoy",
+      "Captain Kirk"
+    ],
+    "answer": 2,
+    "fact": "Star Trek ran only three seasons, then became a bigger hit in reruns.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "What kind of dog was Lassie?",
+    "choices": [
+      "Sheepdog",
+      "Collie",
+      "Retriever"
+    ],
+    "answer": 1,
+    "fact": "Every Lassie on television was actually played by a male dog.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which cartoon family lived in Bedrock?",
+    "choices": [
+      "The Jetsons",
+      "The Flintstones",
+      "The Addams Family"
+    ],
+    "answer": 1,
+    "fact": "Alan Reed invented 'Yabba dabba doo' from his mother's saying, 'A little dab'll do ya.'",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which cartoon family lived in the space age?",
+    "choices": [
+      "The Jetsons",
+      "The Flintstones",
+      "Top Cat"
+    ],
+    "answer": 0,
+    "fact": "Rosie the robot maid did all the housework the Jetsons never had to touch.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which cartoon Great Dane solved mysteries with his friends?",
+    "choices": [
+      "Astro",
+      "Huckleberry Hound",
+      "Scooby-Doo"
+    ],
+    "answer": 2,
+    "fact": "Scooby's gang rode around in a flowery van called the Mystery Machine.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Rocky the flying squirrel's best pal was what animal?",
+    "choices": [
+      "A bear",
+      "A raccoon",
+      "A moose"
+    ],
+    "answer": 2,
+    "fact": "Bullwinkle was named after a California car dealer named Bulwinkel.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who hosted The Twilight Zone?",
+    "choices": [
+      "Rod Serling",
+      "Alfred Hitchcock",
+      "Boris Karloff"
+    ],
+    "answer": 0,
+    "fact": "Rod Serling wrote more than 90 of the show's episodes himself.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On Get Smart, where did Maxwell Smart hide his phone?",
+    "choices": [
+      "His hat",
+      "His shoe",
+      "His briefcase"
+    ],
+    "answer": 1,
+    "fact": "Don Adams' shoe phone was a joke decades before anybody carried a real one.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which TV band sang 'Daydream Believer'?",
+    "choices": [
+      "The Beach Boys",
+      "The Monkees",
+      "The Lovin' Spoonful"
+    ],
+    "answer": 1,
+    "fact": "Hundreds of hopefuls answered the open casting call to become a Monkee.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On The Addams Family, Thing was a what?",
+    "choices": [
+      "A cat",
+      "A butler",
+      "A hand"
+    ],
+    "answer": 2,
+    "fact": "Thing popped out of boxes all over the house, always ready to lend a hand.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which show starred Dick Van Dyke as a TV comedy writer?",
+    "choices": [
+      "The Dick Van Dyke Show",
+      "The Jack Benny Program",
+      "The Donna Reed Show"
+    ],
+    "answer": 0,
+    "fact": "Mary Tyler Moore was only 24 years old when she was cast as Laura Petrie.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which spy show's tape self-destructed in five seconds?",
+    "choices": [
+      "Mission: Impossible",
+      "The Man from U.N.C.L.E.",
+      "I Spy"
+    ],
+    "answer": 0,
+    "fact": "Lalo Schifrin wrote that drumbeat theme in an unusual five-beat rhythm.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Whose show featured 'champagne music' and floating bubbles?",
+    "choices": [
+      "Andy Williams",
+      "Lawrence Welk",
+      "Perry Como"
+    ],
+    "answer": 1,
+    "fact": "Lawrence Welk's bubble machine got nearly as famous as his accordion.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "How did Carol Burnett say goodnight at the end of her show?",
+    "choices": [
+      "Waved a hanky",
+      "Blew a kiss",
+      "Tugged her ear"
+    ],
+    "answer": 2,
+    "fact": "The ear tug was a secret hello to her grandmother, watching at home.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "'Sock it to me' was a catchphrase on which show?",
+    "choices": [
+      "Hee Haw",
+      "The Hollywood Palace",
+      "Laugh-In"
+    ],
+    "answer": 2,
+    "fact": "Goldie Hawn got her start giggling her way through the jokes on Laugh-In.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who hosted Let's Make a Deal?",
+    "choices": [
+      "Bill Cullen",
+      "Monty Hall",
+      "Bob Barker"
+    ],
+    "answer": 1,
+    "fact": "Fans dressed as bananas and chickens hoping Monty would call on them.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On Jeopardy!, players give their answer in the form of a what?",
+    "choices": [
+      "A question",
+      "A riddle",
+      "A rhyme"
+    ],
+    "answer": 0,
+    "fact": "Jeopardy! first aired in 1964 with a friendly host named Art Fleming.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who sat in the center square on Hollywood Squares?",
+    "choices": [
+      "Charley Weaver",
+      "Paul Lynde",
+      "Rose Marie"
+    ],
+    "answer": 1,
+    "fact": "Paul Lynde's giggle from that center square made the whole show sparkle.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which quarterback promised a Jets win in the 1969 Super Bowl?",
+    "choices": [
+      "Joe Namath",
+      "Johnny Unitas",
+      "Bart Starr"
+    ],
+    "answer": 0,
+    "fact": "Joe Namath made his bold promise poolside, then went out and delivered.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Julie Andrews sang on a mountaintop in which movie?",
+    "choices": [
+      "My Fair Lady",
+      "Camelot",
+      "The Sound of Music"
+    ],
+    "answer": 2,
+    "fact": "The helicopter filming that opening shot kept blowing Julie Andrews over.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "In Mary Poppins, what did Mary use to fly?",
+    "choices": [
+      "An umbrella",
+      "A broom",
+      "A kite"
+    ],
+    "answer": 0,
+    "fact": "Walt Disney chased the rights to Mary Poppins for about twenty years.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Audrey Hepburn ate breakfast in front of which famous store?",
+    "choices": [
+      "Macy's",
+      "Saks",
+      "Tiffany's"
+    ],
+    "answer": 2,
+    "fact": "That little black dress became the most famous dress in movie history.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who played James Bond in Dr. No?",
+    "choices": [
+      "Roger Moore",
+      "Sean Connery",
+      "Michael Caine"
+    ],
+    "answer": 1,
+    "fact": "Sean Connery worked as a milkman and a lifeguard before he became 007.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which Disney movie had 99 spotted puppies?",
+    "choices": [
+      "The Aristocats",
+      "101 Dalmatians",
+      "Lady and the Tramp"
+    ],
+    "answer": 1,
+    "fact": "Animators drew more than six million spots to finish that movie.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Baloo sang 'The Bare Necessities' in which Disney film?",
+    "choices": [
+      "The Jungle Book",
+      "Robin Hood",
+      "The Sword in the Stone"
+    ],
+    "answer": 0,
+    "fact": "Phil Harris improvised so many of Baloo's jokes that they kept them in.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who bumbled through the Pink Panther films as Inspector Clouseau?",
+    "choices": [
+      "Peter Ustinov",
+      "Terry-Thomas",
+      "Peter Sellers"
+    ],
+    "answer": 2,
+    "fact": "The cartoon panther from the opening credits earned his own TV show.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which musical had Jets and Sharks dancing in New York?",
+    "choices": [
+      "Oliver!",
+      "Guys and Dolls",
+      "West Side Story"
+    ],
+    "answer": 2,
+    "fact": "West Side Story won ten Academy Awards, a record for a movie musical.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Who played Professor Higgins in My Fair Lady?",
+    "choices": [
+      "Rex Harrison",
+      "Cary Grant",
+      "David Niven"
+    ],
+    "answer": 0,
+    "fact": "Rex Harrison insisted on singing live on set instead of lip-syncing.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Paul Newman and Robert Redford rode together in which 1969 film?",
+    "choices": [
+      "The Sting",
+      "Butch Cassidy",
+      "Cool Hand Luke"
+    ],
+    "answer": 1,
+    "fact": "'Raindrops Keep Fallin' on My Head' came from that sunny bicycle scene.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Elizabeth Taylor played which Egyptian queen in 1963?",
+    "choices": [
+      "Nefertiti",
+      "Cleopatra",
+      "Salome"
+    ],
+    "answer": 1,
+    "fact": "Elizabeth Taylor wore 65 different costumes in that one movie.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Elvis movie was set in Hawaii?",
+    "choices": [
+      "Blue Hawaii",
+      "Viva Las Vegas",
+      "Jailhouse Rock"
+    ],
+    "answer": 0,
+    "fact": "'Can't Help Falling in Love' came straight out of Blue Hawaii.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Lara's Theme' came from which sweeping 1965 film?",
+    "choices": [
+      "Lawrence of Arabia",
+      "Exodus",
+      "Doctor Zhivago"
+    ],
+    "answer": 2,
+    "fact": "The melody got so popular it became the song 'Somewhere, My Love.'",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Barbra Streisand won an Oscar playing Fanny Brice in what?",
+    "choices": [
+      "Funny Girl",
+      "Hello, Dolly!",
+      "Yentl"
+    ],
+    "answer": 0,
+    "fact": "It was her first movie, and she tied for Best Actress with Katharine Hepburn.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which team won the very first Super Bowl in 1967?",
+    "choices": [
+      "Kansas City Chiefs",
+      "New York Jets",
+      "Green Bay Packers"
+    ],
+    "answer": 2,
+    "fact": "Vince Lombardi's Packers made little Green Bay famous as Titletown.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Who was known as the master of suspense?",
+    "choices": [
+      "Orson Welles",
+      "Alfred Hitchcock",
+      "Cecil B. DeMille"
+    ],
+    "answer": 1,
+    "fact": "Hitchcock slipped a quick cameo of himself into nearly every film he made.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which Mouseketeer grew up to star in beach party movies?",
+    "choices": [
+      "Sandra Dee",
+      "Connie Francis",
+      "Annette Funicello"
+    ],
+    "answer": 2,
+    "fact": "Walt Disney spotted Annette dancing at a recital in Burbank and hired her.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which city was the home of Motown Records?",
+    "choices": [
+      "Memphis",
+      "Detroit",
+      "Chicago"
+    ],
+    "answer": 1,
+    "fact": "Berry Gordy started Motown with an $800 loan from his family.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Diana Ross was the lead singer of which group?",
+    "choices": [
+      "The Supremes",
+      "The Shirelles",
+      "The Marvelettes"
+    ],
+    "answer": 0,
+    "fact": "The Supremes racked up a dozen number one hits in their heyday.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'My Girl' was a hit for which Motown group?",
+    "choices": [
+      "The Four Tops",
+      "The Temptations",
+      "The Miracles"
+    ],
+    "answer": 1,
+    "fact": "Smokey Robinson wrote 'My Girl' especially for the Temptations.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which English city were the Beatles from?",
+    "choices": [
+      "Liverpool",
+      "London",
+      "Manchester"
+    ],
+    "answer": 0,
+    "fact": "Thousands of screaming fans met their plane when they landed in New York.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which band sang about surfing and California girls?",
+    "choices": [
+      "The Four Seasons",
+      "The Kingston Trio",
+      "The Beach Boys"
+    ],
+    "answer": 2,
+    "fact": "Only one Beach Boy, Dennis Wilson, actually knew how to surf.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Chubby Checker got the whole country doing which dance?",
+    "choices": [
+      "The Jitterbug",
+      "The Charleston",
+      "The Twist"
+    ],
+    "answer": 2,
+    "fact": "'The Twist' went to number one twice, in 1960 and again in 1962.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Who was called the Queen of Soul?",
+    "choices": [
+      "Etta James",
+      "Aretha Franklin",
+      "Dionne Warwick"
+    ],
+    "answer": 1,
+    "fact": "Aretha made 'Respect' entirely her own, and it became an anthem.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Nancy Sinatra sang about boots made for doing what?",
+    "choices": [
+      "Walkin'",
+      "Dancin'",
+      "Runnin'"
+    ],
+    "answer": 0,
+    "fact": "Frank Sinatra's daughter got her very first number one hit with that song.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which singer was known as the Man in Black?",
+    "choices": [
+      "Johnny Cash",
+      "Marty Robbins",
+      "Merle Haggard"
+    ],
+    "answer": 0,
+    "fact": "June Carter helped write 'Ring of Fire,' one of his biggest hits.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Mickey Mantle spent his whole career with which team?",
+    "choices": [
+      "Brooklyn Dodgers",
+      "Boston Red Sox",
+      "New York Yankees"
+    ],
+    "answer": 2,
+    "fact": "Mickey Mantle could hit home runs batting either righty or lefty.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Simon and Garfunkel sang 'The Sound of' what?",
+    "choices": [
+      "Music",
+      "Silence",
+      "Morning"
+    ],
+    "answer": 1,
+    "fact": "The two met in grade school in Queens and were singing together as teens.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Petula Clark invited everyone to go where in her 1964 hit?",
+    "choices": [
+      "Uptown",
+      "Downtown",
+      "Out West"
+    ],
+    "answer": 1,
+    "fact": "Songwriter Tony Hatch got the idea walking through the lights of New York.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which crooner sang 'Moon River' on his own TV show?",
+    "choices": [
+      "Andy Williams",
+      "Perry Como",
+      "Dean Martin"
+    ],
+    "answer": 0,
+    "fact": "'Moon River' was written for a movie and went on to win an Oscar.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which Motown star recorded 'Fingertips' as a young teenager?",
+    "choices": [
+      "Marvin Gaye",
+      "Smokey Robinson",
+      "Stevie Wonder"
+    ],
+    "answer": 2,
+    "fact": "He played harmonica on it, and the live crowd absolutely roared.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Dancing in the Street' was a hit for Martha and the what?",
+    "choices": [
+      "Shirelles",
+      "Marvelettes",
+      "Vandellas"
+    ],
+    "answer": 2,
+    "fact": "Martha Reeves was a Motown secretary before she got her chance to sing.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Frank Sinatra had a 1966 hit about strangers in the what?",
+    "choices": [
+      "Rain",
+      "Night",
+      "Park"
+    ],
+    "answer": 1,
+    "fact": "Sinatra never much liked the song, but it won him a Grammy anyway.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Ray Charles sang about which state being on his mind?",
+    "choices": [
+      "Georgia",
+      "Carolina",
+      "Tennessee"
+    ],
+    "answer": 0,
+    "fact": "Georgia later made his version the official state song.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "The Righteous Brothers sang 'You've Lost That Lovin'' what?",
+    "choices": [
+      "Feelin'",
+      "Touch",
+      "Way"
+    ],
+    "answer": 0,
+    "fact": "It is said to be the most played song in American radio history.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Tammy Wynette's biggest hit told women to stand by their what?",
+    "choices": [
+      "Home",
+      "Man",
+      "Word"
+    ],
+    "answer": 1,
+    "fact": "Tammy and her producer wrote the whole thing in about twenty minutes.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which country star sang 'Wichita Lineman'?",
+    "choices": [
+      "Roger Miller",
+      "Eddy Arnold",
+      "Glen Campbell"
+    ],
+    "answer": 2,
+    "fact": "Jimmy Webb wrote it after passing a lone lineman on a pole in Oklahoma.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "The Mamas and the Papas were dreaming of which state?",
+    "choices": [
+      "Carolina",
+      "California",
+      "Colorado"
+    ],
+    "answer": 1,
+    "fact": "'California Dreamin'' was written on a freezing winter day in New York.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "What did shoppers paste into books to trade for prizes?",
+    "choices": [
+      "Coupons",
+      "Ration cards",
+      "Green Stamps"
+    ],
+    "answer": 2,
+    "fact": "S&H once printed more stamps every year than the U.S. Post Office did.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which sporty Ford arrived in 1964 and sold like crazy?",
+    "choices": [
+      "Mustang",
+      "Falcon",
+      "Galaxie"
+    ],
+    "answer": 0,
+    "fact": "Ford sold a million Mustangs in well under two years.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "What was the friendly nickname for the Volkswagen Beetle?",
+    "choices": [
+      "The Bird",
+      "The Bee",
+      "The Bug"
+    ],
+    "answer": 2,
+    "fact": "The Bug's engine sat in the back, so the trunk was up front.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Where did families park the car to watch a movie?",
+    "choices": [
+      "Drive-in",
+      "Soda shop",
+      "Bowling alley"
+    ],
+    "answer": 0,
+    "fact": "At their peak, America had more than four thousand drive-in theaters.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which frozen supper came on a divided metal tray?",
+    "choices": [
+      "Pot pie",
+      "TV dinner",
+      "Fish sticks"
+    ],
+    "answer": 1,
+    "fact": "Swanson sold ten million TV dinners in the very first year.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which orange drink mix went along with the astronauts?",
+    "choices": [
+      "Tang",
+      "Kool-Aid",
+      "Ovaltine"
+    ],
+    "answer": 0,
+    "fact": "Tang was already on grocery shelves, but the space program made it famous.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which toaster pastry arrived in 1964?",
+    "choices": [
+      "Toaster Strudel",
+      "Pop-Tarts",
+      "Eggo"
+    ],
+    "answer": 1,
+    "fact": "The very first Pop-Tarts had no frosting on them at all.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Whose golf fans were known as 'Arnie's Army'?",
+    "choices": [
+      "Jack Nicklaus",
+      "Gary Player",
+      "Arnold Palmer"
+    ],
+    "answer": 2,
+    "fact": "Arnold Palmer's easy charm helped bring golf onto television screens.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "'Plop, plop, fizz, fizz' sold which product?",
+    "choices": [
+      "Pepto-Bismol",
+      "Alka-Seltzer",
+      "Bromo"
+    ],
+    "answer": 1,
+    "fact": "Sales jumped once the ads showed two tablets dropping instead of one.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which giggling doughboy popped out of a can in 1965?",
+    "choices": [
+      "Betty Crocker",
+      "Duncan Hines",
+      "Pillsbury"
+    ],
+    "answer": 2,
+    "fact": "His name is Poppin' Fresh, and he has been giggling ever since.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "'Please don't squeeze the ___,' scolded Mr. Whipple.",
+    "choices": [
+      "Charmin",
+      "Kleenex",
+      "Scott"
+    ],
+    "answer": 0,
+    "fact": "Actor Dick Wilson played Mr. Whipple for more than twenty years.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which tuna kept hearing 'Sorry, Charlie'?",
+    "choices": [
+      "Bumble Bee",
+      "Chicken of the Sea",
+      "StarKist"
+    ],
+    "answer": 2,
+    "fact": "Charlie had good taste, but StarKist wanted tuna that tastes good.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which cereal mascot roared 'They're gr-r-reat!'?",
+    "choices": [
+      "Tony the Tiger",
+      "Sugar Bear",
+      "Toucan Sam"
+    ],
+    "answer": 0,
+    "fact": "Thurl Ravenscroft gave Tony that mighty voice for over fifty years.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which doll got a boyfriend named Ken in 1961?",
+    "choices": [
+      "Chatty Cathy",
+      "Barbie",
+      "Betsy Wetsy"
+    ],
+    "answer": 1,
+    "fact": "Barbie and Ken were named after the toymaker's own two children.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which 1964 toy was 'America's movable fighting man'?",
+    "choices": [
+      "G.I. Joe",
+      "Johnny West",
+      "Action Jackson"
+    ],
+    "answer": 0,
+    "fact": "His makers coined the phrase 'action figure' so boys could play with dolls.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which party game put players on a big polka-dot mat?",
+    "choices": [
+      "Operation",
+      "Twister",
+      "Mouse Trap"
+    ],
+    "answer": 1,
+    "fact": "Twister took off after Johnny Carson played it on The Tonight Show.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which little cars raced on orange track starting in 1968?",
+    "choices": [
+      "Matchbox",
+      "Tonka",
+      "Hot Wheels"
+    ],
+    "answer": 2,
+    "fact": "Hot Wheels had special red-striped tires and rolled faster than anything.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which boxer famously called himself 'The Greatest'?",
+    "choices": [
+      "Rocky Marciano",
+      "Muhammad Ali",
+      "Joe Frazier"
+    ],
+    "answer": 1,
+    "fact": "He described his own style as float like a butterfly, sting like a bee.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Which short skirt was the daring new look of the 1960s?",
+    "choices": [
+      "Poodle skirt",
+      "Hobble skirt",
+      "Miniskirt"
+    ],
+    "answer": 2,
+    "fact": "London designer Mary Quant named it after her favorite car, the Mini.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which tall, teased hairdo was named after a bee's home?",
+    "choices": [
+      "Beehive",
+      "Pixie",
+      "Bob"
+    ],
+    "answer": 0,
+    "fact": "A Chicago hairdresser dreamed up the beehive back in 1960.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "What did Neil Armstrong do in July of 1969?",
+    "choices": [
+      "Flew around the world",
+      "Climbed Everest",
+      "Walked on the moon"
+    ],
+    "answer": 2,
+    "fact": "About 600 million people around the world watched him take that first step.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Who walked on the moon alongside Neil Armstrong?",
+    "choices": [
+      "Buzz Aldrin",
+      "Michael Collins",
+      "John Glenn"
+    ],
+    "answer": 0,
+    "fact": "Buzz Aldrin looked around and called the view 'magnificent desolation.'",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "What was the name of the Apollo 11 lunar module?",
+    "choices": [
+      "Falcon",
+      "Eagle",
+      "Columbia"
+    ],
+    "answer": 1,
+    "fact": "'The Eagle has landed' told the whole world they had made it safely.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which TV family toured in a brightly painted bus?",
+    "choices": [
+      "The Waltons",
+      "The Partridge Family",
+      "The Brady Bunch"
+    ],
+    "answer": 1,
+    "fact": "Shirley Jones, who played the mom, was David Cassidy's real-life stepmother.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "How did the Waltons say goodnight?",
+    "choices": [
+      "Good night, John-Boy",
+      "Sweet dreams, all",
+      "See you at sunup"
+    ],
+    "answer": 0,
+    "fact": "That gentle goodnight became so famous that fans said it to each other.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "How many children were in the Brady Bunch?",
+    "choices": [
+      "Four",
+      "Eight",
+      "Six"
+    ],
+    "answer": 2,
+    "fact": "Six kids shared one bathroom, and a toilet was never once shown on screen.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "What was the Bradys' housekeeper's name?",
+    "choices": [
+      "Alice",
+      "Hazel",
+      "Florence"
+    ],
+    "answer": 0,
+    "fact": "Ann B. Davis had already won two Emmys before she put on Alice's apron.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who played the Fonz on Happy Days?",
+    "choices": [
+      "Ron Howard",
+      "Henry Winkler",
+      "Tom Bosley"
+    ],
+    "answer": 1,
+    "fact": "Henry Winkler couldn't ride a motorcycle, so the Fonz mostly posed on it.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Where did the Happy Days gang hang out?",
+    "choices": [
+      "Mel's Diner",
+      "The malt shop",
+      "Arnold's"
+    ],
+    "answer": 2,
+    "fact": "Happy Days grew out of one segment on the show Love, American Style.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Laverne and Shirley worked at a what?",
+    "choices": [
+      "Bakery",
+      "Diner",
+      "Brewery"
+    ],
+    "answer": 2,
+    "fact": "Their bouncy opening chant came from a sidewalk rhyme Penny Marshall knew as a girl.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mary Tyler Moore famously tossed what into the air?",
+    "choices": [
+      "Her purse",
+      "Her hat",
+      "Her scarf"
+    ],
+    "answer": 1,
+    "fact": "That happy hat toss was filmed on a busy street in downtown Minneapolis.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which show starred Redd Foxx as a junk dealer?",
+    "choices": [
+      "Sanford and Son",
+      "Good Times",
+      "Chico and the Man"
+    ],
+    "answer": 0,
+    "fact": "Redd Foxx named his character after his own brother, Fred Sanford.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "The Jeffersons were 'movin' on up' to where?",
+    "choices": [
+      "Beverly Hills",
+      "The East Side",
+      "Miami"
+    ],
+    "answer": 1,
+    "fact": "Ja'net DuBois co-wrote and belted out that theme song herself.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which TV detective wore a rumpled raincoat?",
+    "choices": [
+      "Kojak",
+      "Baretta",
+      "Columbo"
+    ],
+    "answer": 2,
+    "fact": "Peter Falk bought that raincoat himself and wore it for decades.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which bald TV detective was always sucking a lollipop?",
+    "choices": [
+      "Kojak",
+      "Ironside",
+      "McCloud"
+    ],
+    "answer": 0,
+    "fact": "Telly Savalas asking 'Who loves ya, baby?' became a national catchphrase.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which show had three women working for a mystery boss?",
+    "choices": [
+      "Charlie's Angels",
+      "Police Woman",
+      "The Mod Squad"
+    ],
+    "answer": 0,
+    "fact": "Farrah Fawcett's smiling poster sold around twelve million copies.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Steve Austin was rebuilt for how much money?",
+    "choices": [
+      "One million",
+      "Ten million",
+      "Six million"
+    ],
+    "answer": 2,
+    "fact": "Slow motion made him look superfast, and every kid in America copied it.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who played Wonder Woman on television?",
+    "choices": [
+      "Jaclyn Smith",
+      "Lynda Carter",
+      "Barbara Bain"
+    ],
+    "answer": 1,
+    "fact": "That spin-into-costume twirl was invented just for the TV show.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Which friendly alien said 'Nanu, nanu'?",
+    "choices": [
+      "Spock",
+      "ALF",
+      "Mork"
+    ],
+    "answer": 2,
+    "fact": "Robin Williams improvised so much that scripts left blank space for him.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "On Fantasy Island, who announced the arriving plane?",
+    "choices": [
+      "Tattoo",
+      "Mr. Roarke",
+      "The captain"
+    ],
+    "answer": 0,
+    "fact": "Hervé Villechaize shouting 'De plane!' opened every single episode.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "The Love Boat took place aboard what?",
+    "choices": [
+      "A ferry",
+      "A cruise ship",
+      "A sailboat"
+    ],
+    "answer": 1,
+    "fact": "Episodes were filmed aboard real Princess cruise ships at sea.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which frog hosted The Muppet Show?",
+    "choices": [
+      "Fozzie",
+      "Kermit",
+      "Gonzo"
+    ],
+    "answer": 1,
+    "fact": "Jim Henson made the very first Kermit out of his mother's old coat.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who was Kermit's glamorous admirer?",
+    "choices": [
+      "Miss Piggy",
+      "Janice",
+      "Camilla"
+    ],
+    "answer": 0,
+    "fact": "Miss Piggy began as a background pig and karate-chopped her way to stardom.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which show featured a class called the Sweathogs?",
+    "choices": [
+      "Room 222",
+      "The White Shadow",
+      "Welcome Back, Kotter"
+    ],
+    "answer": 2,
+    "fact": "A young John Travolta played Vinnie Barbarino before he was a movie star.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which cop show had a red car with a big white stripe?",
+    "choices": [
+      "Adam-12",
+      "CHiPs",
+      "Starsky & Hutch"
+    ],
+    "answer": 2,
+    "fact": "That Ford Torino picked up the nickname 'the Striped Tomato.'",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Hawaii Five-O ended episodes with 'Book 'em' who?",
+    "choices": [
+      "Chin Ho",
+      "Danno",
+      "Duke"
+    ],
+    "answer": 1,
+    "fact": "That surf-rock theme song became a favorite of marching bands everywhere.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Little House on the Prairie came from books by whom?",
+    "choices": [
+      "Laura Ingalls Wilder",
+      "Louisa May Alcott",
+      "Willa Cather"
+    ],
+    "answer": 0,
+    "fact": "Michael Landon starred in it, directed it, and wrote many episodes too.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which children's show introduced Big Bird?",
+    "choices": [
+      "Sesame Street",
+      "Captain Kangaroo",
+      "Mister Rogers"
+    ],
+    "answer": 0,
+    "fact": "Big Bird's sunny costume is made from hundreds of dyed turkey feathers.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who began hosting The Price Is Right in 1972?",
+    "choices": [
+      "Bill Cullen",
+      "Bob Barker",
+      "Dennis James"
+    ],
+    "answer": 1,
+    "fact": "'Come on down!' has been sending people racing to the stage ever since.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which game show surveyed one hundred people?",
+    "choices": [
+      "Match Game",
+      "Password",
+      "Family Feud"
+    ],
+    "answer": 2,
+    "fact": "Host Richard Dawson gave a kiss to nearly every woman on the show.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Who hosted American Bandstand for decades?",
+    "choices": [
+      "Don Cornelius",
+      "Casey Kasem",
+      "Dick Clark"
+    ],
+    "answer": 2,
+    "fact": "Dick Clark was nicknamed 'America's oldest teenager,' and he earned it.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which dance show was hosted by Don Cornelius?",
+    "choices": [
+      "Soul Train",
+      "Solid Gold",
+      "Shindig"
+    ],
+    "answer": 0,
+    "fact": "The Soul Train line let every dancer show off their very best moves.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Which 1977 movie opened 'A long time ago...'?",
+    "choices": [
+      "Star Trek",
+      "Star Wars",
+      "Close Encounters"
+    ],
+    "answer": 1,
+    "fact": "The little beeping robot had an actor curled up inside him.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which movie boxer ran up the steps in Philadelphia?",
+    "choices": [
+      "Apollo Creed",
+      "Rocky Balboa",
+      "Jake LaMotta"
+    ],
+    "answer": 1,
+    "fact": "Sylvester Stallone wrote the script in about three days and insisted on starring.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Travolta and Newton-John sang together in which 1978 film?",
+    "choices": [
+      "Saturday Night Fever",
+      "Hair",
+      "Grease"
+    ],
+    "answer": 2,
+    "fact": "Olivia Newton-John was 29 years old playing a high school senior.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which group's songs powered Saturday Night Fever?",
+    "choices": [
+      "The Bee Gees",
+      "ABBA",
+      "The Village People"
+    ],
+    "answer": 0,
+    "fact": "That soundtrack sold more than forty million copies around the world.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Gene Wilder ran a magical factory that made what?",
+    "choices": [
+      "Chocolate",
+      "Toys",
+      "Ice cream"
+    ],
+    "answer": 0,
+    "fact": "His famous limp-then-somersault entrance was entirely his own idea.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Mel Brooks comedy spoofed old monster movies?",
+    "choices": [
+      "Blazing Saddles",
+      "The Producers",
+      "Young Frankenstein"
+    ],
+    "answer": 2,
+    "fact": "They filmed it using the actual laboratory props from the 1931 original.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Burt Reynolds drove a black Trans Am in which movie?",
+    "choices": [
+      "Hooper",
+      "Smokey and the Bandit",
+      "The Cannonball Run"
+    ],
+    "answer": 1,
+    "fact": "Pontiac could barely build Trans Ams fast enough after that movie came out.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Superman in the 1978 movie?",
+    "choices": [
+      "Burt Ward",
+      "Christopher Reeve",
+      "George Reeves"
+    ],
+    "answer": 1,
+    "fact": "Christopher Reeve was an unknown stage actor when he won the part.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "The Sting brought back piano music by which composer?",
+    "choices": [
+      "Scott Joplin",
+      "George Gershwin",
+      "Irving Berlin"
+    ],
+    "answer": 0,
+    "fact": "'The Entertainer' was seventy years old and suddenly a top ten hit.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which 1973 film looked back on cruising in 1962?",
+    "choices": [
+      "Grease",
+      "The Last Picture Show",
+      "American Graffiti"
+    ],
+    "answer": 2,
+    "fact": "A young Harrison Ford and a young Ron Howard were both in the cast.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Streisand and Redford starred in which 1973 romance?",
+    "choices": [
+      "Funny Lady",
+      "A Star Is Born",
+      "The Way We Were"
+    ],
+    "answer": 2,
+    "fact": "The title song went all the way to number one on the charts.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which musical film featured Tevye and his daughters?",
+    "choices": [
+      "Cabaret",
+      "Fiddler on the Roof",
+      "Oliver!"
+    ],
+    "answer": 1,
+    "fact": "It won three Academy Awards, including one for that beautiful music.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Disney cartoon told Robin Hood's story with animals?",
+    "choices": [
+      "Robin Hood",
+      "The Rescuers",
+      "The Aristocats"
+    ],
+    "answer": 0,
+    "fact": "Robin was a clever fox and Little John was a great big friendly bear.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which theme park opened in Florida in 1971?",
+    "choices": [
+      "Walt Disney World",
+      "Epcot",
+      "Busch Gardens"
+    ],
+    "answer": 0,
+    "fact": "Cinderella Castle stands 189 feet tall, much taller than Disneyland's.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Kermit sang 'Rainbow Connection' in which 1979 film?",
+    "choices": [
+      "Pete's Dragon",
+      "The Rescuers",
+      "The Muppet Movie"
+    ],
+    "answer": 2,
+    "fact": "The song earned a nomination for an Academy Award.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Which Swedish group sang 'Dancing Queen'?",
+    "choices": [
+      "Boney M",
+      "ABBA",
+      "The Carpenters"
+    ],
+    "answer": 1,
+    "fact": "ABBA's name is just the first letters of the four singers' first names.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which brother-and-sister duo sang 'Close to You'?",
+    "choices": [
+      "Sonny and Cher",
+      "The Carpenters",
+      "Captain and Tennille"
+    ],
+    "answer": 1,
+    "fact": "Karen Carpenter started out sitting behind the drums, not at the microphone.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Who sang 'Take Me Home, Country Roads'?",
+    "choices": [
+      "John Denver",
+      "Jim Croce",
+      "Gordon Lightfoot"
+    ],
+    "answer": 0,
+    "fact": "West Virginia later made it one of its official state songs.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Who sang about a red-haired woman named Jolene?",
+    "choices": [
+      "Loretta Lynn",
+      "Tanya Tucker",
+      "Dolly Parton"
+    ],
+    "answer": 2,
+    "fact": "Dolly says she borrowed the name from a little red-haired girl she once met.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'The Gambler' was a big hit for which singer?",
+    "choices": [
+      "Charlie Rich",
+      "Willie Nelson",
+      "Kenny Rogers"
+    ],
+    "answer": 2,
+    "fact": "Kenny Rogers turned that one song into a whole run of TV movies.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Glen Campbell sang about which kind of cowboy in 1975?",
+    "choices": [
+      "Midnight",
+      "Rhinestone",
+      "Singing"
+    ],
+    "answer": 1,
+    "fact": "It went to number one and became his signature song for good.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which group sang 'Hotel California'?",
+    "choices": [
+      "The Eagles",
+      "Fleetwood Mac",
+      "America"
+    ],
+    "answer": 0,
+    "fact": "The Eagles' greatest hits album became one of the best sellers of all time.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Who was crowned the Queen of Disco?",
+    "choices": [
+      "Donna Summer",
+      "Gloria Gaynor",
+      "Thelma Houston"
+    ],
+    "answer": 0,
+    "fact": "Donna Summer sang in musical theater long before she ever set foot in a disco.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'I Will Survive' was a disco anthem for whom?",
+    "choices": [
+      "Diana Ross",
+      "Chaka Khan",
+      "Gloria Gaynor"
+    ],
+    "answer": 2,
+    "fact": "It was tucked away as the B-side until DJs flipped the record over.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which group spelled out 'Y.M.C.A.' with their arms?",
+    "choices": [
+      "KC and the Sunshine Band",
+      "Village People",
+      "The Trammps"
+    ],
+    "answer": 1,
+    "fact": "Those arm letters were invented by the fans, not by the band.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which young family group sang 'ABC'?",
+    "choices": [
+      "The Osmonds",
+      "The Jackson 5",
+      "The Sylvers"
+    ],
+    "answer": 1,
+    "fact": "Their first four singles all went straight to number one.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which flashy singer wore glittery glasses at the piano?",
+    "choices": [
+      "Elton John",
+      "Billy Joel",
+      "Barry Manilow"
+    ],
+    "answer": 0,
+    "fact": "Elton John owned so many pairs of glasses they could fill a whole room.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Barry Manilow's 'Copacabana' was about what kind of place?",
+    "choices": [
+      "A beach",
+      "A hotel",
+      "A nightclub"
+    ],
+    "answer": 2,
+    "fact": "Barry got his start writing those catchy little jingles for TV commercials.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Simon and Garfunkel's 1970 hit was 'Bridge Over Troubled' what?",
+    "choices": [
+      "Skies",
+      "Roads",
+      "Water"
+    ],
+    "answer": 2,
+    "fact": "It took home both Record of the Year and Song of the Year at the Grammys.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Who sang 'Ain't No Mountain High Enough' in 1970?",
+    "choices": [
+      "Gladys Knight",
+      "Diana Ross",
+      "Mary Wells"
+    ],
+    "answer": 1,
+    "fact": "It was her first solo number one after leaving the Supremes.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Which pet needed no feeding and came in a little box?",
+    "choices": [
+      "Pet Rock",
+      "Chia Pet",
+      "Sea-Monkeys"
+    ],
+    "answer": 0,
+    "fact": "The Pet Rock made its inventor a millionaire in about six months.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which ring supposedly changed color with your mood?",
+    "choices": [
+      "Class ring",
+      "Mood ring",
+      "Signet ring"
+    ],
+    "answer": 1,
+    "fact": "The stone was really just reacting to the warmth of your finger.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "What did CB radio users say to mean 'got it'?",
+    "choices": [
+      "10-4",
+      "Roger",
+      "Over"
+    ],
+    "answer": 0,
+    "fact": "Everybody picked a CB 'handle,' a nickname just for the airwaves.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which flared trousers defined 1970s style?",
+    "choices": [
+      "Pedal pushers",
+      "Jodhpurs",
+      "Bell bottoms"
+    ],
+    "answer": 2,
+    "fact": "The wider the bell, the better, especially over a pair of platform shoes.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which knotted craft made those hanging plant holders?",
+    "choices": [
+      "Macramé",
+      "Decoupage",
+      "Needlepoint"
+    ],
+    "answer": 0,
+    "fact": "If a house had a spider plant, it was probably swinging in macramé.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "Which appliance color absolutely screamed 1970s?",
+    "choices": [
+      "Baby blue",
+      "Charcoal gray",
+      "Avocado green"
+    ],
+    "answer": 2,
+    "fact": "Avocado green and harvest gold ruled American kitchens for a decade.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which tape format clunked loudly in the middle of a song?",
+    "choices": [
+      "Cassette",
+      "8-track",
+      "Reel-to-reel"
+    ],
+    "answer": 1,
+    "fact": "That clunk when the 8-track changed programs was part of the charm.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which slow cooker arrived in kitchens in 1971?",
+    "choices": [
+      "Dutch oven",
+      "Pressure cooker",
+      "Crock-Pot"
+    ],
+    "answer": 2,
+    "fact": "Supper cooked itself all day long while everybody was out of the house.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "'You deserve a break today' belonged to which restaurant?",
+    "choices": [
+      "Burger King",
+      "McDonald's",
+      "Wendy's"
+    ],
+    "answer": 1,
+    "fact": "It is often called one of the best advertising jingles ever written.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "'Have it your way' was the promise of which burger chain?",
+    "choices": [
+      "Burger King",
+      "McDonald's",
+      "Hardee's"
+    ],
+    "answer": 0,
+    "fact": "The jingle cheerfully offered to hold the pickles and hold the lettuce.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which cereal ad asked little Mikey to try it?",
+    "choices": [
+      "Cheerios",
+      "Life",
+      "Trix"
+    ],
+    "answer": 1,
+    "fact": "The Mikey commercial kept running for more than a decade.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'Leggo my Eggo' was about which breakfast food?",
+    "choices": [
+      "Waffles",
+      "Pancakes",
+      "Muffins"
+    ],
+    "answer": 0,
+    "fact": "Eggo got its name because the waffles tasted so nice and eggy.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which candy crackled and popped on your tongue?",
+    "choices": [
+      "Nerds",
+      "Skittles",
+      "Pop Rocks"
+    ],
+    "answer": 2,
+    "fact": "A chemist trying to invent instant soda pop came up with them by accident.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which haircut did skater Dorothy Hamill make famous?",
+    "choices": [
+      "The shag",
+      "The pixie",
+      "The wedge"
+    ],
+    "answer": 2,
+    "fact": "Girls everywhere carried her picture into the salon in 1976.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which horse won the Triple Crown in 1973?",
+    "choices": [
+      "Secretariat",
+      "Seattle Slew",
+      "Affirmed"
+    ],
+    "answer": 0,
+    "fact": "Secretariat won the Belmont by 31 lengths, and that record still stands.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Who broke Babe Ruth's career home run record in 1974?",
+    "choices": [
+      "Willie Mays",
+      "Hank Aaron",
+      "Reggie Jackson"
+    ],
+    "answer": 1,
+    "fact": "Hank Aaron's 715th homer sailed over the wall in Atlanta.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Which gymnast scored the first perfect 10 in 1976?",
+    "choices": [
+      "Olga Korbut",
+      "Nadia Comaneci",
+      "Cathy Rigby"
+    ],
+    "answer": 1,
+    "fact": "The scoreboard couldn't display 10.00, so it flashed 1.00 instead.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which swimmer won seven gold medals in 1972?",
+    "choices": [
+      "Don Schollander",
+      "Johnny Weissmuller",
+      "Mark Spitz"
+    ],
+    "answer": 2,
+    "fact": "Mark Spitz did it all while sporting his famous mustache.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "What big birthday did America celebrate in 1976?",
+    "choices": [
+      "Bicentennial",
+      "Centennial",
+      "World's Fair"
+    ],
+    "answer": 0,
+    "fact": "Tall ships sailed into New York Harbor and fireworks lit up every town.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which wood-sided family car hauled everyone to the lake?",
+    "choices": [
+      "Convertible",
+      "Coupe",
+      "Station wagon"
+    ],
+    "answer": 2,
+    "fact": "Kids always fought over the rear-facing back seat, the very best spot.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Which 1972 game brought table tennis to the TV screen?",
+    "choices": [
+      "Pong",
+      "Pac-Man",
+      "Space Invaders"
+    ],
+    "answer": 0,
+    "fact": "Pong was so popular in bars that the machines jammed full of quarters.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 1
+  },
+  {
+    "q": "In 'Going My Way', Bing Crosby played a young what?",
+    "choices": [
+      "Doctor",
+      "Schoolteacher",
+      "Priest"
+    ],
+    "answer": 2,
+    "fact": "Bing won an Oscar as Father O'Malley and crooned 'Swinging on a Star'.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "James Cagney won an Oscar playing which song-and-dance showman?",
+    "choices": [
+      "George M. Cohan",
+      "Al Jolson",
+      "Florenz Ziegfeld"
+    ],
+    "answer": 0,
+    "fact": "'Yankee Doodle Dandy' let the screen's toughest guy show off his hoofing.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "In 'Citizen Kane', what was the name of the sled?",
+    "choices": [
+      "Snowbird",
+      "Rosebud",
+      "Bluebell"
+    ],
+    "answer": 1,
+    "fact": "Orson Welles was only 25 when he made it, which hardly seems fair.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "In 'Bambi', which little rabbit thumped his foot?",
+    "choices": [
+      "Flower",
+      "Thumper",
+      "Friend Owl"
+    ],
+    "answer": 1,
+    "fact": "Flower the skunk got his name because Bambi mixed him up with a blossom.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "What was the name of the dog in the 'Thin Man' movies?",
+    "choices": [
+      "Asta",
+      "Daisy",
+      "Rex"
+    ],
+    "answer": 0,
+    "fact": "Nick and Nora Charles solved every case with a wire-haired terrier tugging the leash.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which movie couple ran a run-down farm with a houseful of children?",
+    "choices": [
+      "The Bumsteads",
+      "Ma and Pa Kettle",
+      "The Hardys"
+    ],
+    "answer": 1,
+    "fact": "Marjorie Main and Percy Kilbride turned that rickety farmhouse into a hit series.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who starred as the daydreaming Walter Mitty?",
+    "choices": [
+      "Red Skelton",
+      "Bob Hope",
+      "Danny Kaye"
+    ],
+    "answer": 2,
+    "fact": "Danny Kaye's tongue-twisting daydreams had 1947 audiences howling.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Stanley Kowalski in 'A Streetcar Named Desire'?",
+    "choices": [
+      "Marlon Brando",
+      "Montgomery Clift",
+      "Kirk Douglas"
+    ],
+    "answer": 0,
+    "fact": "Brando was only 27, and his torn T-shirt started a fashion.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "'I coulda been a contender' comes from which 1954 film?",
+    "choices": [
+      "On the Waterfront",
+      "Marty",
+      "The Wild One"
+    ],
+    "answer": 0,
+    "fact": "Brando said it in the back of a taxicab and won the Academy Award.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Alan Ladd played a quiet gunfighter in which 1953 western?",
+    "choices": [
+      "High Noon",
+      "The Searchers",
+      "Shane"
+    ],
+    "answer": 2,
+    "fact": "A little boy calling 'Shane! Come back!' is one of the movies' great goodbyes.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "John Wayne courted Maureen O'Hara in which country in 'The Quiet Man'?",
+    "choices": [
+      "Scotland",
+      "Ireland",
+      "Wales"
+    ],
+    "answer": 1,
+    "fact": "John Ford filmed it in County Mayo and won another Oscar for directing.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Marilyn Monroe and Jack Lemmon joined a band in which 1959 comedy?",
+    "choices": [
+      "Bus Stop",
+      "Some Like It Hot",
+      "The Seven Year Itch"
+    ],
+    "answer": 1,
+    "fact": "It ends with the most famous last line in comedy: 'Nobody's perfect.'",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "In 'Sabrina', Audrey Hepburn played the daughter of the family's what?",
+    "choices": [
+      "Chauffeur",
+      "Cook",
+      "Gardener"
+    ],
+    "answer": 0,
+    "fact": "She came home from Paris transformed, and both Larrabee brothers noticed.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Audrey Hepburn danced with which elegant older star in 'Funny Face'?",
+    "choices": [
+      "Gene Kelly",
+      "Fred Astaire",
+      "Maurice Chevalier"
+    ],
+    "answer": 1,
+    "fact": "Astaire was 57 and still made every step look like walking.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Cary Grant was chased by a crop-dusting plane in which Hitchcock film?",
+    "choices": [
+      "Vertigo",
+      "To Catch a Thief",
+      "North by Northwest"
+    ],
+    "answer": 2,
+    "fact": "The chase ends up on Mount Rushmore, which the Park Service was not thrilled about.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Phileas Fogg in 'Around the World in 80 Days'?",
+    "choices": [
+      "Rex Harrison",
+      "Ronald Colman",
+      "David Niven"
+    ],
+    "answer": 2,
+    "fact": "Dozens of famous faces popped up in tiny parts - that film made 'cameo' a household word.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "In '20,000 Leagues Under the Sea', what was Captain Nemo's submarine called?",
+    "choices": [
+      "The Poseidon",
+      "The Nautilus",
+      "The Triton"
+    ],
+    "answer": 1,
+    "fact": "Kirk Douglas sang 'A Whale of a Tale' aboard it and wrestled a rubber squid.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Disneyland opened in 1955 in which California city?",
+    "choices": [
+      "Burbank",
+      "Pasadena",
+      "Anaheim"
+    ],
+    "answer": 2,
+    "fact": "Orange groves in the springtime, and a castle by the middle of summer.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "In 'The Maltese Falcon', what was Bogart's detective called?",
+    "choices": [
+      "Philip Marlowe",
+      "Nick Charles",
+      "Sam Spade"
+    ],
+    "answer": 2,
+    "fact": "Bogart played Marlowe later in 'The Big Sleep' - two detectives, one trench coat.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Bing Crosby first sang 'White Christmas' in which movie?",
+    "choices": [
+      "White Christmas",
+      "Blue Skies",
+      "Holiday Inn"
+    ],
+    "answer": 2,
+    "fact": "'Holiday Inn' came first in 1942; the film named for the song arrived twelve years later.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who played Nora to William Powell's Nick in 'The Thin Man'?",
+    "choices": [
+      "Myrna Loy",
+      "Irene Dunne",
+      "Claudette Colbert"
+    ],
+    "answer": 0,
+    "fact": "Loy and Powell made fourteen pictures together - Hollywood's happiest married couple.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who directed 'The Treasure of the Sierra Madre'?",
+    "choices": [
+      "John Ford",
+      "Howard Hawks",
+      "John Huston"
+    ],
+    "answer": 2,
+    "fact": "He directed his own father Walter to an Oscar the same year he won two himself.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which film was Lauren Bacall's first with Humphrey Bogart?",
+    "choices": [
+      "The Big Sleep",
+      "To Have and Have Not",
+      "Key Largo"
+    ],
+    "answer": 1,
+    "fact": "She was only nineteen, and the two of them married the very next year.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Cary Grant played an angel in which 1947 film?",
+    "choices": [
+      "The Bishop's Wife",
+      "Here Comes Mr. Jordan",
+      "Heaven Can Wait"
+    ],
+    "answer": 0,
+    "fact": "Grant's angel Dudley could trim a whole Christmas tree with one wave of his hand.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Cary Grant traded rapid-fire wisecracks with Rosalind Russell in which film?",
+    "choices": [
+      "Bringing Up Baby",
+      "The Awful Truth",
+      "His Girl Friday"
+    ],
+    "answer": 2,
+    "fact": "They talked so fast the director had them speak right over each other.",
+    "era": "1940s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Frank Sinatra won a Supporting Actor Oscar for which 1953 film?",
+    "choices": [
+      "From Here to Eternity",
+      "On the Town",
+      "Guys and Dolls"
+    ],
+    "answer": 0,
+    "fact": "He begged for the part and worked for scale, and it put him right back on top.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which 1953 film was the first shot in CinemaScope?",
+    "choices": [
+      "The Robe",
+      "Quo Vadis",
+      "The Greatest Show on Earth"
+    ],
+    "answer": 0,
+    "fact": "The screen got wider so folks would leave the television set at home.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "In Disney's 'Sleeping Beauty', the princess was raised under what name?",
+    "choices": [
+      "Briar Rose",
+      "Rose Red",
+      "Wild Rose"
+    ],
+    "answer": 0,
+    "fact": "Three good fairies hid her in the woods and argued the whole time over pink versus blue.",
+    "era": "1950s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which bandleader and his Royal Canadians played every New Year's Eve?",
+    "choices": [
+      "Sammy Kaye",
+      "Kay Kyser",
+      "Guy Lombardo"
+    ],
+    "answer": 2,
+    "fact": "For decades midnight did not count until Lombardo struck up 'Auld Lang Syne'.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Begin the Beguine' was a giant hit for which clarinet-playing bandleader?",
+    "choices": [
+      "Woody Herman",
+      "Artie Shaw",
+      "Jimmy Dorsey"
+    ],
+    "answer": 1,
+    "fact": "Cole Porter wrote it, and Artie Shaw's record made it immortal.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which trumpet-playing bandleader married Betty Grable?",
+    "choices": [
+      "Harry James",
+      "Benny Goodman",
+      "Gene Krupa"
+    ],
+    "answer": 0,
+    "fact": "The pin-up girl and the trumpet king - it was the wedding of 1943.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Ethel Merman starred on Broadway as which sharpshooter?",
+    "choices": [
+      "Calamity Jane",
+      "Annie Oakley",
+      "Belle Starr"
+    ],
+    "answer": 1,
+    "fact": "'Annie Get Your Gun' handed her 'There's No Business Like Show Business'.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which Rodgers and Hammerstein show gave us 'Some Enchanted Evening'?",
+    "choices": [
+      "South Pacific",
+      "Carousel",
+      "The King and I"
+    ],
+    "answer": 0,
+    "fact": "Ezio Pinza came straight from the opera stage to sing it eight times a week.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which Broadway star sang 'Diamonds Are a Girl's Best Friend' first?",
+    "choices": [
+      "Ethel Merman",
+      "Carol Channing",
+      "Mary Martin"
+    ],
+    "answer": 1,
+    "fact": "Channing sang it on stage in 1949, four years before Marilyn Monroe filmed it.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Gene Autry's 1949 record introduced which Christmas character?",
+    "choices": [
+      "Frosty",
+      "Rudolph",
+      "Santa's elves"
+    ],
+    "answer": 1,
+    "fact": "Autry nearly passed on it; his wife talked him into recording the reindeer song.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which star flew across the stage as Peter Pan?",
+    "choices": [
+      "Julie Andrews",
+      "Carol Channing",
+      "Mary Martin"
+    ],
+    "answer": 2,
+    "fact": "Millions watched her fly live on television - wires, harness and all.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "In 'The Music Man', what did Professor Harold Hill sell?",
+    "choices": [
+      "Vacuum cleaners",
+      "Band instruments",
+      "Encyclopedias"
+    ],
+    "answer": 1,
+    "fact": "Robert Preston talked his way through 'Ya Got Trouble' without a single wrong note.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Come On-a My House' was a novelty smash for which singer?",
+    "choices": [
+      "Patti Page",
+      "Rosemary Clooney",
+      "Teresa Brewer"
+    ],
+    "answer": 1,
+    "fact": "Clooney could not stand the song, and it made her a star anyway.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which husband-and-wife team recorded 'How High the Moon'?",
+    "choices": [
+      "Steve and Eydie",
+      "Les Paul and Mary Ford",
+      "Louis Prima and Keely Smith"
+    ],
+    "answer": 1,
+    "fact": "Les Paul layered the tracks himself - one guitarist sounding like a dozen.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Sixteen Tons' was a rumbling 1955 number one for which singer?",
+    "choices": [
+      "Johnny Cash",
+      "Marty Robbins",
+      "Tennessee Ernie Ford"
+    ],
+    "answer": 2,
+    "fact": "He snapped his fingers instead of using drums, and it sold a million in weeks.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which singer had the 1957 hit 'Walkin' After Midnight'?",
+    "choices": [
+      "Kitty Wells",
+      "Brenda Lee",
+      "Patsy Cline"
+    ],
+    "answer": 2,
+    "fact": "She sang it on Arthur Godfrey's talent show and woke up famous.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which singer purred the 1958 hit 'Fever'?",
+    "choices": [
+      "Julie London",
+      "Peggy Lee",
+      "Eartha Kitt"
+    ],
+    "answer": 1,
+    "fact": "Just bass, drums and finger snaps - the most ever made from the least.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Dinah Shore invited everyone to see the USA in which car?",
+    "choices": [
+      "A Ford",
+      "A Chevrolet",
+      "A Buick"
+    ],
+    "answer": 1,
+    "fact": "She blew a big kiss at the end of every show, and America blew one back.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Yakety Yak' and 'Charlie Brown' were hits for which group?",
+    "choices": [
+      "The Drifters",
+      "The Coasters",
+      "The Platters"
+    ],
+    "answer": 1,
+    "fact": "Leiber and Stoller wrote them little comedies, and the group acted every one out.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "What was Elvis Presley's first movie?",
+    "choices": [
+      "Jailhouse Rock",
+      "King Creole",
+      "Love Me Tender"
+    ],
+    "answer": 2,
+    "fact": "It was 1956, and the title song was already number one before the film opened.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Harry Belafonte's 'Day-O' is better known as which song?",
+    "choices": [
+      "Jamaica Farewell",
+      "The Banana Boat Song",
+      "Matilda"
+    ],
+    "answer": 1,
+    "fact": "Belafonte set off a calypso craze, and every teenager in town tried the accent.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which velvety singer had hits with 'Chances Are' and 'Misty'?",
+    "choices": [
+      "Nat King Cole",
+      "Johnny Mathis",
+      "Andy Williams"
+    ],
+    "answer": 1,
+    "fact": "Mathis was such a fine high jumper he had to choose between singing and the Olympics.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which bandleader's theme song was 'I'm Getting Sentimental Over You'?",
+    "choices": [
+      "Harry James",
+      "Tommy Dorsey",
+      "Les Brown"
+    ],
+    "answer": 1,
+    "fact": "Dorsey's trombone glided so smoothly they called him the Sentimental Gentleman of Swing.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'One O'Clock Jump' was the theme song of which band?",
+    "choices": [
+      "Duke Ellington",
+      "Count Basie",
+      "Woody Herman"
+    ],
+    "answer": 1,
+    "fact": "Basie's Kansas City band could swing on one simple riff all night long.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which drummer's solo powered Benny Goodman's 'Sing, Sing, Sing'?",
+    "choices": [
+      "Buddy Rich",
+      "Lionel Hampton",
+      "Gene Krupa"
+    ],
+    "answer": 2,
+    "fact": "Krupa's tom-toms turned a drummer into a headliner, which had never happened before.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which band singer had her first big hit with 'Sentimental Journey' in 1945?",
+    "choices": [
+      "Jo Stafford",
+      "Helen Forrest",
+      "Doris Day"
+    ],
+    "answer": 2,
+    "fact": "She was the girl singer with Les Brown's band, and the record went straight to number one.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which composer wrote the songs for 'Kiss Me, Kate'?",
+    "choices": [
+      "Cole Porter",
+      "Irving Berlin",
+      "Frank Loesser"
+    ],
+    "answer": 0,
+    "fact": "Porter was warned that Shakespeare would never sell tickets. It ran over a thousand nights.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'You'll Never Walk Alone' comes from which musical?",
+    "choices": [
+      "Carousel",
+      "Oklahoma!",
+      "State Fair"
+    ],
+    "answer": 0,
+    "fact": "Rodgers and Hammerstein wrote it in 1945, and it has been comforting people ever since.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'How Are Things in Glocca Morra?' comes from which show?",
+    "choices": [
+      "Brigadoon",
+      "Carousel",
+      "Finian's Rainbow"
+    ],
+    "answer": 2,
+    "fact": "There is no such place as Glocca Morra, but the song made everyone homesick anyway.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which company introduced the 45 rpm record in 1949?",
+    "choices": [
+      "RCA Victor",
+      "Columbia",
+      "Decca"
+    ],
+    "answer": 0,
+    "fact": "Columbia had the long-playing album, so RCA answered with the little record with the big hole.",
+    "era": "1940s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who recorded 'Sh-Boom' before the Crew-Cuts made it a hit?",
+    "choices": [
+      "The Cadillacs",
+      "The Chords",
+      "The Clovers"
+    ],
+    "answer": 1,
+    "fact": "Some folks call the Chords' 1954 record the very first rock and roll hit.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Earth Angel' was a 1954 hit for which group?",
+    "choices": [
+      "The Flamingos",
+      "The Orioles",
+      "The Penguins"
+    ],
+    "answer": 2,
+    "fact": "They cut it in a garage, and it became one of the sweetest doo-wop records ever made.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who wrote and first recorded 'Blue Suede Shoes'?",
+    "choices": [
+      "Carl Perkins",
+      "Elvis Presley",
+      "Roy Orbison"
+    ],
+    "answer": 0,
+    "fact": "Perkins recorded for Sun too, and his version hit the charts before Elvis ever sang it.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which record label first recorded Elvis Presley?",
+    "choices": [
+      "RCA Victor",
+      "Sun Records",
+      "Chess Records"
+    ],
+    "answer": 1,
+    "fact": "Sam Phillips ran Sun in Memphis, where a shy truck driver stopped in to make a record.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Tony Bennett's 'Cold, Cold Heart' was written by which country star?",
+    "choices": [
+      "Ernest Tubb",
+      "Eddy Arnold",
+      "Hank Williams"
+    ],
+    "answer": 2,
+    "fact": "A country song in a tuxedo - Bennett's version went straight to number one.",
+    "era": "1950s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Roy Rogers' co-star and real-life wife was?",
+    "choices": [
+      "Gail Davis",
+      "Penny Edwards",
+      "Dale Evans"
+    ],
+    "answer": 2,
+    "fact": "Dale wrote 'Happy Trails' herself, and they sang it at the end of every show.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "The Cisco Kid's cheerful sidekick was named?",
+    "choices": [
+      "Tonto",
+      "Pancho",
+      "Chico"
+    ],
+    "answer": 1,
+    "fact": "'Oh, Pancho!' 'Oh, Cisco!' - every episode ended with the two of them laughing.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "What was the gunfighter's name on 'Have Gun - Will Travel'?",
+    "choices": [
+      "Ringo",
+      "Cheyenne",
+      "Paladin"
+    ],
+    "answer": 2,
+    "fact": "His calling card showed a chess knight, and he lived in a fine San Francisco hotel.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played Bret Maverick?",
+    "choices": [
+      "James Garner",
+      "Jack Kelly",
+      "Clint Walker"
+    ],
+    "answer": 0,
+    "fact": "Jack Kelly played brother Bart, and the two took turns leading the episodes.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played Marshal Matt Dillon on television's 'Gunsmoke'?",
+    "choices": [
+      "James Arness",
+      "Hugh O'Brian",
+      "Richard Boone"
+    ],
+    "answer": 0,
+    "fact": "John Wayne turned the part down and recommended his friend Arness instead.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "The children in the 'Howdy Doody' studio audience were called the?",
+    "choices": [
+      "Kiddie Corner",
+      "Puppet Club",
+      "Peanut Gallery"
+    ],
+    "answer": 2,
+    "fact": "Forty lucky youngsters sat there and hollered their heads off every afternoon.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Milton Berle's Tuesday night show was sponsored by which company?",
+    "choices": [
+      "Chevrolet",
+      "Colgate",
+      "Texaco"
+    ],
+    "answer": 2,
+    "fact": "The Texaco service men opened the show in song, in spotless white uniforms.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who was Sid Caesar's leading lady on 'Your Show of Shows'?",
+    "choices": [
+      "Nanette Fabray",
+      "Imogene Coca",
+      "Audrey Meadows"
+    ],
+    "answer": 1,
+    "fact": "Nanette Fabray worked with Caesar later, but Coca was the original partner in crime.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'What's My Line?', what did the panel wear for the mystery guest?",
+    "choices": [
+      "Masks",
+      "Earplugs",
+      "Blindfolds"
+    ],
+    "answer": 2,
+    "fact": "The mystery guest signed in, and the panel guessed with their eyes covered.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'The $64,000 Question' put its contestants inside a what?",
+    "choices": [
+      "Glass elevator",
+      "Soundproof car",
+      "Isolation booth"
+    ],
+    "answer": 2,
+    "fact": "The booth was meant for concentration, and the whole country leaned in to watch.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Perry Mason's devoted secretary was named?",
+    "choices": [
+      "Effie Perrine",
+      "Lois Lane",
+      "Della Street"
+    ],
+    "answer": 2,
+    "fact": "Della kept the office running while Paul Drake did all the legwork.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "What was the Beaver's real first name?",
+    "choices": [
+      "Thomas",
+      "Timothy",
+      "Theodore"
+    ],
+    "answer": 2,
+    "fact": "Wally could not say Theodore when he was little, and 'Beaver' stuck for good.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played Superman on television in the 1950s?",
+    "choices": [
+      "George Reeves",
+      "Kirk Alyn",
+      "Bud Collyer"
+    ],
+    "answer": 0,
+    "fact": "Kirk Alyn flew in the movie serials, and Bud Collyer was the voice on radio.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played Hopalong Cassidy?",
+    "choices": [
+      "Buster Crabbe",
+      "William Boyd",
+      "Randolph Scott"
+    ],
+    "answer": 1,
+    "fact": "Boyd bought the rights himself and became television's very first cowboy star.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "What was the name of Sky King's airplane?",
+    "choices": [
+      "The Songbird",
+      "The Skylark",
+      "The Bluebird"
+    ],
+    "answer": 0,
+    "fact": "A cowboy who flew a plane instead of riding a horse - only television would try it.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who was the grown-up host of 'The Mickey Mouse Club'?",
+    "choices": [
+      "Roy Williams",
+      "Bob Keeshan",
+      "Jimmie Dodd"
+    ],
+    "answer": 2,
+    "fact": "Dodd wrote the Mickey Mouse March, and Roy Williams was the Big Mooseketeer.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which children's show asked you to draw right on the television screen?",
+    "choices": [
+      "Winky Dink and You",
+      "Ding Dong School",
+      "Romper Room"
+    ],
+    "answer": 0,
+    "fact": "You taped a plastic sheet over the set - unless you forgot, and Mother found out.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "On 'Kukla, Fran and Ollie', what sort of creature was Ollie?",
+    "choices": [
+      "A dragon",
+      "A bear",
+      "A rabbit"
+    ],
+    "answer": 0,
+    "fact": "Oliver J. Dragon had exactly one tooth and a very high opinion of himself.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "What was Ed Sullivan's Sunday night show originally called?",
+    "choices": [
+      "Toast of the Town",
+      "The Ed Sullivan Hour",
+      "Stage Door"
+    ],
+    "answer": 0,
+    "fact": "It kept that title until 1955, when they finally just put his name on it.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Red Skelton's gentle hobo character was named?",
+    "choices": [
+      "Clem Kadiddlehopper",
+      "San Fernando Red",
+      "Freddie the Freeloader"
+    ],
+    "answer": 2,
+    "fact": "Clem and San Fernando Red were his too - Skelton had a whole townful of characters.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who was the first host of 'The Tonight Show'?",
+    "choices": [
+      "Jack Paar",
+      "Steve Allen",
+      "Ernie Kovacs"
+    ],
+    "answer": 1,
+    "fact": "Allen started it up in 1954, and Jack Paar took the desk three years later.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "The 'Today' show's early co-star was a chimpanzee named?",
+    "choices": [
+      "J. Fred Muggs",
+      "Bonzo",
+      "Cheeta"
+    ],
+    "answer": 0,
+    "fact": "Dave Garroway shared the news desk with a chimp, and the ratings shot straight up.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "On 'Father Knows Best', what did Jim call his daughter Betty?",
+    "choices": [
+      "Kitten",
+      "Angel",
+      "Princess"
+    ],
+    "answer": 2,
+    "fact": "Kathy was Kitten and James Jr. was Bud - everyone in that house had a nickname.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "What was Lucy Ricardo's maiden name?",
+    "choices": [
+      "McGillivray",
+      "McGillicuddy",
+      "MacGregor"
+    ],
+    "answer": 1,
+    "fact": "It was a mouthful, and Ricky never did get his tongue all the way around it.",
+    "era": "1950s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Little Orphan Annie's radio sponsor sold which malted drink?",
+    "choices": [
+      "Ovaltine",
+      "Bosco",
+      "Postum"
+    ],
+    "answer": 0,
+    "fact": "Send in the label, get a secret decoder pin, and decode a message about drinking Ovaltine.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "The Green Hornet's faithful partner and driver was named?",
+    "choices": [
+      "Kato",
+      "Tonto",
+      "Bernardo"
+    ],
+    "answer": 0,
+    "fact": "Kato drove the Black Beauty, and the show's theme was 'Flight of the Bumblebee'.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "The Lone Ranger's theme music came from which overture?",
+    "choices": [
+      "The William Tell",
+      "The 1812",
+      "Light Cavalry"
+    ],
+    "answer": 0,
+    "fact": "Rossini wrote it in 1829, never dreaming a masked man would borrow it.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Ralph Edwards hosted which show where a wrong answer meant a silly stunt?",
+    "choices": [
+      "Truth or Consequences",
+      "Break the Bank",
+      "Queen for a Day"
+    ],
+    "answer": 0,
+    "fact": "Miss the question and you had to do something gloriously ridiculous.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Which instrument did Arthur Godfrey strum on the air?",
+    "choices": [
+      "The banjo",
+      "The ukulele",
+      "The accordion"
+    ],
+    "answer": 1,
+    "fact": "Godfrey sold so many ukuleles that music stores could not keep them in stock.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Radio's Sergeant Preston patrolled which northern territory?",
+    "choices": [
+      "Alaska",
+      "The Yukon",
+      "Manitoba"
+    ],
+    "answer": 1,
+    "fact": "He had a horse named Rex, a dog named Yukon King, and the coldest beat in radio.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "'The Great Gildersleeve' was a spin-off of which radio show?",
+    "choices": [
+      "Fibber McGee and Molly",
+      "The Life of Riley",
+      "Vic and Sade"
+    ],
+    "answer": 0,
+    "fact": "Gildersleeve was Fibber's blustery neighbor before he got a show of his own.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "What make of rattletrap car did Jack Benny drive on the air?",
+    "choices": [
+      "A Maxwell",
+      "A Model T",
+      "A Stanley Steamer"
+    ],
+    "answer": 0,
+    "fact": "The sputtering, wheezing sound was made by a sound-effects man using only his voice.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "'Jack Armstrong, the All-American Boy' was sponsored by which cereal?",
+    "choices": [
+      "Shredded Wheat",
+      "Wheaties",
+      "Post Toasties"
+    ],
+    "answer": 1,
+    "fact": "Every episode wrapped up with a cheerful pitch for the Breakfast of Champions.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "What was the Shadow's wealthy alter ego called?",
+    "choices": [
+      "Britt Reid",
+      "Lamont Blake",
+      "Lamont Cranston"
+    ],
+    "answer": 2,
+    "fact": "Orson Welles played him on radio years before he ever made 'Citizen Kane'.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "'Duffy's Tavern' was where the elite meet to do what?",
+    "choices": [
+      "Eat",
+      "Dance",
+      "Sing"
+    ],
+    "answer": 0,
+    "fact": "Archie the manager answered that telephone with the same line every single week.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "On radio, who played Chester A. Riley?",
+    "choices": [
+      "Jackie Gleason",
+      "William Bendix",
+      "William Frawley"
+    ],
+    "answer": 1,
+    "fact": "'What a revoltin' development this is!' - Bendix said it every week and never wore it out.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "Eve Arden's Miss Brooks taught which subject?",
+    "choices": [
+      "Music",
+      "English",
+      "History"
+    ],
+    "answer": 1,
+    "fact": "Connie Brooks taught at Madison High and traded barbs with Mr. Conklin.",
+    "era": "1940s",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "Rhyming roadside signs advertised which shaving cream?",
+    "choices": [
+      "Barbasol",
+      "Burma-Shave",
+      "Gillette"
+    ],
+    "answer": 1,
+    "fact": "One line per sign, mile after mile, and the last one always got a laugh.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which door-to-door salesman carried a case full of brushes?",
+    "choices": [
+      "The Avon Lady",
+      "The Watkins Man",
+      "The Fuller Brush Man"
+    ],
+    "answer": 2,
+    "fact": "He always had a free vegetable brush handy to get one foot in the door.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which camera made a finished photograph in about a minute?",
+    "choices": [
+      "The Polaroid",
+      "The Brownie",
+      "The Instamatic"
+    ],
+    "answer": 0,
+    "fact": "Edwin Land invented it because his little girl asked why she had to wait.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which black-and-white shoes did teenagers wear with bobby socks?",
+    "choices": [
+      "Saddle shoes",
+      "Penny loafers",
+      "Oxfords"
+    ],
+    "answer": 0,
+    "fact": "A good scuffed pair was the badge of every high school hallway in America.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which 1940s suit had huge shoulders and baggy pegged trousers?",
+    "choices": [
+      "The zoot suit",
+      "The sack suit",
+      "The Nehru jacket"
+    ],
+    "answer": 0,
+    "fact": "Wide-brimmed hat, long watch chain - it took real nerve to walk out in one.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Washing machines with two rollers on top were called what washers?",
+    "choices": [
+      "Wringer",
+      "Tumble",
+      "Barrel"
+    ],
+    "answer": 0,
+    "fact": "You fed the wet sheets through and prayed your fingers stayed clear.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "A young man making sodas behind the fountain counter was called a?",
+    "choices": [
+      "Fountain boy",
+      "Malt man",
+      "Soda jerk"
+    ],
+    "answer": 2,
+    "fact": "The name came from the jerking motion of the syrup pump handle.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'When it rains, it pours' is the slogan of which product?",
+    "choices": [
+      "Quaker Oats",
+      "Domino Sugar",
+      "Morton Salt"
+    ],
+    "answer": 2,
+    "fact": "The little girl with the umbrella has been walking across that label since 1914.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'Good to the last drop' advertises which coffee?",
+    "choices": [
+      "Folgers",
+      "Chase and Sanborn",
+      "Maxwell House"
+    ],
+    "answer": 2,
+    "fact": "The percolator gurgled through the radio ad and half the country got thirsty.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which green trading stamps did shoppers paste into little books?",
+    "choices": [
+      "Blue Chip Stamps",
+      "Gold Bond Stamps",
+      "S&H Green Stamps"
+    ],
+    "answer": 2,
+    "fact": "Lick, stick, fill the book, and trade it at the redemption center for a toaster.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which ice cream man drove a white truck and rang bells?",
+    "choices": [
+      "The Dairy Queen man",
+      "The Good Humor man",
+      "The Eskimo Pie man"
+    ],
+    "answer": 1,
+    "fact": "White uniform, coin changer on his belt, and children running off every porch.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which 1958 Ford was a famous flop?",
+    "choices": [
+      "The Fairlane",
+      "The Edsel",
+      "The Falcon"
+    ],
+    "answer": 1,
+    "fact": "Ford spent a fortune on it, and the name still means a great big swing and a miss.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which two-seat Ford sports car arrived in 1955?",
+    "choices": [
+      "The Thunderbird",
+      "The Mustang",
+      "The Corvair"
+    ],
+    "answer": 0,
+    "fact": "Chevrolet had brought out the Corvette, so Ford answered with the little T-Bird.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Howard Johnson's was famous for how many ice cream flavors?",
+    "choices": [
+      "12",
+      "31",
+      "28"
+    ],
+    "answer": 2,
+    "fact": "Orange roof, turquoise trim, and twenty-eight flavors waiting just inside.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Carhops at drive-in restaurants often served on what?",
+    "choices": [
+      "Bicycles",
+      "Roller skates",
+      "Scooters"
+    ],
+    "answer": 1,
+    "fact": "The tray hooked right onto the car window and supper arrived on wheels.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which company's electric trains circled Christmas trees?",
+    "choices": [
+      "Tonka",
+      "Erector",
+      "Lionel"
+    ],
+    "answer": 2,
+    "fact": "The transformer hummed, the whistle blew, and Dad hogged the controls.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "What did students slip into the slot of a penny loafer?",
+    "choices": [
+      "A dime",
+      "A penny",
+      "A note"
+    ],
+    "answer": 1,
+    "fact": "A shiny new penny in each shoe, and everybody checked the date.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which laminate covered kitchen tables and counters?",
+    "choices": [
+      "Linoleum",
+      "Formica",
+      "Bakelite"
+    ],
+    "answer": 1,
+    "fact": "Boomerang patterns in pink and gray, wiped clean with a single swipe.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which mail-order catalog was nicknamed the 'Wish Book'?",
+    "choices": [
+      "Sears",
+      "Montgomery Ward",
+      "Spiegel"
+    ],
+    "answer": 0,
+    "fact": "The Christmas edition arrived and children circled toys until it fell apart.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'Ask the man who owns one' was the slogan of which car?",
+    "choices": [
+      "Packard",
+      "Studebaker",
+      "Hudson"
+    ],
+    "answer": 0,
+    "fact": "Packard used that line for half a century, and owners were always happy to answer.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which cereal was first sold in 1941 as 'Cheerioats'?",
+    "choices": [
+      "Kix",
+      "Cheerios",
+      "Wheat Chex"
+    ],
+    "answer": 1,
+    "fact": "The name got shortened a few years later, and the little O's never looked back.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which writing tool caused a shopping stampede at Gimbels in 1945?",
+    "choices": [
+      "The ballpoint pen",
+      "The fountain pen",
+      "The mechanical pencil"
+    ],
+    "answer": 0,
+    "fact": "They cost twelve dollars and fifty cents, and the store sold thousands in one day.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which famous cook was invented by a flour company?",
+    "choices": [
+      "Fannie Farmer",
+      "Betty Crocker",
+      "Duncan Hines"
+    ],
+    "answer": 1,
+    "fact": "Betty was a made-up name with a made-up signature, and she answered piles of letters.",
+    "era": "1940s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "The 1950 Studebaker was famous for what up front?",
+    "choices": [
+      "A bullet nose",
+      "A split grille",
+      "Hidden headlights"
+    ],
+    "answer": 0,
+    "fact": "People joked that you could not tell whether it was coming or going.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "The first Holiday Inn opened in 1952 in which city?",
+    "choices": [
+      "Memphis",
+      "Nashville",
+      "Atlanta"
+    ],
+    "answer": 0,
+    "fact": "Kemmons Wilson built it after a family road trip with no decent place to stop.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "'Does she or doesn't she?' advertised which kind of product?",
+    "choices": [
+      "Face powder",
+      "Hair color",
+      "Nail polish"
+    ],
+    "answer": 1,
+    "fact": "Clairol asked the question in 1957, and women stopped whispering about it.",
+    "era": "1950s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which St. Louis Cardinals slugger was known as 'Stan the Man'?",
+    "choices": [
+      "Enos Slaughter",
+      "Red Schoendienst",
+      "Stan Musial"
+    ],
+    "answer": 2,
+    "fact": "Brooklyn fans gave him that nickname, and they groaned every time he came up.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which heavyweight champion was called 'The Brown Bomber'?",
+    "choices": [
+      "Jersey Joe Walcott",
+      "Ezzard Charles",
+      "Joe Louis"
+    ],
+    "answer": 2,
+    "fact": "Louis held the title longer than any heavyweight before him or since.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which Brooklyn Dodger center fielder was 'The Duke of Flatbush'?",
+    "choices": [
+      "Carl Furillo",
+      "Gil Hodges",
+      "Duke Snider"
+    ],
+    "answer": 2,
+    "fact": "New York argued about it for years: Willie, Mickey, or the Duke?",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "In 1958 the Dodgers moved from Brooklyn to which city?",
+    "choices": [
+      "San Francisco",
+      "Los Angeles",
+      "Milwaukee"
+    ],
+    "answer": 1,
+    "fact": "The Giants headed for San Francisco the same year - baseball went west together.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which woman starred in both track and golf and was called 'Babe'?",
+    "choices": [
+      "Althea Gibson",
+      "Maureen Connolly",
+      "Babe Didrikson"
+    ],
+    "answer": 2,
+    "fact": "She won Olympic medals, then took up golf and won everything there too.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which Boston Celtics guard was famous for his fancy passing?",
+    "choices": [
+      "Bill Sharman",
+      "Bob Cousy",
+      "Bill Russell"
+    ],
+    "answer": 1,
+    "fact": "They called him the Houdini of the Hardwood, and nobody ever saw the pass coming.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which horse won racing's Triple Crown in 1948?",
+    "choices": [
+      "Citation",
+      "Whirlaway",
+      "Assault"
+    ],
+    "answer": 0,
+    "fact": "Whirlaway and Assault had won it earlier that decade - a golden age for racing.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Which jockey rode both Whirlaway and Citation to the Triple Crown?",
+    "choices": [
+      "Johnny Longden",
+      "Willie Shoemaker",
+      "Eddie Arcaro"
+    ],
+    "answer": 2,
+    "fact": "Arcaro is the only jockey ever to win the Triple Crown twice.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Which Cleveland pitcher was nicknamed 'Rapid Robert'?",
+    "choices": [
+      "Early Wynn",
+      "Bob Lemon",
+      "Bob Feller"
+    ],
+    "answer": 2,
+    "fact": "Feller once raced his fastball against a speeding motorcycle for the newsreel cameras.",
+    "era": "1940s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Bobby Thomson's famous 1951 home run won the pennant for which team?",
+    "choices": [
+      "The New York Giants",
+      "The Brooklyn Dodgers",
+      "The Yankees"
+    ],
+    "answer": 0,
+    "fact": "The announcer hollered that the Giants had won the pennant, over and over and over.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Which Yankee pitched a perfect game in the 1956 World Series?",
+    "choices": [
+      "Whitey Ford",
+      "Don Larsen",
+      "Allie Reynolds"
+    ],
+    "answer": 1,
+    "fact": "Twenty-seven up and twenty-seven down - it has never happened in a Series since.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Who became the first Black tennis player to win Wimbledon, in 1957?",
+    "choices": [
+      "Althea Gibson",
+      "Maureen Connolly",
+      "Doris Hart"
+    ],
+    "answer": 0,
+    "fact": "Gibson won Wimbledon again in 1958, and took the U.S. title both years as well.",
+    "era": "1950s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Dick Tracy talked into a two-way what?",
+    "choices": [
+      "Wrist radio",
+      "Pocket phone",
+      "Shoe radio"
+    ],
+    "answer": 0,
+    "fact": "It looked like pure science fiction in 1946, and now everybody has one.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which comic-strip husband built a towering midnight sandwich?",
+    "choices": [
+      "Dagwood",
+      "Andy Capp",
+      "Beetle Bailey"
+    ],
+    "answer": 0,
+    "fact": "Dagwood Bumstead raided the icebox and stacked it clear up to the ceiling.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which little cartoon fellow peeked over a wall in 1940s graffiti?",
+    "choices": [
+      "Kilroy",
+      "Sad Sack",
+      "Willie"
+    ],
+    "answer": 0,
+    "fact": "'Kilroy was here' turned up chalked on walls all over the world.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which magazine's freckled mascot asks 'What, me worry?'",
+    "choices": [
+      "Look",
+      "Collier's",
+      "Mad"
+    ],
+    "answer": 2,
+    "fact": "Alfred E. Neuman's grin has been turning up on that cover since the 1950s.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Charlie Brown first appeared in 1950 in which comic strip?",
+    "choices": [
+      "Pogo",
+      "Nancy",
+      "Peanuts"
+    ],
+    "answer": 2,
+    "fact": "Charles Schulz never did like the name 'Peanuts' - the syndicate picked it for him.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "In 1953 audiences wore special glasses to watch which kind of movie?",
+    "choices": [
+      "Cinerama",
+      "3-D",
+      "Technicolor"
+    ],
+    "answer": 1,
+    "fact": "Cardboard glasses handed out at the door, and the whole theater ducked at once.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which 1948 comic-strip creature became a national toy craze?",
+    "choices": [
+      "The Shmoo",
+      "The Snork",
+      "The Gremlin"
+    ],
+    "answer": 0,
+    "fact": "Al Capp's Shmoo laid eggs, gave milk, and sold millions of dolls and ashtrays.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 3
+  },
+  {
+    "q": "Sadie Hawkins Day, when the girls ask the boys, came from which comic strip?",
+    "choices": [
+      "Blondie",
+      "Gasoline Alley",
+      "Li'l Abner"
+    ],
+    "answer": 2,
+    "fact": "Al Capp invented it for Dogpatch, and high schools have held the dance ever since.",
+    "era": "1940s",
+    "cat": "Fads",
+    "d": 3
+  },
+  {
+    "q": "Which 1952 dance had everybody hopping along in a line?",
+    "choices": [
+      "The Stroll",
+      "The Bunny Hop",
+      "The Madison"
+    ],
+    "answer": 1,
+    "fact": "Ray Anthony's record set the steps: hop, hop, and hold on tight.",
+    "era": "1950s",
+    "cat": "Fads",
+    "d": 3
+  },
+  {
+    "q": "Which star's peekaboo hairstyle covered one eye?",
+    "choices": [
+      "Veronica Lake",
+      "Lana Turner",
+      "Rita Hayworth"
+    ],
+    "answer": 0,
+    "fact": "So many women copied it that she was asked to pin her hair back for safety.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which star was known as 'The Sweater Girl'?",
+    "choices": [
+      "Ann Sheridan",
+      "Lana Turner",
+      "Betty Hutton"
+    ],
+    "answer": 1,
+    "fact": "One snug sweater in one screen test, and the nickname followed her for life.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which actor was called 'The King of Hollywood'?",
+    "choices": [
+      "Errol Flynn",
+      "Clark Gable",
+      "Tyrone Power"
+    ],
+    "answer": 1,
+    "fact": "Gable wore that crown for years and nobody ever really took it away from him.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Which comedian was nicknamed 'The Great One'?",
+    "choices": [
+      "Milton Berle",
+      "Sid Caesar",
+      "Jackie Gleason"
+    ],
+    "answer": 2,
+    "fact": "Orson Welles hung that name on Gleason, and it fit like a tailored suit.",
+    "era": "1950s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Cary Grant was born with which name?",
+    "choices": [
+      "Archibald Leach",
+      "Marion Morrison",
+      "Bernard Schwartz"
+    ],
+    "answer": 0,
+    "fact": "He was a boy acrobat from Bristol, England, long before Hollywood renamed him.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "Which Hollywood gossip columnist was famous for outrageous hats?",
+    "choices": [
+      "Louella Parsons",
+      "Sheilah Graham",
+      "Hedda Hopper"
+    ],
+    "answer": 2,
+    "fact": "Hopper's hats were as famous as her column, and she owned hundreds of them.",
+    "era": "1940s",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "On 'The Andy Griffith Show', what was Barney Fife's job?",
+    "choices": [
+      "Barber",
+      "Deputy sheriff",
+      "Schoolteacher"
+    ],
+    "answer": 1,
+    "fact": "Don Knotts kept his one bullet tucked safely in his shirt pocket.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Bewitched', what line of work was Darrin Stephens in?",
+    "choices": [
+      "Advertising",
+      "Banking",
+      "Insurance"
+    ],
+    "answer": 0,
+    "fact": "He pitched ad campaigns all day while Endora made mischief all night.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "What was the name of the boat on 'Gilligan's Island'?",
+    "choices": [
+      "The Albatross",
+      "The Seabird",
+      "The Minnow"
+    ],
+    "answer": 2,
+    "fact": "The S.S. Minnow set sail from Honolulu and never quite came back.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which Cartwright son did Michael Landon play on 'Bonanza'?",
+    "choices": [
+      "Little Joe",
+      "Hoss",
+      "Adam"
+    ],
+    "answer": 0,
+    "fact": "Landon played the youngest Cartwright for all fourteen seasons.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Star Trek', what was Mr. Spock's home planet?",
+    "choices": [
+      "Romulus",
+      "Vulcan",
+      "Andoria"
+    ],
+    "answer": 1,
+    "fact": "Half human, half Vulcan, and forever raising that one eyebrow.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who was the blustering camp commandant on 'Hogan's Heroes'?",
+    "choices": [
+      "Major Healey",
+      "Sergeant Carter",
+      "Colonel Klink"
+    ],
+    "answer": 2,
+    "fact": "Werner Klemperer played Klink with a monocle, a violin, and no clue.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'The Fugitive', who was Dr. Richard Kimble searching for?",
+    "choices": [
+      "A one-armed man",
+      "A missing twin",
+      "A crooked judge"
+    ],
+    "answer": 0,
+    "fact": "David Janssen searched for four seasons, and the finale drew a record crowd.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who was Johnny Carson's announcer and sidekick?",
+    "choices": [
+      "Don Pardo",
+      "Ed McMahon",
+      "Hugh Downs"
+    ],
+    "answer": 1,
+    "fact": "That booming 'Heeere's Johnny!' opened the show for three decades.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Perry Mason's devoted secretary was named what?",
+    "choices": [
+      "Miss Kitty",
+      "Ruth Martin",
+      "Della Street"
+    ],
+    "answer": 2,
+    "fact": "Barbara Hale played Della for nine seasons and dozens of later TV movies.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played Rob Petrie's wife Laura on 'The Dick Van Dyke Show'?",
+    "choices": [
+      "Mary Tyler Moore",
+      "Elinor Donahue",
+      "Donna Reed"
+    ],
+    "answer": 0,
+    "fact": "Her slim capri pants were considered daring for a TV wife in 1961.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played the widowed father on 'My Three Sons'?",
+    "choices": [
+      "Hugh Beaumont",
+      "Fred MacMurray",
+      "Robert Young"
+    ],
+    "answer": 1,
+    "fact": "MacMurray filmed all his scenes in a few concentrated months each year.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "What was the towering butler's name on 'The Addams Family'?",
+    "choices": [
+      "Igor",
+      "Hobson",
+      "Lurch"
+    ],
+    "answer": 2,
+    "fact": "Ted Cassidy answered the gong with a rumbling 'You rang?'",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Rocky and Bullwinkle's two scheming villains were named what?",
+    "choices": [
+      "Boris and Natasha",
+      "Dick and Muttley",
+      "Snidely and Nell"
+    ],
+    "answer": 0,
+    "fact": "Boris Badenov and Natasha Fatale never did catch that moose and squirrel.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "What was the Jetsons' robot maid named?",
+    "choices": [
+      "Bertha",
+      "Rosie",
+      "Hazel"
+    ],
+    "answer": 1,
+    "fact": "Rosie rolled around on wheels and had the softest heart in the house.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which branch did Gomer Pyle join when he left Mayberry?",
+    "choices": [
+      "The Navy",
+      "The Air Force",
+      "The Marines"
+    ],
+    "answer": 2,
+    "fact": "Jim Nabors hollered 'Shazam!' and shipped out to Camp Henderson in 1964.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'The Andy Griffith Show' first appeared as an episode of which series?",
+    "choices": [
+      "The Danny Thomas Show",
+      "The Real McCoys",
+      "The Donna Reed Show"
+    ],
+    "answer": 0,
+    "fact": "Andy played a small-town sheriff who pulled Danny Thomas over in 1960.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "On 'The Munsters', what was Herman Munster's job?",
+    "choices": [
+      "Night watchman",
+      "Gravedigger",
+      "Undertaker"
+    ],
+    "answer": 1,
+    "fact": "He dug graves for the fine old firm of Gateman, Goodbury and Graves.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played Agent 99 on 'Get Smart'?",
+    "choices": [
+      "Barbara Bain",
+      "Barbara Eden",
+      "Barbara Feldon"
+    ],
+    "answer": 2,
+    "fact": "Her character's real name was never once revealed in the entire run.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played Illya Kuryakin on 'The Man from U.N.C.L.E.'?",
+    "choices": [
+      "David McCallum",
+      "Robert Vaughn",
+      "Patrick Macnee"
+    ],
+    "answer": 0,
+    "fact": "The blond Scottish spy drew more fan mail than the studio could open.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "What was the name of Fred Flintstone's boss?",
+    "choices": [
+      "Mr. Quarry",
+      "Mr. Slate",
+      "Mr. Granite"
+    ],
+    "answer": 1,
+    "fact": "Mr. Slate ran the gravel pit where Fred worked the dino-crane.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which hotel was the setting of 'Petticoat Junction'?",
+    "choices": [
+      "The Shady Rest",
+      "The Hooterville Inn",
+      "The Cannonball House"
+    ],
+    "answer": 0,
+    "fact": "Kate Bradley ran the Shady Rest, and the Cannonball puffed right past it.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played the Riddler on the 'Batman' TV series?",
+    "choices": [
+      "Cesar Romero",
+      "Frank Gorshin",
+      "Burgess Meredith"
+    ],
+    "answer": 1,
+    "fact": "Gorshin's giggling Riddler earned him an Emmy nomination in 1966.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who played Norman Bates in 'Psycho'?",
+    "choices": [
+      "Tony Curtis",
+      "Anthony Quinn",
+      "Anthony Perkins"
+    ],
+    "answer": 2,
+    "fact": "Hitchcock asked moviegoers on the way out not to spoil the ending.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who directed '2001: A Space Odyssey'?",
+    "choices": [
+      "Stanley Kubrick",
+      "David Lean",
+      "Robert Wise"
+    ],
+    "answer": 0,
+    "fact": "Kubrick spent four painstaking years on it, and it still looks brand new.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who founded Motown Records?",
+    "choices": [
+      "Sam Cooke",
+      "Berry Gordy",
+      "Phil Spector"
+    ],
+    "answer": 1,
+    "fact": "He borrowed 800 dollars from his family and built an empire in a Detroit house.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Smokey Robinson sang lead for which group?",
+    "choices": [
+      "The Marvelettes",
+      "The Four Tops",
+      "The Miracles"
+    ],
+    "answer": 2,
+    "fact": "Smokey and the Miracles gave Motown its first million-selling record.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which Motown singer had the 1964 chart-topper 'My Guy'?",
+    "choices": [
+      "Mary Wells",
+      "Martha Reeves",
+      "Kim Weston"
+    ],
+    "answer": 0,
+    "fact": "Smokey Robinson wrote it, and Mary Wells became Motown's first big solo star.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which Beach Boys brother was the group's producer and chief songwriter?",
+    "choices": [
+      "Carl Wilson",
+      "Dennis Wilson",
+      "Brian Wilson"
+    ],
+    "answer": 2,
+    "fact": "Brian stayed home building records in the studio while the others toured.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Frankie Valli sang lead for which group?",
+    "choices": [
+      "The Four Lads",
+      "The Four Seasons",
+      "The Four Tops"
+    ],
+    "answer": 1,
+    "fact": "That soaring falsetto carried 'Sherry' and 'Big Girls Don't Cry' to number one.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'House of the Rising Sun' was a 1964 hit for which British band?",
+    "choices": [
+      "The Animals",
+      "The Zombies",
+      "The Hollies"
+    ],
+    "answer": 0,
+    "fact": "Eric Burdon's growl and that rolling organ were cut in a single take.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Happy Together' was a 1967 number one for which band?",
+    "choices": [
+      "The Buckinghams",
+      "The Byrds",
+      "The Turtles"
+    ],
+    "answer": 2,
+    "fact": "It bumped the Beatles' 'Penny Lane' out of the top spot.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which duo sang 'I Got You Babe' in 1965?",
+    "choices": [
+      "Chad and Jeremy",
+      "Sonny and Cher",
+      "Peter and Gordon"
+    ],
+    "answer": 1,
+    "fact": "Sonny wrote it, and the fur vests became as famous as the song.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'A Taste of Honey' was a 1965 hit for which brassy group?",
+    "choices": [
+      "The Tijuana Brass",
+      "The Baja Marimba Band",
+      "Al Hirt's band"
+    ],
+    "answer": 0,
+    "fact": "In 1966 Herb Alpert's group sold more albums in America than the Beatles.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Crimson and Clover' was a hit for which band?",
+    "choices": [
+      "The Grass Roots",
+      "Gary Puckett",
+      "Tommy James"
+    ],
+    "answer": 2,
+    "fact": "That wobbling sound came from running the vocals through a guitar tremolo.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which girl group sang 'Leader of the Pack'?",
+    "choices": [
+      "The Chiffons",
+      "The Shangri-Las",
+      "The Ronettes"
+    ],
+    "answer": 1,
+    "fact": "Two sets of sisters from Queens made the most dramatic record of 1964.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which teenage singer had the 1963 number one 'It's My Party'?",
+    "choices": [
+      "Lesley Gore",
+      "Brenda Lee",
+      "Connie Francis"
+    ],
+    "answer": 0,
+    "fact": "She was still in high school, and a young Quincy Jones produced it.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Ode to Billie Joe' was a 1967 hit for which Southern singer?",
+    "choices": [
+      "Skeeter Davis",
+      "Jeannie C. Riley",
+      "Bobbie Gentry"
+    ],
+    "answer": 2,
+    "fact": "Bobbie Gentry never did say what went off the Tallahatchie Bridge.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which singer had the 1965 hit 'King of the Road'?",
+    "choices": [
+      "Buck Owens",
+      "Roger Miller",
+      "Faron Young"
+    ],
+    "answer": 1,
+    "fact": "Roger Miller wrote it after spotting a roadside sign about trailers for sale.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "What was the Jackson 5's first single, in 1969?",
+    "choices": [
+      "I Want You Back",
+      "ABC",
+      "I'll Be There"
+    ],
+    "answer": 0,
+    "fact": "Little Michael was eleven, and it went straight to number one.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who wrote and first recorded 'Respect'?",
+    "choices": [
+      "Wilson Pickett",
+      "Sam and Dave",
+      "Otis Redding"
+    ],
+    "answer": 2,
+    "fact": "Otis cut it in 1965; Aretha turned it inside out two years later.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who recorded 'The Twist' before Chubby Checker made it a craze?",
+    "choices": [
+      "Hank Ballard",
+      "Bobby Rydell",
+      "Jackie Wilson"
+    ],
+    "answer": 0,
+    "fact": "Hank Ballard and the Midnighters had it first, tucked away on a B-side.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Whose 1967 'I Heard It Through the Grapevine' charted before Marvin Gaye's?",
+    "choices": [
+      "The Isley Brothers",
+      "Gladys Knight",
+      "The Temptations"
+    ],
+    "answer": 1,
+    "fact": "Gladys took it to number two, then Marvin's slow-burn version went all the way.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who was the Beatles' drummer before Ringo Starr?",
+    "choices": [
+      "Tony Sheridan",
+      "Stuart Sutcliffe",
+      "Pete Best"
+    ],
+    "answer": 2,
+    "fact": "Pete Best pounded the drums through the Hamburg years and just missed the ride.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who produced nearly all of the Beatles' records?",
+    "choices": [
+      "George Martin",
+      "Brian Epstein",
+      "Phil Spector"
+    ],
+    "answer": 0,
+    "fact": "The classically trained Martin turned their ideas into orchestras and tape loops.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who wrote 'Mr. Tambourine Man', the Byrds' 1965 number one?",
+    "choices": [
+      "Pete Seeger",
+      "Bob Dylan",
+      "Gene Clark"
+    ],
+    "answer": 1,
+    "fact": "The Byrds added a twelve-string jangle and invented folk rock overnight.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who wrote the Monkees' hit 'I'm a Believer'?",
+    "choices": [
+      "Boyce and Hart",
+      "Carole King",
+      "Neil Diamond"
+    ],
+    "answer": 2,
+    "fact": "Neil Diamond was a young songwriter for hire when he handed it over.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which trio wrote the Supremes' 'Baby Love' and 'Stop! In the Name of Love'?",
+    "choices": [
+      "Holland-Dozier-Holland",
+      "Ashford and Simpson",
+      "Leiber and Stoller"
+    ],
+    "answer": 0,
+    "fact": "Two brothers and a friend wrote a dozen number ones in about four years.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "What was the nickname of Motown's little Detroit recording studio?",
+    "choices": [
+      "Soul City",
+      "Hitsville U.S.A.",
+      "The Sound Factory"
+    ],
+    "answer": 1,
+    "fact": "The sign over the porch of that converted house said it plainly: Hitsville U.S.A.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which Temptation sang lead on 'My Girl'?",
+    "choices": [
+      "Otis Williams",
+      "Eddie Kendricks",
+      "David Ruffin"
+    ],
+    "answer": 2,
+    "fact": "Smokey Robinson wrote it and handed the lead to Ruffin's warm rasp.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who played Mrs. Robinson in 'The Graduate'?",
+    "choices": [
+      "Shirley MacLaine",
+      "Anne Bancroft",
+      "Katharine Ross"
+    ],
+    "answer": 1,
+    "fact": "Bancroft was only about six years older than Dustin Hoffman.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Atticus Finch in 'To Kill a Mockingbird'?",
+    "choices": [
+      "Gregory Peck",
+      "Henry Fonda",
+      "James Stewart"
+    ],
+    "answer": 0,
+    "fact": "Peck won the Oscar, and Harper Lee gave him her father's pocket watch.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Captain von Trapp in 'The Sound of Music'?",
+    "choices": [
+      "Rex Harrison",
+      "Richard Harris",
+      "Christopher Plummer"
+    ],
+    "answer": 2,
+    "fact": "Plummer's singing was dubbed, and he teased about the film for years afterward.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played the title role in 'Lawrence of Arabia'?",
+    "choices": [
+      "Richard Burton",
+      "Peter O'Toole",
+      "Alec Guinness"
+    ],
+    "answer": 1,
+    "fact": "O'Toole was a near unknown, and the desert shoot stretched across two years.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which star made the motorcycle chase famous in 'The Great Escape'?",
+    "choices": [
+      "Steve McQueen",
+      "James Garner",
+      "Charles Bronson"
+    ],
+    "answer": 0,
+    "fact": "His pal Bud Ekins took the big fence jump, but McQueen did most of the riding.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "What was the talking computer called in '2001: A Space Odyssey'?",
+    "choices": [
+      "MULTIVAC",
+      "ORAC",
+      "HAL 9000"
+    ],
+    "answer": 2,
+    "fact": "That calm, polite voice belonged to Canadian actor Douglas Rain.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "What was the little Volkswagen named in Disney's 'The Love Bug'?",
+    "choices": [
+      "Buggsy",
+      "Herbie",
+      "Rabbit"
+    ],
+    "answer": 1,
+    "fact": "Herbie wore the number 53 and had a mind entirely of his own.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which co-star danced with Elvis in 'Viva Las Vegas'?",
+    "choices": [
+      "Ann-Margret",
+      "Shelley Fabares",
+      "Nancy Sinatra"
+    ],
+    "answer": 0,
+    "fact": "It turned out to be the biggest box-office hit of all his pictures.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "John Wayne won his only Oscar as Rooster Cogburn in which film?",
+    "choices": [
+      "The Alamo",
+      "Rio Bravo",
+      "True Grit"
+    ],
+    "answer": 2,
+    "fact": "He wore the eye patch, took the reins in his teeth, and finally got his statue.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Who coached the Green Bay Packers to the first two Super Bowl wins?",
+    "choices": [
+      "Tom Landry",
+      "Vince Lombardi",
+      "Hank Stram"
+    ],
+    "answer": 1,
+    "fact": "The trophy itself was named for him just a few years later.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Who hit 61 home runs in 1961 for a new single-season record?",
+    "choices": [
+      "Roger Maris",
+      "Mickey Mantle",
+      "Harmon Killebrew"
+    ],
+    "answer": 0,
+    "fact": "Maris and Mantle chased the record together all summer as the M and M boys.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which American won the 1968 Olympic gold in ladies' figure skating?",
+    "choices": [
+      "Dorothy Hamill",
+      "Janet Lynn",
+      "Peggy Fleming"
+    ],
+    "answer": 2,
+    "fact": "Her mother sewed the chiffon dress she wore to America's only gold that winter.",
+    "era": "1960s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which slim British model became the face of 1966 fashion?",
+    "choices": [
+      "Jean Shrimpton",
+      "Twiggy",
+      "Mary Quant"
+    ],
+    "answer": 1,
+    "fact": "She was seventeen, weighed about ninety pounds, and painted on her lower lashes.",
+    "era": "1960s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which Pontiac muscle car arrived for the 1964 model year?",
+    "choices": [
+      "The GTO",
+      "The Firebird",
+      "The Grand Prix"
+    ],
+    "answer": 0,
+    "fact": "It started life as a bold options package the front office nearly said no to.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which rent-a-car company built its ads around 'We try harder'?",
+    "choices": [
+      "Hertz",
+      "National",
+      "Avis"
+    ],
+    "answer": 2,
+    "fact": "Being number two turned out to be the best advertising idea they ever had.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Who sang the title theme of the Bond film 'Goldfinger'?",
+    "choices": [
+      "Shirley Bassey",
+      "Matt Monro",
+      "Petula Clark"
+    ],
+    "answer": 0,
+    "fact": "She has said she held that last note until she nearly saw stars.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Whose 'Wall of Sound' productions backed the Ronettes and the Crystals?",
+    "choices": [
+      "Berry Gordy",
+      "Phil Spector",
+      "Bert Berns"
+    ],
+    "answer": 1,
+    "fact": "He packed the studio with doubled instruments until it roared like an orchestra.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who wrote 'Up, Up and Away' for the 5th Dimension?",
+    "choices": [
+      "Burt Bacharach",
+      "Bob Crewe",
+      "Jimmy Webb"
+    ],
+    "answer": 2,
+    "fact": "Webb was barely twenty-one when it swept the Grammys.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Booker T. and the M.G.'s were the house band at which Memphis label?",
+    "choices": [
+      "Stax",
+      "Sun",
+      "Chess"
+    ],
+    "answer": 0,
+    "fact": "They cut hit after hit inside an old converted movie theater.",
+    "era": "1960s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Sidney Poitier won the 1963 Best Actor Oscar for which film?",
+    "choices": [
+      "A Raisin in the Sun",
+      "Lilies of the Field",
+      "A Patch of Blue"
+    ],
+    "answer": 1,
+    "fact": "He played a handyman who builds a chapel for a group of determined nuns.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "Who played Lara in the film 'Doctor Zhivago'?",
+    "choices": [
+      "Geraldine Chaplin",
+      "Samantha Eggar",
+      "Julie Christie"
+    ],
+    "answer": 2,
+    "fact": "Christie had two huge pictures that season and won her Oscar for 'Darling'.",
+    "era": "1960s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who created the role of Tevye in Broadway's 'Fiddler on the Roof'?",
+    "choices": [
+      "Zero Mostel",
+      "Herschel Bernardi",
+      "Topol"
+    ],
+    "answer": 0,
+    "fact": "Mostel won the Tony in 1965; Topol later played Tevye in the movie.",
+    "era": "1960s",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "Who narrated the 1964 special 'Rudolph the Red-Nosed Reindeer'?",
+    "choices": [
+      "Jimmy Durante",
+      "Burl Ives",
+      "Andy Williams"
+    ],
+    "answer": 1,
+    "fact": "Ives played Sam the Snowman and sang 'A Holly Jolly Christmas' besides.",
+    "era": "1960s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which Disney ride was built for the 1964 New York World's Fair?",
+    "choices": [
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "It's a Small World"
+    ],
+    "answer": 2,
+    "fact": "It sailed to the fair first, then was shipped west to Disneyland in 1966.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which Ford executive championed the 1964 Mustang?",
+    "choices": [
+      "Henry Ford II",
+      "Lee Iacocca",
+      "Robert McNamara"
+    ],
+    "answer": 1,
+    "fact": "Ford sold more than 400,000 Mustangs in the first twelve months.",
+    "era": "1960s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "On 'All in the Family', what did Archie call his son-in-law Mike?",
+    "choices": [
+      "Dingbat",
+      "Meathead",
+      "Buster"
+    ],
+    "answer": 1,
+    "fact": "Edith was the dingbat; poor Mike was the meathead, dead from the neck up.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'The Odd Couple', which roommate was the fussy neat one?",
+    "choices": [
+      "Felix Unger",
+      "Oscar Madison",
+      "Murray the cop"
+    ],
+    "answer": 0,
+    "fact": "Tony Randall's Felix cooked and dusted while Jack Klugman's Oscar made the mess.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "In which city did the Evans family live on 'Good Times'?",
+    "choices": [
+      "Detroit",
+      "Newark",
+      "Chicago"
+    ],
+    "answer": 2,
+    "fact": "They squeezed into a Chicago high-rise, where J.J. hollered his famous 'Dy-no-mite!'",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "In which state was Walton's Mountain?",
+    "choices": [
+      "Kentucky",
+      "Virginia",
+      "Tennessee"
+    ],
+    "answer": 1,
+    "fact": "The Waltons weathered the Depression in the Blue Ridge hills of Virginia.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Little House on the Prairie', Walnut Grove was in which state?",
+    "choices": [
+      "Minnesota",
+      "Kansas",
+      "Nebraska"
+    ],
+    "answer": 0,
+    "fact": "The Ingalls family put down roots in Minnesota, mud, blizzards and all.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'The Bob Newhart Show', what was Bob Hartley's profession?",
+    "choices": [
+      "Dentist",
+      "Lawyer",
+      "Psychologist"
+    ],
+    "answer": 2,
+    "fact": "He led a Chicago therapy group and let his patients do most of the talking.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Three's Company', what was Jack Tripper training to be?",
+    "choices": [
+      "A chef",
+      "A dentist",
+      "A teacher"
+    ],
+    "answer": 0,
+    "fact": "John Ritter's Jack could whip up a souffle and still trip over the sofa.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who played the outspoken title character on 'Maude'?",
+    "choices": [
+      "Cloris Leachman",
+      "Bea Arthur",
+      "Nancy Walker"
+    ],
+    "answer": 1,
+    "fact": "Bea Arthur's Maude Findlay never once lost an argument in her own living room.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "On 'The Waltons', what did John-Boy dream of becoming?",
+    "choices": [
+      "A doctor",
+      "A preacher",
+      "A writer"
+    ],
+    "answer": 2,
+    "fact": "He filled tablet after tablet by lamplight, and the whole family knew it.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Hee Haw', the cast popped up to tell jokes from what?",
+    "choices": [
+      "A hayloft",
+      "A cornfield",
+      "A pumpkin patch"
+    ],
+    "answer": 1,
+    "fact": "The cornfield gags came as regularly as the overalls and the banjo.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "How did Carol Burnett sign off at the end of her variety show?",
+    "choices": [
+      "Tugging her ear",
+      "Blowing a kiss",
+      "Waving a hat"
+    ],
+    "answer": 0,
+    "fact": "That ear tug was a private hello to the grandmother who raised her.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which game show did Gene Rayburn host with a panel of celebrities?",
+    "choices": [
+      "Password",
+      "Concentration",
+      "Match Game"
+    ],
+    "answer": 2,
+    "fact": "Rayburn's skinny microphone and Charles Nelson Reilly's giggle made it a party.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who was the longtime host of 'Let's Make a Deal'?",
+    "choices": [
+      "Monty Hall",
+      "Bill Cullen",
+      "Wink Martindale"
+    ],
+    "answer": 0,
+    "fact": "Monty Hall faced a studio full of grown adults dressed as carrots and bananas.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Who hosted 'The Gong Show'?",
+    "choices": [
+      "Chuck Woolery",
+      "Chuck Barris",
+      "Jim Lange"
+    ],
+    "answer": 1,
+    "fact": "Barris also dreamed up The Dating Game, then hosted the goofiest half hour on TV.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'Sanford and Son', what was Fred Sanford's son named?",
+    "choices": [
+      "Grady",
+      "Rollo",
+      "Lamont"
+    ],
+    "answer": 2,
+    "fact": "Lamont ran the junkyard while Fred clutched his chest and called it the big one.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "On 'M*A*S*H', what was Radar O'Reilly's real first name?",
+    "choices": [
+      "Walter",
+      "Wendell",
+      "Warren"
+    ],
+    "answer": 0,
+    "fact": "Corporal Walter O'Reilly heard the choppers coming before anybody else did.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "'Barney Miller' was set in a precinct in which New York neighborhood?",
+    "choices": [
+      "Brooklyn Heights",
+      "Greenwich Village",
+      "The Bronx"
+    ],
+    "answer": 1,
+    "fact": "The 12th Precinct squad room in Greenwich Village saw every character in town.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "'Good Times' began as a spin-off of which series?",
+    "choices": [
+      "All in the Family",
+      "The Jeffersons",
+      "Maude"
+    ],
+    "answer": 2,
+    "fact": "Florida Evans kept house for Maude first, then got a family and a show of her own.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who were the first landlords on 'Three's Company'?",
+    "choices": [
+      "The Furleys",
+      "The Dawsons",
+      "The Ropers"
+    ],
+    "answer": 2,
+    "fact": "Stanley and Helen Roper were so popular they moved into their own series in 1979.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Where did Jim Rockford live on 'The Rockford Files'?",
+    "choices": [
+      "A Malibu trailer",
+      "A Reno motel",
+      "A Chicago walk-up"
+    ],
+    "answer": 0,
+    "fact": "James Garner worked out of a beach trailer for two hundred a day, plus expenses.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Which Carol Burnett regular played Mama in 'The Family' sketches?",
+    "choices": [
+      "Vicki Lawrence",
+      "Carol Burnett",
+      "Harvey Korman"
+    ],
+    "answer": 0,
+    "fact": "Vicki Lawrence was decades younger than Mama, and Mama got her own show anyway.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "Whose boyhood memories were the basis for 'The Waltons'?",
+    "choices": [
+      "Norman Lear",
+      "Earl Hamner Jr.",
+      "Garry Marshall"
+    ],
+    "answer": 1,
+    "fact": "Hamner wrote the stories and narrated them, so the warm voice was the real John-Boy.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who was the first host of 'Wheel of Fortune' in 1975?",
+    "choices": [
+      "Peter Marshall",
+      "Chuck Woolery",
+      "Pat Sajak"
+    ],
+    "answer": 1,
+    "fact": "Woolery spun the wheel for six years before Pat Sajak stepped in.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "On 'The Jeffersons', what was the wisecracking maid's name?",
+    "choices": [
+      "Esther",
+      "Beulah",
+      "Florence"
+    ],
+    "answer": 2,
+    "fact": "Marla Gibbs played Florence, the only person in the building George couldn't out-talk.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "On 'Happy Days', what was Fonzie's full name?",
+    "choices": [
+      "Arthur Cunningham",
+      "Anthony Fonzarelli",
+      "Arthur Fonzarelli"
+    ],
+    "answer": 2,
+    "fact": "Arthur Fonzarelli on paper, but one thumb up and a cool 'Ayyy' in person.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Who sang the 1972 hit 'Superstition'?",
+    "choices": [
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Al Green"
+    ],
+    "answer": 1,
+    "fact": "That clavinet riff of Stevie's could get a whole kitchen dancing.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'Let's Stay Together'?",
+    "choices": [
+      "Al Green",
+      "Lou Rawls",
+      "Teddy Pendergrass"
+    ],
+    "answer": 0,
+    "fact": "Al Green's smooth Memphis tenor made it a first-dance favorite for decades.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'Lean on Me' in 1972?",
+    "choices": [
+      "Isaac Hayes",
+      "Bill Withers",
+      "Curtis Mayfield"
+    ],
+    "answer": 1,
+    "fact": "Bill Withers wrote it remembering the coal town neighbors who looked after each other.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which group sang 'Midnight Train to Georgia'?",
+    "choices": [
+      "The Staple Singers",
+      "The Supremes",
+      "Gladys Knight & the Pips"
+    ],
+    "answer": 2,
+    "fact": "The Pips' hand moves behind Gladys were half the fun of the whole record.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'American Pie' in 1971?",
+    "choices": [
+      "Don McLean",
+      "Gordon Lightfoot",
+      "Harry Chapin"
+    ],
+    "answer": 0,
+    "fact": "Eight and a half minutes long, and every radio station played the whole thing.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'Piano Man'?",
+    "choices": [
+      "Jim Croce",
+      "Billy Joel",
+      "Barry Manilow"
+    ],
+    "answer": 1,
+    "fact": "Billy Joel really had played a Los Angeles piano bar before he wrote it.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which band recorded 'Bohemian Rhapsody' in 1975?",
+    "choices": [
+      "The Who",
+      "Bad Company",
+      "Queen"
+    ],
+    "answer": 2,
+    "fact": "Nearly six minutes, an opera section in the middle, and a smash hit anyway.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'Coal Miner's Daughter'?",
+    "choices": [
+      "Loretta Lynn",
+      "Tammy Wynette",
+      "Barbara Mandrell"
+    ],
+    "answer": 0,
+    "fact": "Loretta grew up in Butcher Hollow, Kentucky, and sang it exactly as she lived it.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who sang 'I Am Woman' in 1972?",
+    "choices": [
+      "Anne Murray",
+      "Helen Reddy",
+      "Olivia Newton-John"
+    ],
+    "answer": 1,
+    "fact": "Helen Reddy's anthem won a Grammy and became a household sing-along.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Which group sang 'Love Train' in 1973?",
+    "choices": [
+      "The Spinners",
+      "The Stylistics",
+      "The O'Jays"
+    ],
+    "answer": 2,
+    "fact": "The O'Jays came out of Philadelphia with strings, horns and a whole lot of joy.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Who directed the 1975 hit 'Jaws'?",
+    "choices": [
+      "Steven Spielberg",
+      "George Lucas",
+      "William Friedkin"
+    ],
+    "answer": 0,
+    "fact": "Spielberg was under thirty, and the mechanical shark broke down constantly.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played Michael Corleone in 'The Godfather'?",
+    "choices": [
+      "Robert Duvall",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "answer": 1,
+    "fact": "Pacino was almost unknown, and the studio nearly replaced him during filming.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which actor played the sheriff in Mel Brooks' 'Blazing Saddles'?",
+    "choices": [
+      "Gene Wilder",
+      "Slim Pickens",
+      "Cleavon Little"
+    ],
+    "answer": 2,
+    "fact": "Cleavon Little rode into Rock Ridge in Gucci saddlebags and stole the picture.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who played the title role in the 1977 film 'Annie Hall'?",
+    "choices": [
+      "Diane Keaton",
+      "Marsha Mason",
+      "Jill Clayburgh"
+    ],
+    "answer": 0,
+    "fact": "Keaton's vest-and-tie look sent women straight to the menswear department.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who starred opposite Ali MacGraw in 1970's 'Love Story'?",
+    "choices": [
+      "Robert Redford",
+      "Ryan O'Neal",
+      "Michael York"
+    ],
+    "answer": 1,
+    "fact": "It was the year's biggest picture, and everybody quoted that line about being sorry.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Who wrote 'Love Will Keep Us Together', the 1975 Captain & Tennille hit?",
+    "choices": [
+      "Paul Williams",
+      "Barry Mann",
+      "Neil Sedaka"
+    ],
+    "answer": 2,
+    "fact": "Sedaka wrote and recorded it first; Toni Tennille even name-checks him at the end.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Send in the Clowns' came from which Broadway musical?",
+    "choices": [
+      "A Little Night Music",
+      "Company",
+      "Follies"
+    ],
+    "answer": 0,
+    "fact": "Sondheim wrote it overnight, and Judy Collins turned it into a radio hit.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "In which year did Fleetwood Mac release the album 'Rumours'?",
+    "choices": [
+      "1975",
+      "1977",
+      "1979"
+    ],
+    "answer": 1,
+    "fact": "It sat at number one for months and lived in nearly every living room in America.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Which group recorded 'If You Don't Know Me by Now' in 1972?",
+    "choices": [
+      "The Chi-Lites",
+      "The Delfonics",
+      "The Blue Notes"
+    ],
+    "answer": 2,
+    "fact": "Harold Melvin's Blue Notes had a young Teddy Pendergrass singing that aching lead.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Who sang lead for the Commodores in the 1970s?",
+    "choices": [
+      "Lionel Richie",
+      "Philip Bailey",
+      "Peabo Bryson"
+    ],
+    "answer": 0,
+    "fact": "Richie wrote the ballads, played sax on the funky ones, and later went solo.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Whose 1975 album 'Red Headed Stranger' produced a number one country hit?",
+    "choices": [
+      "Waylon Jennings",
+      "Willie Nelson",
+      "Merle Haggard"
+    ],
+    "answer": 1,
+    "fact": "The spare little record gave Willie 'Blue Eyes Crying in the Rain' and stardom.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "In 'Jaws', what was the name of Quint's fishing boat?",
+    "choices": [
+      "The Nautilus",
+      "The Minnow",
+      "The Orca"
+    ],
+    "answer": 2,
+    "fact": "The Orca was named for the one animal a great white steers clear of.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who played the young Vito Corleone in 'The Godfather Part II'?",
+    "choices": [
+      "Robert De Niro",
+      "Al Pacino",
+      "John Cazale"
+    ],
+    "answer": 0,
+    "fact": "De Niro learned Sicilian for the part and won the supporting actor Oscar.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who co-starred with Jack Nicholson in 1974's 'Chinatown'?",
+    "choices": [
+      "Ellen Burstyn",
+      "Faye Dunaway",
+      "Karen Black"
+    ],
+    "answer": 1,
+    "fact": "Dunaway's Evelyn Mulwray was the most elegant thing in 1930s Los Angeles.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Who provided the voice of Darth Vader in 1977's 'Star Wars'?",
+    "choices": [
+      "Peter Cushing",
+      "Alec Guinness",
+      "James Earl Jones"
+    ],
+    "answer": 2,
+    "fact": "David Prowse wore the suit, but that unmistakable voice was James Earl Jones.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "In which 1977 film did Richard Dreyfuss sculpt a mountain from mashed potatoes?",
+    "choices": [
+      "Close Encounters",
+      "Silent Running",
+      "The Andromeda Strain"
+    ],
+    "answer": 0,
+    "fact": "Devils Tower in Wyoming got more visitors than it had seen in its whole history.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which 1978 college comedy starred John Belushi?",
+    "choices": [
+      "Slap Shot",
+      "Animal House",
+      "The Bad News Bears"
+    ],
+    "answer": 1,
+    "fact": "Faber College's Delta House turned toga parties into a nationwide craze.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Which 1970 Disney cartoon featured jazzy alley cats in Paris?",
+    "choices": [
+      "The Fox and the Hound",
+      "Robin Hood",
+      "The Aristocats"
+    ],
+    "answer": 2,
+    "fact": "Duchess and her kittens got street lessons from an alley cat named O'Malley.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "On 'Scooby-Doo', what was the gang's van called?",
+    "choices": [
+      "The Mystery Machine",
+      "The Ghost Chaser",
+      "The Clue Cruiser"
+    ],
+    "answer": 0,
+    "fact": "Flower-power paint, four teenagers and a very hungry Great Dane.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Which Saturday morning shorts taught kids with 'Conjunction Junction'?",
+    "choices": [
+      "Sesame Street",
+      "Schoolhouse Rock",
+      "The Electric Company"
+    ],
+    "answer": 1,
+    "fact": "Three minutes of cartoon and a catchy tune taught a generation its grammar.",
+    "era": "1970s",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Whom did Muhammad Ali beat in the 1974 'Rumble in the Jungle'?",
+    "choices": [
+      "Joe Frazier",
+      "Ken Norton",
+      "George Foreman"
+    ],
+    "answer": 2,
+    "fact": "Ali leaned on the ropes for seven rounds, then astonished the entire world.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Which NFL team finished the 1972 season without a single loss?",
+    "choices": [
+      "Miami Dolphins",
+      "Dallas Cowboys",
+      "Pittsburgh Steelers"
+    ],
+    "answer": 0,
+    "fact": "Seventeen and zero, capped by a Super Bowl win, and nobody has matched it since.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Whom did Billie Jean King beat in the 1973 'Battle of the Sexes'?",
+    "choices": [
+      "Rod Laver",
+      "Bobby Riggs",
+      "Jimmy Connors"
+    ],
+    "answer": 1,
+    "fact": "Thirty thousand people filled the Astrodome, and millions more watched at home.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Herbie the Love Bug was which make of car?",
+    "choices": [
+      "A Fiat",
+      "A Renault",
+      "A Volkswagen Beetle"
+    ],
+    "answer": 2,
+    "fact": "Number 53 in racing stripes had more personality than most of the human cast.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "On CB radio, what did 'smokey' mean?",
+    "choices": [
+      "A highway patrolman",
+      "A truck stop",
+      "A traffic jam"
+    ],
+    "answer": 0,
+    "fact": "The nickname came from those wide-brimmed hats, just like the forest ranger bear.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which product did Mr. Whipple beg shoppers not to squeeze?",
+    "choices": [
+      "Wonder Bread",
+      "Charmin",
+      "Ivory Snow"
+    ],
+    "answer": 1,
+    "fact": "Actor Dick Wilson scolded shoppers for twenty years, then squeezed it himself.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which soft drink advertised itself as 'the Uncola'?",
+    "choices": [
+      "Fresca",
+      "Tab",
+      "7-Up"
+    ],
+    "answer": 2,
+    "fact": "Those psychedelic Uncola posters ended up taped inside half the dorm rooms in America.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Which platform-soled footwear towered over 1970s dance floors?",
+    "choices": [
+      "Platform shoes",
+      "Saddle shoes",
+      "Espadrilles"
+    ],
+    "answer": 0,
+    "fact": "Four inches of cork or wood, and somehow people danced all night in them.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Which feathered, flipped-back hairstyle did Farrah Fawcett make famous?",
+    "choices": [
+      "The pixie",
+      "The feathered wings",
+      "The beehive"
+    ],
+    "answer": 1,
+    "fact": "Millions of women brought that poster to the salon and asked for the wings.",
+    "era": "1970s",
+    "cat": "Fads",
+    "d": 2
+  },
+  {
+    "q": "Who sat beside Johnny Carson on 'The Tonight Show'?",
+    "choices": [
+      "Doc Severinsen",
+      "Fred de Cordova",
+      "Ed McMahon"
+    ],
+    "answer": 2,
+    "fact": "Ed McMahon's booming 'Heeere's Johnny' started the night for millions.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Who played the apprentice witch in Disney's 'Bedknobs and Broomsticks'?",
+    "choices": [
+      "Angela Lansbury",
+      "Julie Andrews",
+      "Glynis Johns"
+    ],
+    "answer": 0,
+    "fact": "Lansbury flew a brass bed to the seaside decades before she solved murders on TV.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "In Disney's 'The Rescuers', what were the two mouse heroes named?",
+    "choices": [
+      "Basil and Olivia",
+      "Bernard and Bianca",
+      "Timothy and Tilly"
+    ],
+    "answer": 1,
+    "fact": "Bob Newhart voiced timid Bernard and Eva Gabor purred as Miss Bianca.",
+    "era": "1970s",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Which NFL team's defense was nicknamed the Steel Curtain?",
+    "choices": [
+      "Minnesota Vikings",
+      "Dallas Cowboys",
+      "Pittsburgh Steelers"
+    ],
+    "answer": 2,
+    "fact": "Pittsburgh's front four turned Sundays into a wall, and won four Super Bowls.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Which college basketball coach retired in 1975 with a tenth national title?",
+    "choices": [
+      "John Wooden",
+      "Dean Smith",
+      "Al McGuire"
+    ],
+    "answer": 0,
+    "fact": "Wooden's UCLA teams won ten championships in twelve years, then he simply stopped.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "How many home runs did Reggie Jackson hit in the final 1977 World Series game?",
+    "choices": [
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 1,
+    "fact": "Three swings, three pitches, three home runs, and the nickname Mr. October stuck.",
+    "era": "1970s",
+    "cat": "Sports",
+    "d": 3
+  },
+  {
+    "q": "Which baseball legend was the television pitchman for Mr. Coffee?",
+    "choices": [
+      "Mickey Mantle",
+      "Yogi Berra",
+      "Joe DiMaggio"
+    ],
+    "answer": 2,
+    "fact": "The Yankee Clipper sold more coffee makers than anyone thought possible.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "'Ring around the collar' was the nagging slogan of which laundry detergent?",
+    "choices": [
+      "Wisk",
+      "Tide",
+      "Cheer"
+    ],
+    "answer": 0,
+    "fact": "Those commercials made a whole country self-conscious about shirt collars.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Which odd, glassy AMC compact car arrived in 1975?",
+    "choices": [
+      "The Gremlin",
+      "The Pacer",
+      "The Hornet"
+    ],
+    "answer": 1,
+    "fact": "Wide as a full-size car and mostly windows, the Pacer looked like a rolling fishbowl.",
+    "era": "1970s",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Who recorded the 1975 instrumental dance hit 'The Hustle'?",
+    "choices": [
+      "Barry White",
+      "Walter Murphy",
+      "Van McCoy"
+    ],
+    "answer": 2,
+    "fact": "Van McCoy's strings and flute sent whole ballrooms into a line, one, two, three.",
+    "era": "1970s",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Farrah Fawcett was married to which television leading man?",
+    "choices": [
+      "Lee Majors",
+      "Robert Wagner",
+      "David Janssen"
+    ],
+    "answer": 0,
+    "fact": "For a while the credits read Farrah Fawcett-Majors, and everybody knew why.",
+    "era": "1970s",
+    "cat": "Stars",
+    "d": 3
+  }
+]

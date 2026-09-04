@@ -1,7 +1,7 @@
 /* Caches everything on the first visit so the games keep working with no
    internet. Bump CACHE when you change any file. */
 
-const CACHE = 'grandma-games-v1';
+const CACHE = 'grandma-games-v2';
 
 const FILES = [
   './',
@@ -11,10 +11,10 @@ const FILES = [
   'js/config.js',
   'js/app.js',
   'js/games.js',
-  'data/trivia-4050.json',
-  'data/trivia-6070.json',
+  'data/trivia.json',
   'data/lines.json',
   'data/remember.json',
+  'data/decades.json',
   'icons/icon-192.png',
   'icons/icon-512.png'
 ];
@@ -49,7 +49,9 @@ self.addEventListener('fetch', (e) => {
   e.respondWith((async () => {
     const cached = caches.match(e.request);
 
-    const fromNetwork = fetch(e.request).then((res) => {
+    /* Revalidate with the server rather than trusting the browser's HTTP
+       cache, so a freshly pushed question bank shows up on the next launch. */
+    const fromNetwork = fetch(e.request.url, { cache: 'no-cache', credentials: 'same-origin' }).then((res) => {
       if (res && res.ok) {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
