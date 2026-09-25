@@ -46,9 +46,9 @@ const CONFIG = {
     'You know your stuff!'
   ],
 
-  /* The four games. Every question bank is a JSON array of
-     { q, choices, answer, fact, cat, d } where d is the difficulty 1–3.
-     A game may supply fixedChoices instead of per-question choices. */
+  /* Every question bank is a JSON array of { q, choices, answer, fact, cat, d }
+     where d is the difficulty 1–3. A game may supply fixedChoices instead of
+     per-question choices. The word game's items are { q, a, fact, cat, d }. */
   games: {
     trivia:   { title: 'Trivia Time',     shuffleChoices: true,
                 files: ['data/trivia.json'] },
@@ -60,16 +60,24 @@ const CONFIG = {
                 files: ['data/remember.json'] },
     decades:  { title: 'Which Decade?',   shuffleChoices: false,
                 fixedChoices: ['1940s', '1950s', '1960s', '1970s'],
-                files: ['data/decades.json'] }
+                files: ['data/decades.json'] },
+    crossword: { title: 'Crossword Clues', type: 'word',
+                files: ['data/crossword.json'] }
   },
 
   /* Difficulty levels. Each level draws questions from the tiers in these
-     proportions; a tier with weight 0 is never shown at that level. */
+     proportions; a tier with weight 0 is never shown at that level.
+     For the crossword: `given` is how many letters of an n-letter answer start
+     filled in (the first letter is always among them), and `decoys` is how
+     many extra letters are mixed into the tiles. */
   levels: [
     null,
-    { name: 'Easy',   weights: { 1: 0.85, 2: 0.15, 3: 0    } },
-    { name: 'Medium', weights: { 1: 0.20, 2: 0.55, 3: 0.25 } },
-    { name: 'Hard',   weights: { 1: 0,    2: 0.35, 3: 0.65 } }
+    { name: 'Easy',   weights: { 1: 0.85, 2: 0.15, 3: 0    },
+      word: { given: (n) => Math.max(1, Math.round(n / 3)), decoys: 0 } },
+    { name: 'Medium', weights: { 1: 0.20, 2: 0.55, 3: 0.25 },
+      word: { given: () => 1, decoys: 2 } },
+    { name: 'Hard',   weights: { 1: 0,    2: 0.35, 3: 0.65 },
+      word: { given: () => 0, decoys: 4 } }
   ],
   DEFAULT_LEVEL: 2,
 

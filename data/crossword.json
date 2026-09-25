@@ -1,0 +1,2235 @@
+[
+  {
+    "q": "Desi's role on 'I Love Lucy'",
+    "a": "RICKY",
+    "fact": "Ricky Ricardo led the band at the Tropicana, and 'Babalu' was his showstopper.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Singer Fitzgerald",
+    "a": "ELLA",
+    "fact": "Called the First Lady of Song, she could scat circles around anybody.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Bob of the 'Road' pictures",
+    "a": "HOPE",
+    "fact": "He and Bing made seven 'Road' pictures, usually with Dorothy Lamour along.",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Crosby of 'White Christmas'",
+    "a": "BING",
+    "fact": "His 'White Christmas' became one of the best-selling singles of all time.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Elvis's 'Hound ___'",
+    "a": "DOG",
+    "fact": "'Hound Dog' was first a hit for Big Mama Thornton before Elvis made it his in 1956.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Disney's flying elephant",
+    "a": "DUMBO",
+    "fact": "Dumbo's giant ears turned out to be his greatest gift. Disney's 1941 charmer.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Hula ___ (1958 craze)",
+    "a": "HOOP",
+    "fact": "Millions of plastic hoops were sold in just a few months. Everybody was swiveling!",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Ford's famous flop of 1958",
+    "a": "EDSEL",
+    "fact": "It was named for Henry Ford's son Edsel, and it's now a prized collector's car.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Kramden of 'The Honeymooners'",
+    "a": "RALPH",
+    "fact": "Jackie Gleason's bus driver was always one scheme away from striking it rich.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Brando's anguished 'Streetcar' cry",
+    "a": "STELLA",
+    "fact": "Brando's T-shirt and that bellow made 'A Streetcar Named Desire' legendary.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Sinatra, Ol' Blue ___",
+    "a": "EYES",
+    "fact": "Frank also answered to 'The Voice' and, to the bobby-soxers, simply 'Frankie.'",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Howdy ___",
+    "a": "DOODY",
+    "fact": "Buffalo Bob Smith and the freckle-faced puppet delighted the Peanut Gallery.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Radio's 'The ___ Ranger'",
+    "a": "LONE",
+    "fact": "The William Tell Overture meant it was time to gather round the radio.",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Lone Ranger's faithful companion",
+    "a": "TONTO",
+    "fact": "He called the Ranger 'Kemo Sabe,' and Jay Silverheels played him on TV.",
+    "cat": "Radio",
+    "d": 1
+  },
+  {
+    "q": "Superman's alter ego Clark",
+    "a": "KENT",
+    "fact": "George Reeves wore the glasses and the cape on TV starting in 1952.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Say Hey Kid Willie",
+    "a": "MAYS",
+    "fact": "His over-the-shoulder catch in the 1954 World Series is still a marvel.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Yankee catcher Yogi",
+    "a": "BERRA",
+    "fact": "He won ten World Series rings, more than any other player in history.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Jackie who broke baseball's color line in 1947",
+    "a": "ROBINSON",
+    "fact": "He was the very first Rookie of the Year, and he stole home with style.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Mr. ___ Head (1952 toy)",
+    "a": "POTATO",
+    "fact": "At first kids stuck the plastic parts into a real potato from the kitchen!",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Silly ___ (1950 toy)",
+    "a": "PUTTY",
+    "fact": "It bounced, stretched, and lifted the comics right off the Sunday paper.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Swanson's frozen TV ___",
+    "a": "DINNER",
+    "fact": "The 1953 box was dressed up like a TV set, with turkey and all the trimmings inside.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Hitchcock's 'Rear ___'",
+    "a": "WINDOW",
+    "fact": "Jimmy Stewart, laid up with a broken leg, spies on his neighbors with Grace Kelly.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Some Like It ___'",
+    "a": "HOT",
+    "fact": "Jack Lemmon and Tony Curtis in dresses, and Marilyn with a ukulele. 1959 bliss.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'All About ___'",
+    "a": "EVE",
+    "fact": "The 1950 film earned 14 Oscar nominations, a record that stood for decades.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Rebel Without a ___'",
+    "a": "CAUSE",
+    "fact": "James Dean's red jacket from the 1955 film became a symbol of a generation.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Doris of 'Pillow Talk'",
+    "a": "DAY",
+    "fact": "She and Rock Hudson shared a party line in the 1959 comedy that won an Oscar.",
+    "cat": "Stars",
+    "d": 1
+  },
+  {
+    "q": "Broadway's 'Guys and ___'",
+    "a": "DOLLS",
+    "fact": "Sky Masterson, Nathan Detroit, and Miss Adelaide lit up Broadway in 1950.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Casablanca' pianist",
+    "a": "SAM",
+    "fact": "Dooley Wilson played Sam, who famously plays 'As Time Goes By.'",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Charlie Brown's beagle",
+    "a": "SNOOPY",
+    "fact": "Snoopy arrived in the very first week of 'Peanuts' in October 1950.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Dagwood's wife",
+    "a": "BLONDIE",
+    "fact": "Dagwood's towering sandwiches made his name part of the language.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Ed ___, Ralph's sewer-working pal",
+    "a": "NORTON",
+    "fact": "Art Carney won several Emmys as the happy-go-lucky Norton.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Lucy's neighbor Ethel",
+    "a": "MERTZ",
+    "fact": "Ethel and Fred Mertz were also the Ricardos' landlords.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Desi of 'I Love Lucy'",
+    "a": "ARNAZ",
+    "fact": "Desi and Lucy founded Desilu, which pioneered filming TV with three cameras.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Fibber McGee's better half",
+    "a": "MOLLY",
+    "fact": "Her catchphrase, 'Tain't funny, McGee,' kept Fibber in line for years.",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Fibber McGee's avalanche spot",
+    "a": "CLOSET",
+    "fact": "Every time he opened it, the sound-effects man let loose a glorious crash.",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Edgar who spoke for Charlie McCarthy",
+    "a": "BERGEN",
+    "fact": "A ventriloquist on radio, of all places, and America adored it.",
+    "cat": "Radio",
+    "d": 2
+  },
+  {
+    "q": "Bandleader Shaw",
+    "a": "ARTIE",
+    "fact": "His clarinet made 'Begin the Beguine' one of the swing era's biggest hits.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Tennessee Ernie Ford's 'Sixteen ___'",
+    "a": "TONS",
+    "fact": "His 1955 recording of the coal miner's song sold millions in a flash.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Buddy Holly's 'Peggy ___'",
+    "a": "SUE",
+    "fact": "The song was named for drummer Jerry Allison's girlfriend, Peggy Sue.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Chuck Berry's 'Johnny B. ___'",
+    "a": "GOODE",
+    "fact": "Its guitar intro is one of the most famous in all of rock and roll.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Everly Brothers' 'Wake Up Little ___'",
+    "a": "SUSIE",
+    "fact": "Don and Phil's sweet harmonies took the 1957 song straight to No. 1.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "The Platters' 'The Great ___'",
+    "a": "PRETENDER",
+    "fact": "Tony Williams sang lead on the 1955 hit, which topped both pop and R&B charts.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Carmen of the fruit-topped hats",
+    "a": "MIRANDA",
+    "fact": "The Brazilian Bombshell was once Hollywood's highest-paid woman.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Pinup queen Betty",
+    "a": "GRABLE",
+    "fact": "Her famous legs were reportedly insured by the studio for a million dollars.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Rita of 'Gilda'",
+    "a": "HAYWORTH",
+    "fact": "Her glove-peeling number in 'Gilda' made her Hollywood's love goddess.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Kim of 'Vertigo'",
+    "a": "NOVAK",
+    "fact": "She played two roles in Hitchcock's dizzying 1958 mystery.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "'___, come back!' (1953 western cry)",
+    "a": "SHANE",
+    "fact": "Young Brandon deWilde calls after Alan Ladd as he rides off into the hills.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Kris ___ of 'Miracle on 34th Street'",
+    "a": "KRINGLE",
+    "fact": "Edmund Gwenn won an Oscar for playing Macy's very own Santa in 1947.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Jimmy Stewart's invisible pal Harvey, e.g.",
+    "a": "RABBIT",
+    "fact": "Harvey stood six feet, three and a half inches tall, according to Elwood.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Cagney's Oscar-winning George M. ___",
+    "a": "COHAN",
+    "fact": "Cagney sang and danced his way to the Oscar in 'Yankee Doodle Dandy.'",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Danny Kaye's daydreaming Walter",
+    "a": "MITTY",
+    "fact": "His 'Secret Life' was full of heroic fantasies, all in glorious Technicolor.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Esther of the aqua-musicals",
+    "a": "WILLIAMS",
+    "fact": "MGM built her a special swimming pool on the lot for those splashy numbers.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "Ethel of 'Annie Get Your Gun'",
+    "a": "MERMAN",
+    "fact": "No microphone needed. Her voice could reach the back row of any theater.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Yul of 'The King and I'",
+    "a": "BRYNNER",
+    "fact": "He played the King of Siam thousands of times on stage and won an Oscar too.",
+    "cat": "Stars",
+    "d": 2
+  },
+  {
+    "q": "'Gunsmoke' marshal Matt",
+    "a": "DILLON",
+    "fact": "James Arness kept the peace in Dodge City for twenty TV seasons.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Hugh O'Brian's TV lawman Wyatt",
+    "a": "EARP",
+    "fact": "'The Life and Legend of Wyatt Earp' made O'Brian a household name in 1955.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Stan the Man of the Cardinals",
+    "a": "MUSIAL",
+    "fact": "He finished with exactly 1,815 hits at home and 1,815 on the road.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Brooklyn's beloved 'Bums'",
+    "a": "DODGERS",
+    "fact": "In 1955 the Dodgers finally beat the Yankees. Next year had come at last!",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Chevy's 1953 sports car",
+    "a": "CORVETTE",
+    "fact": "The first 300 Corvettes were all Polo White with red interiors.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Dior's 1947 'New ___'",
+    "a": "LOOK",
+    "fact": "Nipped waists and full, swirling skirts swept the fashion world.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "Kyser of the Kollege of Musical Knowledge",
+    "a": "KAY",
+    "fact": "The 'Ol' Professor' wore a cap and gown and quizzed his radio audience.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Durante's 'Good night, Mrs. ___'",
+    "a": "CALABASH",
+    "fact": "He added 'wherever you are,' and nobody ever quite knew who she was.",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "Jack Benny's wheezing wheels",
+    "a": "MAXWELL",
+    "fact": "Mel Blanc supplied the sputtering engine noises for Benny's old jalopy.",
+    "cat": "Radio",
+    "d": 3
+  },
+  {
+    "q": "Guy Lombardo's Royal ___",
+    "a": "CANADIANS",
+    "fact": "Their 'Auld Lang Syne' rang in the New Year for decades.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Spike Jones and His City ___",
+    "a": "SLICKERS",
+    "fact": "Cowbells, pistol pops, and slide whistles: no song survived them intact.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Rhumba king Xavier",
+    "a": "CUGAT",
+    "fact": "He often led his orchestra with a Chihuahua tucked in his arm.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Prado's 'Cherry Pink and Apple Blossom ___'",
+    "a": "WHITE",
+    "fact": "The mambo king's trumpet-led version spent ten weeks at No. 1 in 1955.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "'Damn Yankees' temptress",
+    "a": "LOLA",
+    "fact": "Gwen Verdon won a Tony as the devil's helper who always gets what she wants.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Eve of 'Our Miss Brooks'",
+    "a": "ARDEN",
+    "fact": "Her wisecracking English teacher moved from radio to TV in 1952.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Vivian who played Ethel",
+    "a": "VANCE",
+    "fact": "She won the very first Emmy ever given for Best Supporting Actress.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "William who played Fred Mertz",
+    "a": "FRAWLEY",
+    "fact": "A vaudeville veteran, he had already made over 100 films before Lucy.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Audrey who played Alice Kramden",
+    "a": "MEADOWS",
+    "fact": "Her cool comebacks to Ralph's bluster won her an Emmy in 1955.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Gene Autry's four-legged co-star",
+    "a": "CHAMPION",
+    "fact": "Billed as the World's Wonder Horse, he even had his own TV series.",
+    "cat": "Stars",
+    "d": 3
+  },
+  {
+    "q": "Hula Hoop and Frisbee maker",
+    "a": "WHAMO",
+    "fact": "The California company named itself for the sound of its slingshot.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Poodle skirt material, or sensed",
+    "a": "FELT",
+    "fact": "Felt was stiff enough to make those circle skirts twirl just right.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Reddy ___, lightning-bolt mascot",
+    "a": "KILOWATT",
+    "fact": "With a light-bulb nose, he was the friendly face of the electric company.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Tracy-Hepburn's 'Pat and ___'",
+    "a": "MIKE",
+    "fact": "Hepburn played a gifted athlete and did her own golf and tennis.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Zuzu's ___ ('It's a Wonderful Life')",
+    "a": "PETALS",
+    "fact": "George finds them in his pocket and knows he's truly home.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "J. Fred ___, 'Today' show chimp",
+    "a": "MUGGS",
+    "fact": "The little chimp joined Dave Garroway in 1953, and the show's ratings soared.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Cyd who danced with Kelly in 'Singin' in the Rain'",
+    "a": "CHARISSE",
+    "fact": "Her legs and that green dress stole the 'Broadway Melody' ballet.",
+    "cat": "Movies",
+    "d": 3
+  },
+  {
+    "q": "Fab Four drummer Ringo",
+    "a": "STARR",
+    "fact": "Ringo replaced drummer Pete Best in the Beatles in 1962.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Queen of Soul Franklin",
+    "a": "ARETHA",
+    "fact": "Her 'Respect,' written by Otis Redding, hit No. 1 in 1967.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Sonny's singing partner",
+    "a": "CHER",
+    "fact": "'I Got You Babe' was a No. 1 hit for the couple in 1965.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Happy Days' cool guy in a leather jacket",
+    "a": "FONZIE",
+    "fact": "Henry Winkler's leather jacket now hangs in the Smithsonian.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Archie Bunker's wife",
+    "a": "EDITH",
+    "fact": "Jean Stapleton won three Emmys for playing Archie's sweet-natured wife.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Queens loudmouth Bunker",
+    "a": "ARCHIE",
+    "fact": "Archie's armchair from 'All in the Family' is now in the Smithsonian.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mayberry sheriff Taylor",
+    "a": "ANDY",
+    "fact": "'The Andy Griffith Show' was TV's No. 1 show in its final season, 1967-68.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mayberry boy played by Ron Howard",
+    "a": "OPIE",
+    "fact": "Ron Howard later played Richie Cunningham on 'Happy Days.'",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Moonwalker Armstrong",
+    "a": "NEIL",
+    "fact": "Apollo 11 landed on the moon on July 20, 1969.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Supreme Miss Ross",
+    "a": "DIANA",
+    "fact": "With Diana out front, the Supremes scored 12 No. 1 pop hits.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Muhammad of the ring",
+    "a": "ALI",
+    "fact": "As Cassius Clay, he won Olympic boxing gold in Rome in 1960.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Kermit's porcine sweetheart, Miss ___",
+    "a": "PIGGY",
+    "fact": "Frank Oz, the voice of Fozzie Bear, also performed Miss Piggy.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "'Sesame Street' grouch",
+    "a": "OSCAR",
+    "fact": "In the show's first season, 1969, Oscar was orange, not green.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Bert's 'Sesame Street' roommate",
+    "a": "ERNIE",
+    "fact": "Jim Henson himself performed Ernie, rubber duckie and all.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mary Richards's gruff boss Lou",
+    "a": "GRANT",
+    "fact": "Ed Asner's Lou Grant got his own newspaper drama in 1977.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "'The Brady Bunch' housekeeper",
+    "a": "ALICE",
+    "fact": "Ann B. Davis had already won two Emmys on 'The Bob Cummings Show.'",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Barbie's beau",
+    "a": "KEN",
+    "fact": "Ken debuted in 1961, named for the son of Barbie creator Ruth Handler.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Broadway Joe Namath's team",
+    "a": "JETS",
+    "fact": "Namath guaranteed a win in Super Bowl III in 1969, then delivered.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Pelé's game, to Americans",
+    "a": "SOCCER",
+    "fact": "Pelé joined the New York Cosmos in 1975 and filled stadiums.",
+    "cat": "Sports",
+    "d": 1
+  },
+  {
+    "q": "Pointy-eared 'Star Trek' officer",
+    "a": "SPOCK",
+    "fact": "Leonard Nimoy based the Vulcan salute on a hand gesture from a Jewish blessing.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "'I Dream of Jeannie' star Barbara",
+    "a": "EDEN",
+    "fact": "Her co-star Larry Hagman later became J.R. Ewing on 'Dallas.'",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mood ___ (1975 fad)",
+    "a": "RING",
+    "fact": "Its stone changed color with the warmth of the wearer's finger.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Lava ___ (groovy '60s decor)",
+    "a": "LAMP",
+    "fact": "British inventor Edward Craven Walker introduced the bubbling lamp in 1963.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Stallone's Philadelphia boxer",
+    "a": "ROCKY",
+    "fact": "Stallone wrote the script himself, and the film won Best Picture for 1976.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Star Wars' hero Skywalker",
+    "a": "LUKE",
+    "fact": "In George Lucas's early drafts, the hero was named Luke Starkiller.",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "'Jaws' menace",
+    "a": "SHARK",
+    "fact": "The film crew nicknamed the mechanical shark 'Bruce.'",
+    "cat": "Movies",
+    "d": 1
+  },
+  {
+    "q": "Beatle who wrote 'Yesterday'",
+    "a": "PAUL",
+    "fact": "Before the lyrics came, the tune's working title was 'Scrambled Eggs.'",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "'Wonder Woman' star Lynda",
+    "a": "CARTER",
+    "fact": "Before the golden lasso, she was crowned Miss World America in 1972.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Batman's Boy Wonder",
+    "a": "ROBIN",
+    "fact": "Burt Ward played him on TV's 'Batman' from 1966 to 1968.",
+    "cat": "TV",
+    "d": 1
+  },
+  {
+    "q": "Mod model with a pixie cut",
+    "a": "TWIGGY",
+    "fact": "The London teen's real name was Lesley Hornby.",
+    "cat": "Life",
+    "d": 1
+  },
+  {
+    "q": "Mayberry's deputy Barney",
+    "a": "FIFE",
+    "fact": "Don Knotts won five Emmys for playing the jittery deputy.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Carson's 'Heeere's Johnny!' man Ed",
+    "a": "MCMAHON",
+    "fact": "He sat beside Johnny on 'The Tonight Show' for 30 years.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'Bridge Over Troubled Water' writer Paul",
+    "a": "SIMON",
+    "fact": "The song won Record and Song of the Year at the Grammys for 1970.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Laugh-In' co-host Dan",
+    "a": "ROWAN",
+    "fact": "'Rowan & Martin's Laugh-In' was TV's top-rated show in 1968-69 and 1969-70.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Radar's surname on 'M*A*S*H'",
+    "a": "OREILLY",
+    "fact": "Corporal Radar could hear the choppers coming before anyone else.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Klinger's hometown on 'M*A*S*H'",
+    "a": "TOLEDO",
+    "fact": "Jamie Farr, who played Klinger, really hails from Toledo, Ohio.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Brady who moaned 'Marcia, Marcia, Marcia!'",
+    "a": "JAN",
+    "fact": "Eve Plumb played Jan, the middle Brady girl.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Carol Burnett's second banana Harvey",
+    "a": "KORMAN",
+    "fact": "Tim Conway's ad-libs often made him crack up right on the air.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Castaway millionaire Thurston ___ III",
+    "a": "HOWELL",
+    "fact": "Jim Backus, who played him, was also the voice of Mr. Magoo.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Pig on 'Green Acres'",
+    "a": "ARNOLD",
+    "fact": "Arnold Ziffel watched TV and was treated like the Ziffels' own son.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Samantha's meddling mother on 'Bewitched'",
+    "a": "ENDORA",
+    "fact": "Endora never could get son-in-law Darrin's name right.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'You rang?' butler on 'The Addams Family'",
+    "a": "LURCH",
+    "fact": "Ted Cassidy, who played the towering butler, stood about 6 feet 9.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Gladys Knight's backup singers",
+    "a": "PIPS",
+    "fact": "The Pips included her brother Bubba and several cousins.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Stayin' Alive' brothers",
+    "a": "BEEGEES",
+    "fact": "Barry, Robin and Maurice Gibb grew up partly in Australia.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Saturday Night Fever' star John",
+    "a": "TRAVOLTA",
+    "fact": "He was already Vinnie Barbarino on 'Welcome Back, Kotter.'",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "'Crazy' singer Patsy",
+    "a": "CLINE",
+    "fact": "A young songwriter named Willie Nelson wrote 'Crazy' for her.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Coal Miner's Daughter' singer Loretta",
+    "a": "LYNN",
+    "fact": "Sissy Spacek won an Oscar playing her in the 1980 film.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "'Jolene' singer Dolly",
+    "a": "PARTON",
+    "fact": "Her song 'Coat of Many Colors' recalls a coat her mother sewed from rags.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Peter, Paul and ___",
+    "a": "MARY",
+    "fact": "Their 'Leaving on a Jet Plane,' written by John Denver, hit No. 1 in 1969.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Ed Sullivan's mouse pal ___ Gigio",
+    "a": "TOPO",
+    "fact": "The little Italian mouse often begged, 'Eddie, kiss me goodnight!'",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'Let's Make a Deal' host Monty",
+    "a": "HALL",
+    "fact": "Contestants wore wild costumes hoping Monty would pick them.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'The Price Is Right' host Bob",
+    "a": "BARKER",
+    "fact": "He hosted the show for 35 years, from 1972 to 2007.",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "'Hollywood Squares' center square Paul",
+    "a": "LYNDE",
+    "fact": "He also played Samantha's prankster Uncle Arthur on 'Bewitched.'",
+    "cat": "TV",
+    "d": 2
+  },
+  {
+    "q": "Ford pony car launched in 1964",
+    "a": "MUSTANG",
+    "fact": "Ford sold roughly 400,000 Mustangs in its first year.",
+    "cat": "Life",
+    "d": 2
+  },
+  {
+    "q": "'The Love Bug' Beetle",
+    "a": "HERBIE",
+    "fact": "Disney's 1968 hero car wore racing number 53.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Dick Van Dyke's 'Mary Poppins' sweep",
+    "a": "BERT",
+    "fact": "Van Dyke also played the creaky old bank chairman in the film.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Bear in Disney's 'The Jungle Book'",
+    "a": "BALOO",
+    "fact": "Bandleader Phil Harris gave Baloo his easygoing voice in 1967.",
+    "cat": "Movies",
+    "d": 2
+  },
+  {
+    "q": "Skater Fleming of 1968 Olympic gold",
+    "a": "PEGGY",
+    "fact": "Hers was the only U.S. gold medal at the 1968 Grenoble Winter Games.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Perfect-10 gymnast Comaneci",
+    "a": "NADIA",
+    "fact": "In 1976 the scoreboard could only show '1.00' for her perfect 10.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Hammerin' Hank",
+    "a": "AARON",
+    "fact": "He hit home run No. 715 on April 8, 1974, passing Babe Ruth.",
+    "cat": "Sports",
+    "d": 2
+  },
+  {
+    "q": "Simon's longtime partner, Art",
+    "a": "GARFUNKEL",
+    "fact": "As teenagers in Queens, the pair recorded as 'Tom & Jerry.'",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "The Skipper's surname on 'Gilligan's Island'",
+    "a": "GRUMBY",
+    "fact": "Alan Hale Jr.'s father played Little John opposite Errol Flynn's Robin Hood.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Fonzie's given name",
+    "a": "ARTHUR",
+    "fact": "Arthur Fonzarelli could start a jukebox with one thump of his fist.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Mary's upstairs pal Morgenstern",
+    "a": "RHODA",
+    "fact": "Rhoda's 1974 TV wedding was one of the most-watched episodes of the decade.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Spock's Vulcan father",
+    "a": "SAREK",
+    "fact": "Mark Lenard, who played Sarek, had earlier played a Romulan commander on the show.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Aunt Bee's surname",
+    "a": "TAYLOR",
+    "fact": "Frances Bavier won an Emmy in 1967 for playing Mayberry's Aunt Bee.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Archie's pet name for Edith",
+    "a": "DINGBAT",
+    "fact": "Archie grumbled it often, but Edith usually had the last laugh.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Monkee in the wool hat",
+    "a": "NESMITH",
+    "fact": "Mike Nesmith's mother invented Liquid Paper.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Middle Cartwright son on 'Bonanza'",
+    "a": "HOSS",
+    "fact": "Dan Blocker's gentle giant Hoss was really named Eric.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Whom Carol Burnett's ear tug greeted",
+    "a": "GRANDMA",
+    "fact": "Carol was raised by her grandmother, and the tug was their secret hello.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "'Laugh-In' 'Sock it to me' girl Judy",
+    "a": "CARNE",
+    "fact": "Saying the famous line usually got her doused with water or dropped through a trapdoor.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Creator of Ernestine the phone operator",
+    "a": "TOMLIN",
+    "fact": "Lily Tomlin also played five-year-old Edith Ann in a giant rocking chair.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Supreme Mary who stayed until 1977",
+    "a": "WILSON",
+    "fact": "She sang with the Supremes from their earliest days through 1977.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Banker Drysdale's loyal Miss Jane",
+    "a": "HATHAWAY",
+    "fact": "Nancy Kulp played the bird-watching secretary on 'The Beverly Hillbillies.'",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "'The Dating Game' host Jim",
+    "a": "LANGE",
+    "fact": "Jim Lange ended each show by blowing a kiss to the audience.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Original 'Jeopardy!' host Art",
+    "a": "FLEMING",
+    "fact": "He hosted the original daytime 'Jeopardy!' from 1964 to 1975.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Joe Friday's partner in 1967's 'Dragnet'",
+    "a": "GANNON",
+    "fact": "Harry Morgan, who played Bill Gannon, later became Col. Potter on 'M*A*S*H.'",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Apollo 11 astronaut who stayed in lunar orbit",
+    "a": "COLLINS",
+    "fact": "Michael Collins circled the moon alone in the command module Columbia.",
+    "cat": "Life",
+    "d": 3
+  },
+  {
+    "q": "Rob of 'The Dick Van Dyke Show'",
+    "a": "PETRIE",
+    "fact": "Mary Tyler Moore played Rob's wife, Laura, in her famous capri pants.",
+    "cat": "TV",
+    "d": 3
+  },
+  {
+    "q": "Opposite of flow",
+    "a": "EBB",
+    "fact": "The tide goes out twice a day, and crossword makers have loved this little word for generations.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Frozen water",
+    "a": "ICE",
+    "fact": "Water is unusual: it expands as it freezes, which is why ice floats.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Cookie with a creamy middle",
+    "a": "OREO",
+    "fact": "First baked in 1912, it is one of the most popular cookies ever made.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Plant with a soothing gel",
+    "a": "ALOE",
+    "fact": "Aloe gel has been dabbed on burns and scrapes since ancient Egypt.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Big flightless Aussie bird",
+    "a": "EMU",
+    "fact": "Emus can't fly, but they can run about 30 miles an hour.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Poem of praise",
+    "a": "ODE",
+    "fact": "Keats wrote famous odes to a nightingale and to a Grecian urn.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Not on time",
+    "a": "LATE",
+    "fact": "The word comes from an Old English root meaning slow.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Not closed",
+    "a": "OPEN",
+    "fact": "Shops hang this sign in the window, then flip it over at closing time.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Oak nut",
+    "a": "ACORN",
+    "fact": "A single oak can drop thousands of acorns in a good year.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Bee's home",
+    "a": "HIVE",
+    "fact": "A busy hive can house tens of thousands of honeybees.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Where the sun rises",
+    "a": "EAST",
+    "fact": "Churches were long built facing east, toward the sunrise.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Young dog",
+    "a": "PUPPY",
+    "fact": "Puppies are born with their eyes closed and open them at about two weeks.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "One a day keeps the doctor away",
+    "a": "APPLE",
+    "fact": "The saying began in Wales in the 1860s as 'eat an apple on going to bed.'",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Sweet stuff made by bees",
+    "a": "HONEY",
+    "fact": "Sealed honey keeps almost forever; jars found in Egyptian tombs were still good.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Place to bake bread",
+    "a": "OVEN",
+    "fact": "Before home ovens, many villages shared one big communal bread oven.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Capital of Italy",
+    "a": "ROME",
+    "fact": "Legend says Rome was founded by twin brothers raised by a wolf.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Morning moisture on the grass",
+    "a": "DEW",
+    "fact": "Dew forms when cool night air can't hold all of its moisture.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Lake near Buffalo",
+    "a": "ERIE",
+    "fact": "The shallowest of the Great Lakes, and a crossword regular for decades.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Earl Grey, for one",
+    "a": "TEA",
+    "fact": "Earl Grey gets its citrus scent from oil of bergamot orange.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Grain in a bowl of porridge",
+    "a": "OATS",
+    "fact": "Scots have eaten oat porridge for centuries, often with just a pinch of salt.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Toy that goes up and down on a string",
+    "a": "YOYO",
+    "fact": "Yo-yos date back to ancient Greece, where they were made of clay or wood.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Our home planet",
+    "a": "EARTH",
+    "fact": "Earth is the only planet not named after a Greek or Roman god.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Christmas tree choice",
+    "a": "FIR",
+    "fact": "Fir needles are soft and flat, and they cling to the branch for weeks.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Brand-___",
+    "a": "NEW",
+    "fact": "'Brand-new' first meant fresh from the fire, like metal just forged.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Largest continent",
+    "a": "ASIA",
+    "fact": "Asia holds about 60 percent of all the people on Earth.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "River through Egypt",
+    "a": "NILE",
+    "fact": "The Nile flows north, emptying into the Mediterranean Sea.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Female sheep",
+    "a": "EWE",
+    "fact": "Pronounced just like 'you,' it's one of crosswords' most faithful friends.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Hawaiian flower necklace",
+    "a": "LEI",
+    "fact": "Leis are given as a welcome, and it's polite never to refuse one.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Hen's product",
+    "a": "EGG",
+    "fact": "A good laying hen can produce nearly an egg a day.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Garden tool for weeding",
+    "a": "HOE",
+    "fact": "The hoe is one of the oldest farm tools, older than the plow.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Sailor's 'yes'",
+    "a": "AYE",
+    "fact": "Parliament still votes with 'the ayes' and 'the noes.'",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Out on the waves",
+    "a": "ASEA",
+    "fact": "An old word for sailing, and a crossword favorite thanks to its handy vowels.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Hodgepodge; also a Spanish stew",
+    "a": "OLIO",
+    "fact": "From the Spanish 'olla,' a clay pot of stew with a bit of everything in it.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Mesozoic ___",
+    "a": "ERA",
+    "fact": "The Mesozoic, the age of dinosaurs, lasted about 186 million years.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Sacred bird of ancient Egypt",
+    "a": "IBIS",
+    "fact": "The god Thoth, patron of writing, was often shown with an ibis's head.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Great ___ from little acorns grow",
+    "a": "OAKS",
+    "fact": "The proverb dates back at least to the 1300s, in Chaucer's time.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "'Or ___!'",
+    "a": "ELSE",
+    "fact": "A two-word threat every child learns to take seriously.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "'___ go bragh'",
+    "a": "ERIN",
+    "fact": "The phrase means 'Ireland forever' and appears on many a St. Patrick's banner.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Egg-shaped",
+    "a": "OVAL",
+    "fact": "From the Latin 'ovum,' meaning egg.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Slippery, snakelike fish",
+    "a": "EEL",
+    "fact": "Atlantic eels travel thousands of miles to the Sargasso Sea to spawn.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Soft French cheese",
+    "a": "BRIE",
+    "fact": "Brie was crowned 'king of cheeses' at a Vienna gathering of diplomats in 1815.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Line of stitches",
+    "a": "SEAM",
+    "fact": "A good tailor leaves extra fabric in a seam so it can be let out later.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Greek letter; a tiny bit",
+    "a": "IOTA",
+    "fact": "Iota is the smallest Greek letter, so it came to mean the least little bit.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Rowboat need",
+    "a": "OAR",
+    "fact": "Oxford and Cambridge have raced with oars on the Thames since 1829.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Sheet of floating sea ice",
+    "a": "FLOE",
+    "fact": "A floe can be as small as a raft or wider than a city.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Actor's signal",
+    "a": "CUE",
+    "fact": "Possibly from the letter Q, once written in scripts to mark an entrance.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Opera solo",
+    "a": "ARIA",
+    "fact": "Italian for 'air,' as in a melody carried on the breath.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Bullfight cheer",
+    "a": "OLE",
+    "fact": "Heard in bullrings and flamenco halls, and in crossword grids everywhere.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Dragon's den",
+    "a": "LAIR",
+    "fact": "From an Old English word for a bed or resting place.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Duck prized for its down",
+    "a": "EIDER",
+    "fact": "Eiderdown is gathered from the nest after the ducklings leave.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Building wing at a right angle",
+    "a": "ELL",
+    "fact": "Named because the wing forms an L with the main house.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Cozy corner",
+    "a": "NOOK",
+    "fact": "A breakfast nook is the perfect spot for the morning puzzle.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Fish eggs",
+    "a": "ROE",
+    "fact": "Caviar is the salted roe of the sturgeon.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Cash register drawer",
+    "a": "TILL",
+    "fact": "A shopkeeper's till was once a simple box kept under the counter.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Sicilian volcano",
+    "a": "ETNA",
+    "fact": "Etna is Europe's tallest active volcano and nearly always rumbling a little.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Red-waxed Dutch cheese",
+    "a": "EDAM",
+    "fact": "Named for a small harbor town north of Amsterdam.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Norway's capital",
+    "a": "OSLO",
+    "fact": "Oslo was called Christiania for about 300 years, until 1925.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Desert watering hole",
+    "a": "OASIS",
+    "fact": "Oases have been resting stops for camel caravans for thousands of years.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Lowest choir voice",
+    "a": "BASS",
+    "fact": "Spelled like the fish but rhymes with 'face.'",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Prong of a fork",
+    "a": "TINE",
+    "fact": "Early table forks had only two tines; four became standard later.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "It's found in a pod",
+    "a": "PEA",
+    "fact": "Gregor Mendel worked out the basic rules of heredity by growing pea plants.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Letter opener?",
+    "a": "DEAR",
+    "fact": "'Dear' has opened letters since the 1400s, even when writing to a stranger.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "It has a head and a foot but no body",
+    "a": "BED",
+    "fact": "An old riddle, and a fair one: the headboard at one end, the footboard at the other.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "It has keys but opens no doors",
+    "a": "PIANO",
+    "fact": "Short for 'pianoforte,' Italian for soft-loud, since it can play both.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Home for a pupil?",
+    "a": "EYE",
+    "fact": "The pupil is named from Latin 'pupilla,' little doll, for the tiny reflection seen in it.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Corn piece that never hears a thing?",
+    "a": "EAR",
+    "fact": "An ear of corn usually has an even number of rows, often 16.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Fish covering, or bathroom weigher",
+    "a": "SCALE",
+    "fact": "The fish kind and the weighing kind come from different old words that met in English.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Kind of bean, bear or bird",
+    "a": "BLACK",
+    "fact": "Blackbirds sing some of the sweetest songs in an English garden.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Sticky situation?",
+    "a": "JAM",
+    "fact": "Jam has meant a tight spot since the early 1900s, from things squeezed together.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Something found in vein?",
+    "a": "ORE",
+    "fact": "Miners follow veins of ore through rock, a pun crossword makers can't resist.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Quick swim, or chip's partner",
+    "a": "DIP",
+    "fact": "The onion dip craze took off in the 1950s with a packet of soup mix.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Tree house?",
+    "a": "NEST",
+    "fact": "Some eagles reuse the same nest for decades, adding to it every year.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Pound, cup or pan follower",
+    "a": "CAKE",
+    "fact": "Pound cake got its name from its recipe: a pound each of butter, sugar, eggs and flour.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Garden bloom found in every eye",
+    "a": "IRIS",
+    "fact": "Named for the Greek goddess of the rainbow, for its many colors.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Palm fruit, or a night on the town",
+    "a": "DATE",
+    "fact": "Date palms have been grown in the Middle East for at least 6,000 years.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Word before fly, place or works",
+    "a": "FIRE",
+    "fact": "Fireflies light up to signal each other on warm summer evenings.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Dried plum, or trim a shrub",
+    "a": "PRUNE",
+    "fact": "The gardening sense comes from an old French word for cutting back vines.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Flatfish, or shoe bottom",
+    "a": "SOLE",
+    "fact": "Both come from Latin 'solea,' a sandal; the fish was thought to look like one.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Stable mother?",
+    "a": "MARE",
+    "fact": "A mare usually carries her foal for about eleven months.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Cattle call?",
+    "a": "MOO",
+    "fact": "A pun on the casting call, and one of crosswords' most beloved groaners.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Sunflower State",
+    "a": "KANSAS",
+    "fact": "Kansas grows so much wheat it has been called the breadbasket of the world.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Thanksgiving bird",
+    "a": "TURKEY",
+    "fact": "Benjamin Franklin once called the turkey a more respectable bird than the bald eagle.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Capital of Georgia",
+    "a": "ATLANTA",
+    "fact": "Atlanta was first called Terminus, because it marked the end of a railroad line.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Big Apple borough with Central Park",
+    "a": "MANHATTAN",
+    "fact": "Central Park covers 843 acres, bigger than the entire country of Monaco.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Orange root vegetable",
+    "a": "CARROT",
+    "fact": "The earliest cultivated carrots were purple and yellow; orange ones caught on in the 1600s.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Eight-armed sea creature",
+    "a": "OCTOPUS",
+    "fact": "An octopus has three hearts and blue blood.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Largest ocean",
+    "a": "PACIFIC",
+    "fact": "Magellan named the Pacific for its calm, peaceful waters.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Brass instrument with a slide",
+    "a": "TROMBONE",
+    "fact": "Trombone comes from the Italian for a big trumpet.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Honey maker's home",
+    "a": "BEEHIVE",
+    "fact": "Honeybees visit about two million flowers to make a single pound of honey.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Chicken ___ soup",
+    "a": "NOODLE",
+    "fact": "The word noodle comes from the German Nudel.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Yellow spring flower with a trumpet",
+    "a": "DAFFODIL",
+    "fact": "The daffodil is the national flower of Wales.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Frosty, for one",
+    "a": "SNOWMAN",
+    "fact": "A snowman appears in the margin of a Dutch prayer book from around 1380.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Room with a stove and sink",
+    "a": "KITCHEN",
+    "fact": "Kitchen comes from the Latin coquina, a place for cooking.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Rock-a-bye baby's bed",
+    "a": "CRADLE",
+    "fact": "Cradles have been rocking babies to sleep since at least the Middle Ages.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Capital of Texas",
+    "a": "AUSTIN",
+    "fact": "Austin is named for Stephen F. Austin, known as the Father of Texas.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Opposite of forget",
+    "a": "REMEMBER",
+    "fact": "Remember comes from the Latin memor, meaning mindful.",
+    "cat": "Words",
+    "d": 1
+  },
+  {
+    "q": "Treat made from cocoa beans",
+    "a": "CHOCOLATE",
+    "fact": "The Aztecs prized cacao beans so highly that they used them as money.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Largest U.S. state",
+    "a": "ALASKA",
+    "fact": "The name Alaska comes from an Aleut word meaning great land or mainland.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Pine or fir, for example",
+    "a": "EVERGREEN",
+    "fact": "Evergreens do shed needles, just a few at a time, so they never look bare.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Hawaii's capital",
+    "a": "HONOLULU",
+    "fact": "Honolulu means sheltered harbor in Hawaiian.",
+    "cat": "Places",
+    "d": 1
+  },
+  {
+    "q": "Swinging bed strung between trees",
+    "a": "HAMMOCK",
+    "fact": "Hammock comes from the Taino word hamaca, first seen by Europeans in the Caribbean.",
+    "cat": "Home",
+    "d": 1
+  },
+  {
+    "q": "Cool as a ___",
+    "a": "CUCUMBER",
+    "fact": "Cucumbers are about 95 percent water, which is why they taste so cool and crisp.",
+    "cat": "Food",
+    "d": 1
+  },
+  {
+    "q": "Animal with a trunk",
+    "a": "ELEPHANT",
+    "fact": "An elephant's trunk has about 40,000 muscles and can pick up a single peanut.",
+    "cat": "Nature",
+    "d": 1
+  },
+  {
+    "q": "Orchestra leader with a baton",
+    "a": "CONDUCTOR",
+    "fact": "Before batons, some conductors kept time by thumping a tall staff on the floor.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Fit as a ___",
+    "a": "FIDDLE",
+    "fact": "A fiddle and a violin are the same instrument; the difference is the style of music.",
+    "cat": "Music",
+    "d": 1
+  },
+  {
+    "q": "Grand Canyon carver",
+    "a": "COLORADO",
+    "fact": "Over millions of years the Colorado River cut the Grand Canyon more than a mile deep.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Kitchen whistler",
+    "a": "TEAKETTLE",
+    "fact": "A kettle whistles when steam rushes through a small hole in its spout, much like a flute.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Capital of Nebraska",
+    "a": "LINCOLN",
+    "fact": "Nebraska's capital was renamed from Lancaster to Lincoln in 1867.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Capital of Tennessee",
+    "a": "NASHVILLE",
+    "fact": "Nashville is known as Music City and is home to the Grand Ole Opry.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Hoosier State",
+    "a": "INDIANA",
+    "fact": "No one knows for sure where the nickname Hoosier came from, which is part of its charm.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Treasure State",
+    "a": "MONTANA",
+    "fact": "Montana's state motto, Oro y Plata, means gold and silver, the treasure behind its nickname.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Land of Lincoln",
+    "a": "ILLINOIS",
+    "fact": "Abraham Lincoln practiced law in Springfield, Illinois, before becoming president.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Mile High City",
+    "a": "DENVER",
+    "fact": "The 13th step of Colorado's Capitol is marked as one mile above sea level.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Capital of Canada",
+    "a": "OTTAWA",
+    "fact": "Queen Victoria chose Ottawa as the capital in 1857.",
+    "cat": "Places",
+    "d": 2
+  },
+  {
+    "q": "Gradual swell in volume, in music",
+    "a": "CRESCENDO",
+    "fact": "Crescendo is Italian for growing.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Barbershop foursome",
+    "a": "QUARTET",
+    "fact": "A barbershop quartet sings four parts: tenor, lead, baritone and bass.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Double-reed instrument lower than the oboe",
+    "a": "BASSOON",
+    "fact": "Unfolded, a bassoon's tube would stretch about eight feet long.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Instrument with mallet-struck wooden bars",
+    "a": "XYLOPHONE",
+    "fact": "Xylophone comes from Greek words meaning wood and sound.",
+    "cat": "Music",
+    "d": 2
+  },
+  {
+    "q": "Avocado dip",
+    "a": "GUACAMOLE",
+    "fact": "Guacamole comes from the Aztec word ahuacamolli, meaning avocado sauce.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Saffron rice dish of Spain",
+    "a": "PAELLA",
+    "fact": "Paella is named for the wide, shallow pan it is cooked in.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Whipped egg-white pie topping",
+    "a": "MERINGUE",
+    "fact": "Meringue is often said to be named for Meiringen, a village in Switzerland.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Cheese grated over spaghetti",
+    "a": "PARMESAN",
+    "fact": "True Parmigiano-Reggiano is aged at least a year, often two or more.",
+    "cat": "Food",
+    "d": 2
+  },
+  {
+    "q": "Below-ground level of a house",
+    "a": "BASEMENT",
+    "fact": "Before refrigerators, many families kept apples and potatoes cool in the basement.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Grandfather clock's swinger",
+    "a": "PENDULUM",
+    "fact": "Legend says Galileo found the pendulum's steady beat by watching a swaying church lamp.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Seamstress's fingertip shield",
+    "a": "THIMBLE",
+    "fact": "Thimbles were once treasured keepsakes, often given as love tokens.",
+    "cat": "Home",
+    "d": 2
+  },
+  {
+    "q": "Hullabaloo",
+    "a": "BROUHAHA",
+    "fact": "Brouhaha comes from French, where it meant a hubbub or uproar.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Every now and then",
+    "a": "SOMETIMES",
+    "fact": "Sometimes dates to the 1500s, built from sometime plus an adverb-making s.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Right away, informally",
+    "a": "PRONTO",
+    "fact": "Pronto came into American English from Spanish, where it means quick or soon.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Color-changing lizard",
+    "a": "CHAMELEON",
+    "fact": "A chameleon's eyes move independently, so it can look two ways at once.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Hummingbird's sip",
+    "a": "NECTAR",
+    "fact": "In Greek myth, nectar was the drink of the gods on Mount Olympus.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Wiener dog",
+    "a": "DACHSHUND",
+    "fact": "Dachshund means badger dog in German, for the burrows it was bred to explore.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Butter up",
+    "a": "FLATTER",
+    "fact": "Imitation, they say, is the sincerest form of flattery.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Throw in the towel",
+    "a": "SURRENDER",
+    "fact": "The phrase comes from boxing, where a trainer tosses in a towel to stop a bout.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Sitting on the fence",
+    "a": "UNDECIDED",
+    "fact": "Sitting on the fence has meant staying neutral since the early 1800s.",
+    "cat": "Words",
+    "d": 2
+  },
+  {
+    "q": "Crack of dawn",
+    "a": "SUNRISE",
+    "fact": "Air bends sunlight, so we see the sunrise a couple of minutes before the sun truly clears.",
+    "cat": "Nature",
+    "d": 2
+  },
+  {
+    "q": "Place for a bookworm?",
+    "a": "LIBRARY",
+    "fact": "Library comes from the Latin liber, meaning book.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "It's full of holes but still holds water",
+    "a": "SPONGE",
+    "fact": "Natural sponges are animals, among the simplest creatures in the sea.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Flower through London?",
+    "a": "THAMES",
+    "fact": "In crosswords a flower can be a river, since it flows; the Thames flows through London.",
+    "cat": "Places",
+    "d": 3
+  },
+  {
+    "q": "Flower past the Lincoln Memorial?",
+    "a": "POTOMAC",
+    "fact": "Cherry trees given by Japan in 1912 bloom beside the Potomac every spring.",
+    "cat": "Places",
+    "d": 3
+  },
+  {
+    "q": "It goes up when the rain comes down",
+    "a": "UMBRELLA",
+    "fact": "Umbrella comes from the Latin umbra, shade; the first ones were sunshades.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Sole man?",
+    "a": "COBBLER",
+    "fact": "Cobbler names both a shoe mender and a biscuit-topped fruit dessert.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "It has keys but opens no locks",
+    "a": "KEYBOARD",
+    "fact": "A standard piano keyboard has 52 white keys and 36 black keys.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Bridge builder?",
+    "a": "DENTIST",
+    "fact": "Dentists call a false tooth anchored to its neighbors a bridge.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "It has teeth but never bites, on a coat",
+    "a": "ZIPPER",
+    "fact": "B.F. Goodrich named the zipper in the 1920s, when he used it on rubber boots.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Place to find a date?",
+    "a": "CALENDAR",
+    "fact": "Calendar comes from the Latin kalendae, the first day of the Roman month.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Lead holder?",
+    "a": "PENCIL",
+    "fact": "Pencil lead is really graphite mixed with clay; it never contained lead at all.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Summer night light?",
+    "a": "FIREFLY",
+    "fact": "A firefly's glow is a cold light that gives off almost no heat.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "One with many pupils?",
+    "a": "TEACHER",
+    "fact": "An apple for the teacher is said to date from when families paid teachers in produce.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Crow's-feet?",
+    "a": "WRINKLES",
+    "fact": "Chaucer wrote of crow's feet under the eyes more than 600 years ago.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Key player?",
+    "a": "PIANIST",
+    "fact": "The piano's full name, pianoforte, means soft-loud in Italian.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "Bill collector at the beach?",
+    "a": "PELICAN",
+    "fact": "A brown pelican's pouch can hold about three gallons of water.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "One with a lot of pull in the harbor?",
+    "a": "TUGBOAT",
+    "fact": "Small but mighty, tugboats push and pull ships many times their own size.",
+    "cat": "Places",
+    "d": 3
+  },
+  {
+    "q": "Sweet potato, musically?",
+    "a": "OCARINA",
+    "fact": "The ocarina's plump, rounded shape earned it the nickname sweet potato.",
+    "cat": "Music",
+    "d": 3
+  },
+  {
+    "q": "The more you take, the more you leave behind",
+    "a": "FOOTSTEPS",
+    "fact": "An old favorite riddle: every step you take leaves another one behind you.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Drift clearer?",
+    "a": "SNOWPLOW",
+    "fact": "Early snowplows were wooden wedges pulled by teams of horses.",
+    "cat": "Home",
+    "d": 3
+  },
+  {
+    "q": "Pie chart?",
+    "a": "RECIPE",
+    "fact": "Recipe is Latin for take, the word that began old doctors' prescriptions.",
+    "cat": "Food",
+    "d": 3
+  },
+  {
+    "q": "Coat that grows on its wearer?",
+    "a": "FLEECE",
+    "fact": "One sheep's fleece can give enough wool to knit several sweaters.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Flower with a clock?",
+    "a": "DANDELION",
+    "fact": "Dandelion comes from the French dent de lion, lion's tooth, for its jagged leaves.",
+    "cat": "Nature",
+    "d": 3
+  },
+  {
+    "q": "Cry before a falling-out?",
+    "a": "TIMBER",
+    "fact": "Lumberjacks shout timber to warn everyone that a tree is about to fall.",
+    "cat": "Words",
+    "d": 3
+  },
+  {
+    "q": "Hot spring?",
+    "a": "GEYSER",
+    "fact": "Geyser comes from Geysir, a famous spouting hot spring in Iceland.",
+    "cat": "Nature",
+    "d": 3
+  }
+]

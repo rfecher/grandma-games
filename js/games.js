@@ -9,11 +9,6 @@ const Game = {
   choices: null,    /* its choices (per-question, or the game's fixed set) */
   view: null,       /* choices as displayed, plus the correct display index */
   answered: false,
-
-  /* This sitting only — never saved. */
-  streak: 0,
-  misses: 0,
-  nudged: {},
   skipAdvance: false,
 
   async start(key) {
@@ -155,64 +150,11 @@ const Game = {
       setTimeout(() => Speech.say(spoken), 900);
     }
 
-    if (right) {
-      Game.streak += 1;
-      Game.misses = 0;
-      const kid = Store.awardStar();
-      renderStarCount();
-      if (Store.data.total % CONFIG.CELEBRATE_EVERY === 0) {
-        setTimeout(() => celebrate(kid), 500);
-      } else {
-        toast('⭐ A star for ' + kid.name + '!');
-      }
-    } else {
-      Game.misses += 1;
-      Game.streak = 0;
-    }
-
-    Game.maybeOfferLevelChange();
-  },
-
-  /* After a hot streak, offer the next level up; after a rough patch, offer
-     to ease off. Each offer is made once per level per sitting, and she can
-     always say no. */
-  maybeOfferLevelChange() {
-    const lvl = Store.data.level;
-    const bank = Game.bank[Game.key];
-
-    const switchTo = (n) => {
-      Store.advance(Game.key, bank);       /* finish with this level's question */
-      Store.setLevel(n);
-      Game.skipAdvance = true;              /* the new level starts at its first question */
-      Game.streak = 0;
-      Game.misses = 0;
-      renderLevelChip();
-      toast(CONFIG.levels[n].name + ' questions from now on');
-    };
-
-    if (Game.streak >= CONFIG.NUDGE_UP_STREAK && lvl < 3 && !Game.nudged['up' + lvl]) {
-      Game.nudged['up' + lvl] = true;
-      const next = CONFIG.levels[lvl + 1].name;
-      setTimeout(() => Modal.show({
-        icon: '🎉',
-        msg: Game.streak + ' in a row! Want to try the ' + next + ' questions?',
-        yes: 'Yes, let\'s try ' + next,
-        no: 'Not right now',
-        speak: true,
-        onYes: () => switchTo(lvl + 1)
-      }), 900);
-    } else if (Game.misses >= CONFIG.NUDGE_DOWN_MISSES && lvl > 1 && !Game.nudged['down' + lvl]) {
-      Game.nudged['down' + lvl] = true;
-      const prev = CONFIG.levels[lvl - 1].name;
-      setTimeout(() => Modal.show({
-        icon: '💜',
-        msg: 'Those were tough ones! Want to switch to ' + prev + ' for a while?',
-        yes: 'Yes, ' + prev + ' please',
-        no: 'No, keep them coming',
-        speak: true,
-        onYes: () => switchTo(lvl - 1)
-      }), 900);
-    }
+    if (right) rewardCorrect();
+    Coach.record(right, () => {
+      Store.advance(Game.key, Game.bank[Game.key]);
+      Game.skipAdvance = true;
+    });
   },
 
   next() {

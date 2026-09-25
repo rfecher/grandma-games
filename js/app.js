@@ -205,16 +205,75 @@ function celebrate(kid) {
   Modal.show({ icon: '⭐', msg: msg, yes: 'Keep Going!', speak: true });
 }
 
+function rewardCorrect() {
+  const kid = Store.awardStar();
+  renderStarCount();
+  if (Store.data.total % CONFIG.CELEBRATE_EVERY === 0) setTimeout(() => celebrate(kid), 500);
+  else toast('⭐ A star for ' + kid.name + '!');
+}
+
+/* Streaks span every game in a sitting and are never saved. After a hot
+   streak it offers the next level up; after a rough patch, to ease off. Each
+   offer is made once per level per sitting, and she can always say no.
+   beforeSwitch lets the engine finish its current question at the old level. */
+const Coach = {
+  streak: 0,
+  misses: 0,
+  nudged: {},
+
+  record(right, beforeSwitch) {
+    if (right) { Coach.streak += 1; Coach.misses = 0; }
+    else { Coach.misses += 1; Coach.streak = 0; }
+
+    const lvl = Store.data.level;
+    const switchTo = (n) => {
+      beforeSwitch();
+      Store.setLevel(n);
+      Coach.streak = 0;
+      Coach.misses = 0;
+      renderLevelChip();
+      toast(CONFIG.levels[n].name + ' questions from now on');
+    };
+
+    if (Coach.streak >= CONFIG.NUDGE_UP_STREAK && lvl < 3 && !Coach.nudged['up' + lvl]) {
+      Coach.nudged['up' + lvl] = true;
+      const next = CONFIG.levels[lvl + 1].name;
+      setTimeout(() => Modal.show({
+        icon: '🎉',
+        msg: Coach.streak + ' in a row! Want to try the ' + next + ' questions?',
+        yes: 'Yes, let\'s try ' + next,
+        no: 'Not right now',
+        speak: true,
+        onYes: () => switchTo(lvl + 1)
+      }), 900);
+    } else if (Coach.misses >= CONFIG.NUDGE_DOWN_MISSES && lvl > 1 && !Coach.nudged['down' + lvl]) {
+      Coach.nudged['down' + lvl] = true;
+      const prev = CONFIG.levels[lvl - 1].name;
+      setTimeout(() => Modal.show({
+        icon: '💜',
+        msg: 'Those were tough ones! Want to switch to ' + prev + ' for a while?',
+        yes: 'Yes, ' + prev + ' please',
+        no: 'No, keep them coming',
+        speak: true,
+        onYes: () => switchTo(lvl - 1)
+      }), 900);
+    }
+  }
+};
+
 function renderStarCount() {
-  const el = $('star-count');
-  el.querySelector('b').textContent = Store.data.total;
-  el.classList.remove('bump');
-  void el.offsetWidth;
-  el.classList.add('bump');
+  document.querySelectorAll('.star-count').forEach((el) => {
+    el.querySelector('b').textContent = Store.data.total;
+    el.classList.remove('bump');
+    void el.offsetWidth;
+    el.classList.add('bump');
+  });
 }
 
 function renderLevelChip() {
-  $('level-chip').textContent = CONFIG.levels[Store.data.level].name;
+  document.querySelectorAll('.level-chip').forEach((el) => {
+    el.textContent = CONFIG.levels[Store.data.level].name;
+  });
 }
 
 /* ---------------------------------------------------------------- home    */
@@ -223,15 +282,9 @@ function renderHome() {
   const part = h < 12 ? 'Good morning' : h < 17 ? 'Good afternoon' : 'Good evening';
   $('greeting').textContent = part + ', ' + CONFIG.playerName + '!';
 
-  const last = Store.data.last;
-  const btn = $('resume-btn');
-  if (last && CONFIG.games[last]) {
-    $('resume-name').textContent = CONFIG.games[last].title;
-    btn.hidden = false;
-    btn.dataset.go = last;
-  } else {
-    btn.hidden = true;
-  }
+  document.querySelectorAll('#screen-home [data-go]').forEach((b) => {
+    b.classList.toggle('is-last', b.dataset.go === Store.data.last);
+  });
 
   document.querySelectorAll('.seg-btn').forEach((b) => {
     b.classList.toggle('is-active', Number(b.dataset.level) === Store.data.level);
@@ -271,6 +324,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!go) return;
     const dest = go.dataset.go;
     if (dest === 'stars') { renderStars(); show('stars'); }
+    else if (CONFIG.games[dest].type === 'word') { WordGame.start(dest); }
     else { Game.start(dest); }
   });
 
@@ -286,6 +340,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   $('btn-home').addEventListener('click', () => { renderHome(); show('home'); });
   $('btn-home2').addEventListener('click', () => { renderHome(); show('home'); });
+  $('btn-home3').addEventListener('click', () => { renderHome(); show('home'); });
 
   $('modal-yes').addEventListener('click', () => Modal.close(true));
   $('modal-no').addEventListener('click', () => Modal.close(false));

@@ -1,7 +1,7 @@
 /* Caches everything on the first visit so the games keep working with no
    internet. Bump CACHE when you change any file. */
 
-const CACHE = 'grandma-games-v2';
+const CACHE = 'grandma-games-v3';
 
 const FILES = [
   './',
@@ -11,10 +11,12 @@ const FILES = [
   'js/config.js',
   'js/app.js',
   'js/games.js',
+  'js/wordgame.js',
   'data/trivia.json',
   'data/lines.json',
   'data/remember.json',
   'data/decades.json',
+  'data/crossword.json',
   'icons/icon-192.png',
   'icons/icon-512.png'
 ];
