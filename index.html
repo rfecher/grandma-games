@@ -33,9 +33,9 @@
     <p class="greeting" id="greeting">Hello, Grandma!</p>
     <h1 class="home-title">Your Games</h1>
 
-    <button class="big-btn resume-btn" id="resume-btn" hidden>
-      <span class="btn-icon">▶</span>
-      <span class="btn-text">Keep Playing<small id="resume-name"></small></span>
+    <button class="big-btn" data-go="crossword">
+      <span class="btn-icon">🧩</span>
+      <span class="btn-text">Crossword Clues<small>Tap the letters &mdash; no typing</small></span>
     </button>
 
     <button class="big-btn" data-go="trivia">
@@ -63,8 +63,8 @@
 <!-- ============ GAME ============ -->
 <section id="screen-game" class="screen">
   <div class="topbar">
-    <div class="chip level-chip" id="level-chip">Medium</div>
-    <div class="chip star-chip" id="star-count"><span>⭐</span><b>0</b></div>
+    <div class="chip level-chip">Medium</div>
+    <div class="chip star-chip star-count"><span>⭐</span><b>0</b></div>
     <button class="icon-btn" id="btn-home" aria-label="Back to the games list">✕</button>
   </div>
 
@@ -85,6 +85,46 @@
 
     <button class="big-btn next-btn" id="btn-next" hidden>
       <span class="btn-text">Next Question</span>
+      <span class="btn-icon">➜</span>
+    </button>
+  </div>
+</section>
+
+<!-- ============ CROSSWORD ============ -->
+<section id="screen-word" class="screen">
+  <div class="topbar">
+    <div class="chip level-chip">Medium</div>
+    <div class="chip star-chip star-count"><span>⭐</span><b>0</b></div>
+    <button class="icon-btn" id="btn-home3" aria-label="Back to the games list">✕</button>
+  </div>
+
+  <div class="col col-game">
+    <div class="card" id="w-card">
+      <p class="q-cat" id="w-cat"></p>
+      <p class="q-text" id="w-clue">Loading…</p>
+      <button class="speak-btn" id="w-speak" aria-label="Read this out loud">🔊 Read it to me</button>
+    </div>
+
+    <div class="squares" id="w-squares"></div>
+
+    <div id="w-play">
+      <p class="w-note" id="w-note" aria-live="polite"></p>
+      <div class="tiles" id="w-tiles"></div>
+      <div class="w-actions">
+        <button class="act-btn" id="w-back">⌫ Take back</button>
+        <button class="act-btn" id="w-hint">💡 Give me a letter</button>
+        <button class="act-btn act-reveal" id="w-reveal" hidden>Show me the answer</button>
+      </div>
+    </div>
+
+    <div class="feedback" id="w-feedback" hidden>
+      <p class="fb-head" id="w-fb-head"></p>
+      <p class="fb-answer" id="w-fb-answer"></p>
+      <p class="fb-fact" id="w-fb-fact"></p>
+    </div>
+
+    <button class="big-btn next-btn" id="w-next" hidden>
+      <span class="btn-text">Next Clue</span>
       <span class="btn-icon">➜</span>
     </button>
   </div>
@@ -123,5 +163,6 @@
 <script src="js/config.js"></script>
 <script src="js/app.js"></script>
 <script src="js/games.js"></script>
+<script src="js/wordgame.js"></script>
 </body>
 </html>
